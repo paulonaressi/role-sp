@@ -25,7 +25,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Parque da Cidade",
@@ -49,11 +50,12 @@
   "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Campo Limpo",
@@ -81,7 +83,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Plaza Sul Shopping",
@@ -105,11 +108,12 @@
   "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Metrô Itaquera",
@@ -133,11 +137,12 @@
   "regiao": "Zona Leste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Cantareira Norte",
@@ -165,7 +170,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Ibirapuera",
@@ -193,7 +199,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Mais Shopping",
@@ -221,7 +228,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Penha",
@@ -249,7 +257,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Cidade São Paulo",
@@ -273,11 +282,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - West Plaza Shopping",
@@ -305,7 +315,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Taboão Shopping",
@@ -333,7 +344,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Parque Shopping Barueri",
@@ -357,11 +369,12 @@
   "regiao": "Grande SP",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Shopping Internacional Guarulhos",
@@ -385,11 +398,12 @@
   "regiao": "Grande SP",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Golden Square Shopping",
@@ -413,11 +427,12 @@
   "regiao": "Grande SP",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Mogi Shopping",
@@ -445,7 +460,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - Praiamar Shopping",
@@ -469,11 +485,12 @@
   "regiao": "Interior/Litoral",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Chegada do Papai Noel - ParkCity Sumaré",
@@ -501,7 +518,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G"
+  "fonte": "Portal G",
+  "promocao": null
  },
  {
   "titulo": "Festival de Música Infantil GRAACC no Parque do Povo",
@@ -523,22 +541,23 @@
   "bairro": "Itaim Bibi",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 0,
+  "preco_min": 0.0,
   "preco_max": null,
   "gratuito": true,
   "faixa_etaria": "Todas as idades",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/festival-de-musica-graacc-sp/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Family Fest by Hasbro",
   "categoria": "infantil",
   "subcategoria": "experiência imersiva",
-  "descricao": "Vila de brincadeiras com sete cenários de Peppa Pig, Play-Doh, My Little Pony, Furby, NERF, Transformers e Monopoly. Entrada com horário agendado.",
+  "descricao": "Vila de brincadeiras com cenários de Peppa Pig, Play-Doh, My Little Pony, Furby, NERF, Transformers e Monopoly. Horário agendado; menores de 2 anos não pagam.",
   "tipo_data": "temporada",
   "datas": null,
-  "inicio": "2026-11-03",
+  "inicio": "2026-10-08",
   "fim": "2026-11-29",
   "dias_horarios": "terça a domingo; ingressos a partir das 10h, com agendamento",
   "local": "Shopping Eldorado",
@@ -546,13 +565,20 @@
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 25,
-  "preco_max": 150,
+  "preco_min": 25.0,
+  "preco_max": 150.0,
   "gratuito": false,
   "faixa_etaria": "Todas as idades",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/family-fest-by-hasbro-sp/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": {
+   "texto": "Entrada Combo 3x2: três ingressos pelo preço de dois, conforme disponibilidade da sessão",
+   "validade": null,
+   "link": "https://saopauloparacriancas.com.br/family-fest-by-hasbro-sp/",
+   "fonte": "São Paulo para Crianças",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Villa de Natal São Paulo 2026",
@@ -575,7 +601,8 @@
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.ticketmaster.com.br/event/villa-de-natal-sao-paulo-2026",
-  "fonte": "Ticketmaster"
+  "fonte": "Ticketmaster",
+  "promocao": null
  },
  {
   "titulo": "João, Joãozinho, Joãozito",
@@ -586,42 +613,44 @@
   "datas": null,
   "inicio": "2026-11-03",
   "fim": "2026-12-13",
-  "dias_horarios": "quintas e sextas 11h; sábados e domingos 15h",
+  "dias_horarios": "sábados 15h, domingos 14h (qui e sex 11h só para grupos); sessões de fim de semana com Libras e audiodescrição",
   "local": "Teatro do SESI-SP",
-  "endereco": "Av. Paulista, 1313",
+  "endereco": "Av. Paulista, 1.313 (Centro Cultural Fiesp)",
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
+  "preco_min": 0.0,
   "preco_max": null,
   "gratuito": true,
-  "faixa_etaria": null,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sesisp.org.br/cultura/musical-inedito-sobre-a-infancia-de-joao-guimaraes-rosa-estreia-no-teatro-do-sesi-sp",
-  "fonte": "Catraca Livre / São Paulo para Crianças"
+  "fonte": "Sesi SP",
+  "promocao": null
  },
  {
-  "titulo": "O Bocejo da Serpente",
-  "categoria": "infantil",
-  "subcategoria": "teatro",
-  "descricao": "Quatro atrizes descobrem que seus poemas e desenhos sumiram e partem em busca deles por meio de brincadeiras poéticas. Duração de cerca de 50 minutos.",
+  "titulo": "O bocejo da serpente",
+  "categoria": "teatro",
+  "subcategoria": "infantil / poesia",
+  "descricao": "Espetáculo lúdico sobre a busca por poemas perdidos, inspirado no livro homônimo de Antônia Gomes Minchoni.",
   "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-03",
+  "datas": [],
+  "inicio": "2026-08-02",
   "fim": "2026-11-29",
-  "dias_horarios": "domingos, 16h; ingresso gratuito com reserva",
+  "dias_horarios": "domingos 16h (ingressos gratuitos pelo Inti, na terça anterior)",
   "local": "Itaú Cultural",
   "endereco": "Av. Paulista, 149",
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": null,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.itaucultural.org.br/secoes/agenda/o-bocejo-da-serpente-aborda-a-poetica-e-o-ludico-na-busca-por-poesias-perdidas",
-  "fonte": "Itaú Cultural"
+  "fonte": "Itaú Cultural",
+  "promocao": null
  },
  {
   "titulo": "O Show da Luna no Planetário",
@@ -630,8 +659,8 @@
   "descricao": "Sessão musical e interativa sobre o espaço, em que a Luna responde perguntas como por que as estrelas cintilam. Dura cerca de 40 minutos; a sala é gelada.",
   "tipo_data": "temporada",
   "datas": null,
-  "inicio": "2026-11-03",
-  "fim": "2026-12-01",
+  "inicio": "2026-11-04",
+  "fim": null,
   "dias_horarios": "sessão às 13h (dias da semana não informados na página)",
   "local": "Planetário do Parque Ibirapuera",
   "endereco": "Parque Ibirapuera",
@@ -640,11 +669,12 @@
   "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://agendaculturalsaopaulo.com/eventos/sessao-infantil-o-show-da-luna-no-planetario-no-parque-ibirapuera-788/",
-  "fonte": "Agenda Cultural São Paulo"
+  "fonte": "Agenda Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Candlelight Babies",
@@ -670,13 +700,14 @@
   "bairro": "Ibirapuera",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 45,
-  "preco_max": 285,
+  "preco_min": 45.0,
+  "preco_max": 285.0,
   "gratuito": false,
   "faixa_etaria": "0 a 3 anos",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/candlelight-babies-sp/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "O Violinista Mosca Morta",
@@ -710,13 +741,14 @@
   "bairro": "Itaim Bibi",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 40,
+  "preco_min": 40.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/teatro-b32-programacao-infantil-abril-2025/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Musical in Concert: Temas de O Rei Leão",
@@ -738,13 +770,14 @@
   "bairro": "Itaim Bibi",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 40,
+  "preco_min": 40.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/teatro-b32-programacao-infantil-abril-2025/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Entre Contos e Telas",
@@ -766,13 +799,14 @@
   "bairro": "Vila Romana",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 30,
-  "preco_max": 60,
+  "preco_min": 30.0,
+  "preco_max": 60.0,
   "gratuito": false,
   "faixa_etaria": "Todas as idades",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/galpao-de-bonecos-teatro/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Encantaria Brincante (Mafê)",
@@ -794,36 +828,43 @@
   "bairro": "Centro",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
+  "preco_min": 0.0,
   "preco_max": null,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/pecas-infantis-cartaz-sao-paulo/",
-  "fonte": "São Paulo para Crianças"
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Museu da Imaginação",
   "categoria": "infantil",
-  "subcategoria": "exposição interativa",
-  "descricao": "Museu com 2.000 m² de ambientes imersivos e brincadeira livre, que estimulam a imaginação e o faz de conta de toda a família.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-03",
-  "fim": "2026-12-04",
-  "dias_horarios": null,
+  "subcategoria": "museu",
+  "descricao": "Museu lúdico para crianças pequenas, com instalações para brincar e explorar. Promo do mês R$120; às quartas R$79,90. Até 1 ano e 11 meses não pagam.",
+  "tipo_data": "permanente",
+  "datas": [],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": "Fechado seg; dias úteis 9h-17h (fonte secundária indica qua a sex); sáb, dom e feriados 9h-18h",
   "local": "Museu da Imaginação",
-  "endereco": "Rua Ricardo Cavatton, 251",
-  "bairro": "Lapa",
+  "endereco": "Rua Virgílio Wey, 100",
+  "bairro": "Água Branca",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": "Todas as idades",
+  "preco_min": 79.9,
+  "preco_max": 260.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
-  "link": "https://agendaculturalsaopaulo.com/eventos/museu-da-imaginacao-em-sao-paulo/",
-  "fonte": "Agenda Cultural São Paulo"
+  "link": "https://www.museudaimaginacao.org.br/ingressos/",
+  "fonte": "Site oficial Museu da Imaginação",
+  "gratis_crianca": {
+   "regra": "bebês de 0 a 1 ano e 11 meses não pagam",
+   "idade_max_meses": 23,
+   "verificado_em": "2026-11-04"
+  },
+  "promocao": null
  },
  {
   "titulo": "PiraPop Park",
@@ -832,8 +873,8 @@
   "descricao": "Parque coberto com circuito inflável, camas elásticas, piscina de bolinhas em área para bebês e cantinhos de faz de conta.",
   "tipo_data": "temporada",
   "datas": null,
-  "inicio": "2026-11-03",
-  "fim": "2026-11-28",
+  "inicio": "2026-11-04",
+  "fim": "2026-11-29",
   "dias_horarios": "qua a sex 12h-18h; sáb, dom e feriados 12h-19h",
   "local": "PiraPop Park",
   "endereco": "R. Adolfo Gordo, 139",
@@ -842,11 +883,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Todas as idades",
   "bom_para_criancas": true,
   "link": "https://agendaculturalsaopaulo.com/eventos/pirapop-park-no-sp/",
-  "fonte": "Agenda Cultural São Paulo"
+  "fonte": "Agenda Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Natal by Expoflora 2026",
@@ -869,7 +911,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.passeios.org/eventos/natal-by-expoflora-2026em-holambra/",
-  "fonte": "Passeios"
+  "fonte": "Passeios",
+  "promocao": null
  },
  {
   "titulo": "Vila Natal - Encanto e Magia",
@@ -892,7 +935,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.passeios.org/eventos/vila-natal-encanto-e-magia-2026-sao-jose-dos-campos/",
-  "fonte": "Passeios"
+  "fonte": "Passeios",
+  "promocao": null
  },
  {
   "titulo": "Circuito de Árvores Empresariais IDEA",
@@ -916,17 +960,18 @@
   "regiao": "Interior/Litoral",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.passeios.org/eventos/natal-perto-de-sao-paulo-em-2026/",
-  "fonte": "Passeios"
+  "fonte": "Passeios",
+  "promocao": null
  },
  {
   "titulo": "Cirque du Soleil: Alegría",
   "categoria": "infantil",
   "subcategoria": "circo",
-  "descricao": "Últimas semanas da montagem Alegría sob a lona no Villa-Lobos; programa de circo para a família. Temporada vai até 08/11.",
+  "descricao": "Últimos dias da montagem Alegría sob a grande tenda no Villa-Lobos, com cerca de 2h15 de duração; mais indicada para crianças em idade escolar.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -936,6 +981,30 @@
    {
     "data": "2026-11-05",
     "hora": "20:00"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-07",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-07",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "19:00"
    }
   ],
   "inicio": null,
@@ -946,12 +1015,1023 @@
   "bairro": "Alto de Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
+  "preco_min": 396.0,
+  "preco_max": 985.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre (menores de 14 com responsável)",
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/artist/cirque-du-soleil-alegria/cirque-du-soleil-alegria-sp-4092554/",
+  "fonte": "Eventim",
+  "promocao": null
+ },
+ {
+  "titulo": "Por Trás dos Panos - Teatro Infantil",
+  "categoria": "infantil",
+  "subcategoria": "visita aos bastidores",
+  "descricao": "Visita guiada aos bastidores do Teatro do Sesi para crianças com responsáveis: história do teatro e como se monta uma peça. Com Libras; reserva gratuita.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "13:30"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "13:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro do SESI-SP",
+  "endereco": "Av. Paulista, 1.313 (Centro Cultural Fiesp)",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.sesisp.org.br/evento/cc3a2838-aa2f-45d9-869b-ca3e057944a6/por-tras-dos-panos-teatro-infantil",
+  "fonte": "Sesi SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Percy Jackson - O Ladrão de Raios: O Musical",
+  "categoria": "infantil",
+  "subcategoria": "musical",
+  "descricao": "Musical da Broadway baseado no livro de Rick Riordan, com cerca de 2h e intervalo; melhor para crianças em idade escolar. Até 24 meses no colo não pagam.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-10-10",
+  "fim": "2026-11-29",
+  "dias_horarios": "qui e sex 20h; sáb 16h e 20h30; dom 15h e 19h30",
+  "local": "Teatro Liberdade",
+  "endereco": "Rua São Joaquim, 129",
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 70.0,
+  "preco_max": 340.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://saopauloparacriancas.com.br/percy-jackson-musical/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Monopoly Experience: Tesouros do Brasil",
+  "categoria": "infantil",
+  "subcategoria": "experiência interativa",
+  "descricao": "O tabuleiro do Monopoly vira jogo em tamanho real, com desafios e investimentos inspirados em lugares brasileiros. Crianças até 4 anos não pagam.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-09-16",
+  "fim": "2026-11-15",
+  "dias_horarios": "ter a qui 12h-21h; sex e sáb 11h-21h; dom e feriados 12h-20h",
+  "local": "Shopping Cidade São Paulo",
+  "endereco": "Av. Paulista, 1.230",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 25.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "Todas as idades",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/monopoly-experience/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": {
+   "texto": "Cupom SPCRIANCAS dá até 10% de desconto na inteira (não cumulativo)",
+   "validade": "2026-11-15",
+   "link": "https://saopauloparacriancas.com.br/monopoly-experience/",
+   "fonte": "São Paulo para Crianças",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Árvore de Natal Coca-Cola no Parque Villa-Lobos",
+  "categoria": "infantil",
+  "subcategoria": "Natal / árvore iluminada",
+  "descricao": "10ª edição da árvore iluminada no Villa-Lobos, com cenários, espaço do Papai Noel e circuito imersivo Escola de Noéis (inscrição online). Luzes acesas das 19h à meia-noite.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-14",
+  "fim": "2027-01-05",
+  "dias_horarios": "horário do parque; luzes diariamente 19h-0h; Escola de Noéis sex a dom 10h-20h",
+  "local": "Parque Villa-Lobos",
+  "endereco": null,
+  "bairro": "Alto de Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/arvore-natal-sao-paulo-parque-villa-lobos/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Caravana de Natal Coca-Cola em São Paulo",
+  "categoria": "infantil",
+  "subcategoria": "Natal / desfile de caminhões",
+  "descricao": "Caminhões iluminados da Coca-Cola desfilam pela capital; em 14/11 a passagem coincide com a inauguração da árvore. Começa por volta das 18h30-19h; roteiro no site oficial.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": null
+   },
+   {
+    "data": "2026-11-13",
+    "hora": null
+   },
+   {
+    "data": "2026-11-14",
+    "hora": null
+   },
+   {
+    "data": "2026-11-15",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": null,
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/caravana-natal-coca-cola-caminhoes-iuminados/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Fábrica dos Sonhos de Natal - O Musical",
+  "categoria": "infantil",
+  "subcategoria": "musical de Natal",
+  "descricao": "Aventura musical natalina em curtíssima temporada no teatro do Shopping Metrô Tatuapé.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-21",
+  "fim": "2026-12-13",
+  "dias_horarios": null,
+  "local": "Teatro Shopping Metrô Tatuapé (Sala Léa Garcia)",
+  "endereco": "Rua Domingos Agostim, 91",
+  "bairro": "Tatuapé",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
-  "link": "https://www.eventim.com.br/artist/cirque-du-soleil-alegria/cirque-du-soleil-alegria-sp-4092554/",
-  "fonte": "Eventim"
+  "link": "https://fabricadossonhosmusical.com.br/",
+  "fonte": "Fábrica dos Sonhos Musical / São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "A Fabulosa Casa do Natal Mágico",
+  "categoria": "infantil",
+  "subcategoria": "experiência de Natal",
+  "descricao": "Experiência natalina de cerca de quatro horas no Espaço GAP, com atividades temáticas (algumas cobradas à parte). Fonte traz valores divergentes; confira antes.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-19",
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço GAP",
+  "endereco": "Av. Professor Fonseca Rodrigues, 255",
+  "bairro": "Alto de Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 280.0,
+  "preco_max": 700.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/?p=298242",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "O Natal de Dom Quixote e Sancho Pança",
+  "categoria": "infantil",
+  "subcategoria": "teatro de Natal",
+  "descricao": "Espetáculo natalino com a dupla de Cervantes em temporada curta no Teatro Mooca.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-08",
+  "fim": "2026-11-20",
+  "dias_horarios": null,
+  "local": "Teatro Mooca",
+  "endereco": "Rua Capitão Pacheco e Chaves, 313",
+  "bairro": "Mooca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://saopauloparacriancas.com.br/?p=298242",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Festival de Natal Universo MSP - Natal dos Sonhos",
+  "categoria": "infantil",
+  "subcategoria": "Natal / festival",
+  "descricao": "Natal da Turma da Mônica no Parque Capivari, com shows, peça Turma da Mônica e a Noite de Natal e Cine Gibi gratuitos. Comida e brinquedos cobrados à parte.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-06",
+  "fim": "2027-01-10",
+  "dias_horarios": "dom a qui 9h-19h; sex e sáb 9h-20h; sessões 11h, 14h, 16h, 18h e 20h em 7, 14, 21 e 28/11",
+  "local": "Parque Capivari",
+  "endereco": null,
+  "bairro": "Capivari",
+  "cidade": "Campos do Jordão",
+  "regiao": "Interior/Litoral",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "Todas as idades",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/natal-em-campos-do-jordao/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Nós e Ninhos, Roupa de Brincar (Sesc 14 Bis)",
+  "categoria": "infantil",
+  "subcategoria": "brincar com bebês",
+  "descricao": "Tecidos viram ninhos, capas e esconderijos para bebês brincarem junto com os cuidadores.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-01",
+  "fim": "2026-11-29",
+  "dias_horarios": "sáb, dom e feriado, 10h-12h",
+  "local": "Sesc 14 Bis",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 3 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Brinquedos Naturalizados (Sesc 14 Bis)",
+  "categoria": "infantil",
+  "subcategoria": "instalação de brincar",
+  "descricao": "Instalação com brinquedos de bambu e madeira para se movimentar e encarar pequenos desafios.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-04",
+  "fim": "2026-12-30",
+  "dias_horarios": "ter a sáb 10h-19h45; dom 10h-18h",
+  "local": "Sesc 14 Bis",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "a partir de 4 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Musicalização para Bebês (Sesc Santana)",
+  "categoria": "infantil",
+  "subcategoria": "música para bebês",
+  "descricao": "Cantigas e jogos sonoros para a primeira infância, com participação dos adultos.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-08",
+  "fim": "2026-11-29",
+  "dias_horarios": "domingos e feriado, 10h-12h",
+  "local": "Sesc Santana",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 3 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Primeiros Afrobrincares (Sesc Campo Limpo)",
+  "categoria": "infantil",
+  "subcategoria": "brincar com bebês",
+  "descricao": "Música, oralidade e brincadeiras afro-brasileiras para bebês e cuidadores.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-01",
+  "fim": "2026-11-29",
+  "dias_horarios": "domingos, 14h-16h",
+  "local": "Sesc Campo Limpo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Inventatório (Sesc Consolação)",
+  "categoria": "infantil",
+  "subcategoria": "instalação de brincar",
+  "descricao": "Instalação com peças modulares para encaixar e inventar formas.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-01",
+  "fim": "2026-12-13",
+  "dias_horarios": "sáb, dom e feriado, 15h-17h",
+  "local": "Sesc Consolação",
+  "endereco": "Rua Doutor Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Avoar (Sesc Belenzinho)",
+  "categoria": "infantil",
+  "subcategoria": "brincar",
+  "descricao": "Brincadeiras de faz de conta com aviões e asas de papel.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-10-31",
+  "fim": "2026-11-15",
+  "dias_horarios": "sáb, dom e feriado, 10h-13h e 15h-18h",
+  "local": "Sesc Belenzinho",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Tamanduateí: Perto Daqui Tem um Rio (Sesc Belenzinho)",
+  "categoria": "infantil",
+  "subcategoria": "brincar",
+  "descricao": "Brincadeiras sobre o rio Tamanduateí e o nascimento de São Paulo.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-21",
+  "fim": "2026-12-13",
+  "dias_horarios": "sáb e dom, 10h-13h e 15h-18h",
+  "local": "Sesc Belenzinho",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Planeta Pelúcia (Sesc Belenzinho)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Peça sobre uma criança que quer crescer antes da hora.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-10-24",
+  "fim": "2026-11-28",
+  "dias_horarios": "sáb, dom e feriado, 12h",
+  "local": "Sesc Belenzinho",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "#Sextinha! (Sesc Pinheiros)",
+  "categoria": "infantil",
+  "subcategoria": "brincar sensorial",
+  "descricao": "Brincadeiras sensoriais com texturas, cores e formas nas tardes de sexta.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-04",
+  "fim": "2026-11-27",
+  "dias_horarios": "sextas, 15h30-16h30",
+  "local": "Sesc Pinheiros",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Arquitetando (Sesc Pinheiros)",
+  "categoria": "infantil",
+  "subcategoria": "jogos de construção",
+  "descricao": "Jogos de construção em duas e três dimensões para os pequenos.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-07",
+  "fim": "2026-11-29",
+  "dias_horarios": "sáb e dom, 11h-14h",
+  "local": "Sesc Pinheiros",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Brincar Junto (Sesc Casa Verde)",
+  "categoria": "infantil",
+  "subcategoria": "brincar livre",
+  "descricao": "Espaço para brincar livremente em grupo, com crianças e adultos.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-07",
+  "fim": "2026-11-29",
+  "dias_horarios": "sáb, dom e feriado, 13h-15h e 16h30-17h30",
+  "local": "Sesc Casa Verde",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Brincadeiras da Mata Encantada (Sesc Vila Mariana)",
+  "categoria": "infantil",
+  "subcategoria": "brincar",
+  "descricao": "Brincadeiras coletivas ligadas à natureza e aos quintais; senhas 30 min antes.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-04",
+  "fim": "2026-11-28",
+  "dias_horarios": "sábados e feriado, 16h-17h30",
+  "local": "Sesc Vila Mariana",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Maré de Histórias (Sesc 24 de Maio)",
+  "categoria": "infantil",
+  "subcategoria": "leitura e oficina",
+  "descricao": "Leituras compartilhadas seguidas de atividades manuais.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-07",
+  "fim": "2026-11-28",
+  "dias_horarios": "sábados, 11h-12h",
+  "local": "Sesc 24 de Maio",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Brincantes (Sesc Santana)",
+  "categoria": "infantil",
+  "subcategoria": "brincar",
+  "descricao": "Vivência de brincadeiras com raízes afro-brasileiras.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-07",
+  "fim": "2026-11-29",
+  "dias_horarios": "sáb e dom, 15h-18h",
+  "local": "Sesc Santana",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Kizombinha (Sesc Itaquera)",
+  "categoria": "infantil",
+  "subcategoria": "brincar",
+  "descricao": "Três dias de brincadeiras e atividades lúdicas ligadas à cultura afro-brasileira.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "10:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Itaquera",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Asas à Imaginação: Brinquedos que Voam! (Sesc Itaquera)",
+  "categoria": "infantil",
+  "subcategoria": "oficina",
+  "descricao": "Construção e lançamento de aviões, frisbees e paraquedas.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "10:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Itaquera",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "3 a 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Itan e Tal (Sesc Bom Retiro)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Jornada de Nati para descobrir o significado do seu nome e sua história afro-indígena (Festival Omodé).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Bom Retiro",
+  "endereco": "Alameda Nothmann, 185",
+  "bairro": "Campos Elíseos",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Neguinha, Sim! O Espetáculo (Sesc Bom Retiro)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Viagem de uma menina com a mãe, com música e fantasia (Festival Omodé).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Bom Retiro",
+  "endereco": "Alameda Nothmann, 185",
+  "bairro": "Campos Elíseos",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "A Bela Adormecida (Sesc Bom Retiro)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Adaptação do conto clássico ambientada num reino africano (Festival Omodé).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-19",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Bom Retiro",
+  "endereco": "Alameda Nothmann, 185",
+  "bairro": "Campos Elíseos",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Rei Menino (Sesc Bom Retiro)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Pepê descobre as coroações de reis e rainhas na Penha (Festival Omodé).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Bom Retiro",
+  "endereco": "Alameda Nothmann, 185",
+  "bairro": "Campos Elíseos",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Obompó-Roponga: A Encantaria das Árvores (Sesc Pompeia)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Espetáculo gratuito inspirado num conto bantu sobre a árvore da vida.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "16:30"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "16:30"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "16:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pompeia",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Boca-Piu (Sesc Casa Verde)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Espetáculo sobre coragem, amizade e reconstrução coletiva; ingressos grátis distribuídos a partir do meio-dia.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Casa Verde",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Aguaceiro de Menino Bentu (Sesc Pinheiros)",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Espetáculo sobre a busca do menino Bentu por água; ingressos grátis retirados 30 min antes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "15:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pinheiros",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Corpo Brinquedo (Sesc São Caetano)",
+  "categoria": "infantil",
+  "subcategoria": "oficina",
+  "descricao": "Crianças e adultos contornam o corpo em papel gigante e brincam com o desenho; senhas 30 min antes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc São Caetano",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Caetano do Sul",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "3 a 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Festejo de bRinCá! (Sesc Santo André)",
+  "categoria": "infantil",
+  "subcategoria": "brincar musical",
+  "descricao": "Brincadeiras inspiradas no coco de roda, maracatu e ciranda.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Santo André",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Santo André",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": null,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Tiquequê – Show Coleções",
+  "categoria": "infantil",
+  "subcategoria": "show infantil",
+  "descricao": "Novo show do duo Tiquequê sobre a mania de colecionar, com canções inéditas, sucessos como 'Bota Ovo', projeções e Libras.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Bradesco",
+  "endereco": "Rua Palestra Itália, 500 (Bourbon Shopping, 3º piso)",
+  "bairro": "Perdizes",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 20.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "Livre (até 24 meses no colo não pagam)",
+  "bom_para_criancas": true,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/tiqueque-show-colecoes-16361",
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "50% de desconto para clientes Bradesco e Next (limite de 260 ingressos)",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/tiqueque-show-colecoes-16361",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
  }
 ]

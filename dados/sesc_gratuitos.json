@@ -1,5 +1,29 @@
 [
  {
+  "titulo": "Barulhos",
+  "categoria": "infantil",
+  "subcategoria": "teatro",
+  "descricao": "Peça da 28 Patas Furiosas criada a partir de sonhos de crianças paulistanas: Rosa, de luto pela avó, viaja por uma cidade de sons. 60 min; crianças até 12 anos não pagam.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-10-03",
+  "fim": "2026-12-05",
+  "dias_horarios": "sábados, 11h",
+  "local": "Sesc Consolação (Teatro Anchieta)",
+  "endereco": "Rua Doutor Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 12.0,
+  "preco_max": 40.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/editorial/barulhos-volta-aos-palcos-a-partir-dos-sonhos-de-criancas-de-sao-paulo/",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
   "titulo": "Planeta Pelúcia",
   "categoria": "infantil",
   "subcategoria": "teatro infantil",
@@ -51,13 +75,14 @@
   "bairro": "Belenzinho",
   "cidade": "São Paulo",
   "regiao": "Zona Leste",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/planeta-pelucia-5",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Outros Sons d'África - experiência sonora e táctil com instrumentos tradicionais",
@@ -83,13 +108,14 @@
   "bairro": "Campos Elíseos",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/outros-sons-dafrica-experiencia-sonora-e-tactil-com-instrumentos-tradicionais-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Chico Contador conta \"O Alfaiate Desatento\"",
@@ -111,13 +137,14 @@
   "bairro": "Santo Amaro",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/chico-contador-conta-o-alfaiate-desatento",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Circo Secreto",
@@ -139,13 +166,14 @@
   "bairro": "Ipiranga",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/circo-secreto-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Rir para não chorar",
@@ -167,13 +195,14 @@
   "bairro": "Santa Paula",
   "cidade": "São Caetano do Sul",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/rir-para-nao-chorar-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Leiturinha | Vozes negras na Literatura",
@@ -207,13 +236,14 @@
   "bairro": "Santo Amaro",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/leiturinha-vozes-negras-na-literatura",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Poema",
@@ -243,13 +273,14 @@
   "bairro": "Vila Guiomar",
   "cidade": "Santo André",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.sescsp.org.br/programacao/poema-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Tertulia e o Fantástico Circo de Pulgas",
@@ -283,13 +314,14 @@
   "bairro": "Pompeia",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/tertulia-e-o-fantastico-circo-de-pulgas",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Espaço de Brincar",
@@ -306,13 +338,14 @@
   "bairro": "Vila Mariana",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "0 a 6 anos",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/espaco-de-brincar-5",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Dança e Balança",
@@ -338,13 +371,14 @@
   "bairro": "Jardim São Bento",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/danca-e-balanca",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Histórias do Mar",
@@ -366,13 +400,14 @@
   "bairro": "Jardim Flor do Campo",
   "cidade": "Guarulhos",
   "regiao": "Grande SP",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/historias-do-mar-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Cafú e o Café",
@@ -394,13 +429,14 @@
   "bairro": "Parque Colonial",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/cafu-e-o-cafe-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Kalunga Mar",
@@ -422,13 +458,14 @@
   "bairro": "Santa Paula",
   "cidade": "São Caetano do Sul",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/kalunga-mar-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Rodamundos",
@@ -450,13 +487,14 @@
   "bairro": "Campo Limpo",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/rodamundos",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Traquinartes",
@@ -506,13 +544,14 @@
   "bairro": "Santana",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/traquinartes-brincadeiras-de-quintal",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Domingo de Brincar",
@@ -546,13 +585,14 @@
   "bairro": "Vila Guiomar",
   "cidade": "Santo André",
   "regiao": "Grande SP",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/domingo-de-brincar",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Esteira de Histórias: quem brinca um conto aumenta um ponto",
@@ -578,13 +618,14 @@
   "bairro": "Jardim São Bento",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/esteira-de-historias-quem-brinca-um-conto-aumenta-um-ponto",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Lili Flor & Paulo Pixu",
@@ -606,13 +647,14 @@
   "bairro": "Santo Amaro",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/lili-flor-paulo-pixu-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "História na Janela, Boca sem Tramela: Contos de Oralidade Afro- Brasileira",
@@ -638,13 +680,14 @@
   "bairro": "Centro",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/historia-na-janela-boca-sem-tramela-contos-de-oralidade-afro-brasileira",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Aguaceiro de Menino Bentu",
@@ -670,13 +713,14 @@
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/aguaceiro-de-menino-bentu-10",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "AFROHITS - Toada para Erês",
@@ -698,13 +742,14 @@
   "bairro": "Santa Paula",
   "cidade": "São Caetano do Sul",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/afrohits-toada-para-eres-5",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Fanfarrinha Zapina",
@@ -726,13 +771,14 @@
   "bairro": "Santa Paula",
   "cidade": "São Caetano do Sul",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/fanfarrinha-zapina-4",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Hoje tem festa no céu",
@@ -762,13 +808,14 @@
   "bairro": "Centro",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/hoje-tem-festa-no-ceu-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Brincadeiras da Mata Encantada",
@@ -806,13 +853,14 @@
   "bairro": "Vila Mariana",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "até 6 anos",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/brincadeiras-da-mata-encantada",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Festejo de bRinCá!",
@@ -838,13 +886,14 @@
   "bairro": "Vila Guiomar",
   "cidade": "Santo André",
   "regiao": "Grande SP",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/festejo-de-brinca",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Hip Hop Circus",
@@ -866,13 +915,14 @@
   "bairro": "Campo Limpo",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/hip-hop-circus-5",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Brinca Bebê!",
@@ -881,10 +931,6 @@
   "descricao": "Brincadeiras com pedra, argila, sementes e plantas para bebês de 0 a 3 anos e acompanhantes, em encontros semanais às terças.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-03",
-    "hora": "14:30"
-   },
    {
     "data": "2026-11-10",
     "hora": "14:30"
@@ -910,13 +956,14 @@
   "bairro": "Vila Guiomar",
   "cidade": "Santo André",
   "regiao": "Grande SP",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "0 a 3 anos",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/brinca-bebe-o-video-clip-da-musica-que-seu-bebe-faz",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Que Som É Esse?",
@@ -942,13 +989,14 @@
   "bairro": "Jardim São Bento",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/que-som-e-esse-3",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "As Irmãs Bellaneiro",
@@ -970,13 +1018,14 @@
   "bairro": "Santa Paula",
   "cidade": "São Caetano do Sul",
   "regiao": "Grande SP",
-  "preco_min": 20,
-  "preco_max": 40,
+  "preco_min": 20.0,
+  "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/as-irmas-bellaneiro-4",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Pernambucaninhus",
@@ -1006,13 +1055,14 @@
   "bairro": "Centro",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/pernambucaninhus",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Brincantes",
@@ -1062,13 +1112,14 @@
   "bairro": "Santana",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/brincantes-6",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Brincar Juntos",
@@ -1158,13 +1209,14 @@
   "bairro": "Jardim São Bento",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "0 a 6 anos",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/brincar-juntos",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Espaço de Brincar",
@@ -1181,13 +1233,14 @@
   "bairro": "Santana",
   "cidade": "São Paulo",
   "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "0 a 6 anos",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/espaco-de-brincar-12",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Mãos que brincam",
@@ -1221,13 +1274,14 @@
   "bairro": "Centro",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/maos-que-brincam-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "IBEJADA",
@@ -1253,53 +1307,14 @@
   "bairro": "Pompeia",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/ibejada-6",
-  "fonte": "Sesc SP"
- },
- {
-  "titulo": "Barulhos",
-  "categoria": "teatro",
-  "subcategoria": "teatro infantojuvenil",
-  "descricao": "Peça sobre Rosa, que enfrenta com a mãe o luto pela avó e encontra em sonhos uma menina misteriosa. Tema delicado para crianças pequenas.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-07",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-14",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-28",
-    "hora": "11:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Consolação - Teatro Anchieta",
-  "endereco": "Rua Dr. Vila Nova, 245",
-  "bairro": "Vila Buarque",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 20,
-  "preco_max": 40,
-  "gratuito": false,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": false,
-  "link": "https://www.sescsp.org.br/programacao/barulhos-4",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Erê Ayê",
@@ -1325,13 +1340,14 @@
   "bairro": "Campo Limpo",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/ere-aye",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "A Cabaça e o Canto Ancestral",
@@ -1353,13 +1369,14 @@
   "bairro": "Parque Colonial",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/a-cabaca-e-o-canto-ancestral",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Eu Griot",
@@ -1381,13 +1398,14 @@
   "bairro": "Parque Colonial",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/eu-griot-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Kalunga-Mar",
@@ -1409,13 +1427,14 @@
   "bairro": "Vila Buarque",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/kalunga-mar-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "O Barco, de Grada Kilomba",
@@ -1432,13 +1451,14 @@
   "bairro": "Pompeia",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.sescsp.org.br/programacao/o-barco-de-grada-kilomba",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Passeio Tropical",
@@ -1460,13 +1480,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://www.sescsp.org.br/programacao/passeio-tropical-2",
-  "fonte": "Sesc SP"
+  "fonte": "Sesc SP",
+  "promocao": null
  },
  {
   "titulo": "Forró CCSP convida Joquinha Almeida",
@@ -1488,13 +1509,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/forro-ccsp-convida-joquinha-almeida/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Forró CCSP convida Filpo Ribeiro",
@@ -1516,13 +1538,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/forr-ccsp-convida-filpo-ribeiro/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Forró CCSP convida Severina",
@@ -1544,13 +1567,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/forr-ccsp-convida-severina/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Forró CCSP convida Os Bocadas",
@@ -1572,13 +1596,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/forro-ccsp-convida-os-bocadas/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Projeto Entre Tons - Sambalaio",
@@ -1600,13 +1625,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://centrocultural.sp.gov.br/projeto-entre-tons-4/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Projeto Entre Tons - Olhos d'água",
@@ -1628,13 +1654,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://centrocultural.sp.gov.br/projeto-entre-tons-4/",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Yoga com Sitar",
@@ -1668,13 +1695,14 @@
   "bairro": "Liberdade",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/yoga-com-sitar-3",
-  "fonte": "Centro Cultural São Paulo"
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Ruas Abertas - Avenida Paulista",
@@ -1691,12 +1719,1307 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://prefeitura.sp.gov.br/web/se/w/programa-ruas-abertas",
-  "fonte": "Prefeitura de São Paulo"
+  "fonte": "Prefeitura de São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Eugênia e os Robôs",
+  "categoria": "teatro",
+  "subcategoria": "teatro infantojuvenil",
+  "descricao": "Peça inspirada no livro de Janaina Tokitaka: menina que se entende melhor com seus robôs do que com as pessoas descobre que nem tudo pode ser controlado. 60 min; horário a confirmar no site.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   },
+   {
+    "data": "2026-11-15",
+    "hora": null
+   },
+   {
+    "data": "2026-11-22",
+    "hora": null
+   },
+   {
+    "data": "2026-11-29",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pinheiros - Auditório (3º andar)",
+  "endereco": "Rua Paes Leme, 195",
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/eugenia-e-os-robos",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Marie e a Descoberta Luminosa",
+  "categoria": "teatro",
+  "subcategoria": "teatro para família",
+  "descricao": "Companhia Delas conta, com humor e poesia, a vida de Marie Curie da infância às descobertas sobre radioatividade. 60 min; horários a confirmar no site.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   },
+   {
+    "data": "2026-11-15",
+    "hora": null
+   },
+   {
+    "data": "2026-11-20",
+    "hora": null
+   },
+   {
+    "data": "2026-11-22",
+    "hora": null
+   },
+   {
+    "data": "2026-11-29",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Ipiranga - Teatro",
+  "endereco": "Rua Bom Pastor, 822",
+  "bairro": "Ipiranga",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/marie-e-a-descoberta-luminosa-5",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Cidade Brinquedo",
+  "categoria": "infantil",
+  "subcategoria": "teatro de palhaços",
+  "descricao": "O grupo Esparrama propõe transformar a cidade num grande brinquedo, e as crianças negociam as regras com palhaços. Ao ar livre, 60 min, grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "15:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc 14 Bis - Praça Gino Struffaldi",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/cidade-brinquedo-13",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Cineclubinho 15 anos: O Balão Vermelho + O Cavalo Branco",
+  "categoria": "cinema",
+  "subcategoria": "cinema infantil",
+  "descricao": "Sessão especial em 35mm com dublagem ao vivo de dois curtas clássicos de Albert Lamorisse, sobre amizades de meninos com um balão e um cavalo. 81 min; horário a confirmar.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc CineSesc - Sala de Exibição",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 3.0,
+  "preco_max": 10.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/cineclubinho-15-anos-o-balao-vermelho-cavalo",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Neguinha, Sim! O Espetáculo",
+  "categoria": "teatro",
+  "subcategoria": "teatro infantil",
+  "descricao": "Musical inspirado nos livros de Renato Gama: uma menina negra se prepara para a primeira viagem de avião com a mãe. Crianças até 12 anos não pagam (retirar ingresso). Horário a confirmar.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   },
+   {
+    "data": "2026-11-15",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Bom Retiro - Teatro",
+  "endereco": "Alameda Nothmann, 185",
+  "bairro": "Campos Elíseos",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/neguinha-sim-o-espetaculo",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Livros Bichos",
+  "categoria": "infantil",
+  "subcategoria": "oficina",
+  "descricao": "Oficina para crianças e adultos: inspirados em bichos da fauna brasileira, as famílias montam livrinhos com papéis coloridos e depois contam as histórias. Grátis, 2h.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Campo Limpo - Conteiner Oficinas",
+  "endereco": "Rua Nossa Senhora do Bom Conselho, 120",
+  "bairro": "Campo Limpo",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/livros-bichos",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "LabIN - Seres aquáticos em aquarela",
+  "categoria": "infantil",
+  "subcategoria": "oficina para famílias",
+  "descricao": "Laboratório criativo para famílias: pintar peixes, águas-vivas e outros bichos do mar com aquarela, brincando com manchas e transparências. Senhas no local 30 min antes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "14:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pompeia - Espaço de Tecnologias e Artes",
+  "endereco": "Rua Clélia, 93",
+  "bairro": "Pompeia",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/labin-seres-aquaticos-em-aquarela",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Pequenos Sons, Grandes Encontros",
+  "categoria": "infantil",
+  "subcategoria": "musicalização",
+  "descricao": "Encontros de musicalização para crianças de até 6 anos com seus responsáveis, com canções, histórias e jogos sonoros. Exige inscrição prévia (vagas limitadas).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Vila Mariana - Centro de Música, Sala 3 (2º andar, Torre A)",
+  "endereco": "Rua Pelotas, 141",
+  "bairro": "Vila Mariana",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/pequenos-sons-grandes-encontros",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Musicalização para Bebês",
+  "categoria": "infantil",
+  "subcategoria": "musicalização",
+  "descricao": "Oficina para a primeiríssima infância com cantigas, percussão, escuta e movimento, valorizando culturas afro-brasileira e indígena. Grátis, sem retirada de ingresso.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "10:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Santana - Quiosque",
+  "endereco": "Avenida Luiz Dumont Villares, 579",
+  "bairro": "Santana",
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "bebês",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/musicalizacao-para-bebes-4",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Nós e ninhos, roupa de brincar",
+  "categoria": "infantil",
+  "subcategoria": "brincar com bebês",
+  "descricao": "Vivência para crianças de 0 a 3 anos e cuidadores: tecidos viram ninhos, capas e esconderijos para brincar e se mexer juntos. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "10:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "10:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc 14 Bis - Espaço de Brincar (térreo)",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "0 a 3 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/nos-e-ninhos-roupa-de-brincar",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Kizombinha",
+  "categoria": "infantil",
+  "subcategoria": "roda cantada para bebês",
+  "descricao": "Roda cantada multissensorial da Cia. Alcina da Palavra com músicas afro-brasileiras, pandeiro, caxixi e djembê. Das 10h30 às 14h30, entra e sai livre. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "10:30"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "10:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Ipiranga - Sala 2",
+  "endereco": "Rua Bom Pastor, 822",
+  "bairro": "Ipiranga",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "bebês e crianças",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/kizombinha_nov",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Stop Motion para Crianças",
+  "categoria": "infantil",
+  "subcategoria": "oficina de animação",
+  "descricao": "Oficina gratuita de 2 horas em que as crianças criam pequenas animações quadro a quadro. Inscrição no local, 30 min antes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "14:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pinheiros - Espaço de Tecnologias e Artes (2º andar)",
+  "endereco": "Rua Paes Leme, 195",
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/stop-motion-para-criancas",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Gran Circo DuNavô",
+  "categoria": "infantil",
+  "subcategoria": "circo",
+  "descricao": "Espetáculo inspirado no circo popular brasileiro, com mágica, equilíbrio, dança e palhaçaria sobre o que é ser família hoje. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Mogi das Cruzes - Praça de Convivência",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Mogi das Cruzes",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/gran-circo-dunavo-4",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Tô Fraco, Tô Fraco!",
+  "categoria": "infantil",
+  "subcategoria": "teatro infantil",
+  "descricao": "Três galinhas num galinheiro apertado aprendem que a força está em acolher as diferenças. Peça da Cia. Azul Celeste, grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Mogi das Cruzes - Geodésica",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Mogi das Cruzes",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/to-fraco-to-fraco-9",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Festejo do Sol e da Lua",
+  "categoria": "infantil",
+  "subcategoria": "teatro infantil",
+  "descricao": "Espetáculo do Teatro Terreiro Encantado para crianças de todas as idades e seus cuidadores. 60 min, grátis, sem retirada de ingresso.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-19",
+    "hora": "14:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Consolação - Convivência (térreo)",
+  "endereco": "Rua Dr. Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/festejo-do-sol-e-da-lua",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Inventatório",
+  "categoria": "infantil",
+  "subcategoria": "vivência de brincar",
+  "descricao": "Vivência de brincar e inventar para crianças de até 6 anos, com Rosas Periféricas. 2 horas, grátis, sem retirada de ingresso.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "15:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Consolação - Sala Gama (7º andar)",
+  "endereco": "Rua Dr. Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/inventatorio",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Primeiros Afrobrincares",
+  "categoria": "infantil",
+  "subcategoria": "brincar com bebês",
+  "descricao": "Encontro com o coletivo Brincar d'África para bebês de 0 a 3 anos com familiares (aceita até 6 anos), com brincadeiras e música de matriz africana. Grátis, 2h.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "14:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Campo Limpo - Conteiner Espaço de Brincar",
+  "endereco": "Rua Nossa Senhora do Bom Conselho, 120",
+  "bairro": "Campo Limpo",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "0 a 3 anos (até 6)",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/primeiros-afrobrincares-3",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Requebrando",
+  "categoria": "danca",
+  "subcategoria": "dança de rua",
+  "descricao": "Encontro de dança da companhia Diladin que celebra danças nascidas nas ruas e a memória do corpo negro periférico. Ao ar livre, 60 min, grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "17:30"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "15:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "15:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Avenida Paulista - Bulevar (ao lado da unidade)",
+  "endereco": "Av. Paulista, 119",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/requebrando-12",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Banzo",
+  "categoria": "infantil",
+  "subcategoria": "contação de histórias",
+  "descricao": "Contação de histórias performática do Ateliê Afrocultural sobre o banzo, a saudade dos africanos escravizados, e sobre memória e resistência negra. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "14:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "14:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Interlagos - Hall de Exposições",
+  "endereco": "Avenida Manuel Alves Soares, 1100",
+  "bairro": "Parque Colonial",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/banzo",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Ateliê para a família: criando com material reciclável",
+  "categoria": "infantil",
+  "subcategoria": "oficina para famílias",
+  "descricao": "Oficina de 90 minutos para crianças e adultos criarem juntos com materiais reaproveitados. Vagas limitadas; senhas no local 30 min antes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "14:30"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "14:30"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "14:30"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "14:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Santo Amaro - Espaço de Tecnologias e Artes",
+  "endereco": "Rua Amador Bueno, 505",
+  "bairro": "Santo Amaro",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/atelie-para-a-familia-criando-com-material-reciclavel-3",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Arquitetando",
+  "categoria": "infantil",
+  "subcategoria": "jogos de construção",
+  "descricao": "A Cia. Volta e Meia leva peças coloridas de papelão que se encaixam para as crianças construírem e brincarem livremente. Grátis, 3 horas.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Pinheiros - Espaço de Brincar",
+  "endereco": "Rua Paes Leme, 195",
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/arquitetando-6",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Corpo brincante: brincadeiras e cantigas",
+  "categoria": "infantil",
+  "subcategoria": "brincadeiras",
+  "descricao": "Vivência de brincadeiras de roda e cantigas para crianças, com Ossaîê e Blenda Souto. 2 horas, grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-22",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc 14 Bis - Pracinha",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/corpo-brincante-brincadeiras-e-cantigas",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Brinquedos de ninar e cantigas para brincar",
+  "categoria": "infantil",
+  "subcategoria": "oficina para famílias",
+  "descricao": "O Coletivo TransBordando Afeto recebe crianças e famílias para criar brinquedos de ninar e brincar com cantigas. Das 13h30 às 17h30, grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "13:30"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "13:30"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "13:30"
+   },
+   {
+    "data": "2026-11-15",
+    "hora": "13:30"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "13:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc 24 de Maio - Espaço de Brincar (9º andar)",
+  "endereco": "Rua 24 de Maio, 109",
+  "bairro": "Centro",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/brinquedos-de-ninar-e-cantigas-para-brincar-3",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Maré de Histórias",
+  "categoria": "infantil",
+  "subcategoria": "contação de histórias",
+  "descricao": "Oficina de histórias de 1 hora para bebês e crianças até 6 anos acompanhados de um adulto, no Espaço de Brincar. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc 24 de Maio - Espaço de Brincar (9º andar)",
+  "endereco": "Rua 24 de Maio, 109",
+  "bairro": "Centro",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "até 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/mare-de-historias-4",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Espaço de Brincar",
+  "categoria": "infantil",
+  "subcategoria": "espaço de brincar",
+  "descricao": "Ambiente de brincar para bebês e crianças de 0 a 6 anos com seus responsáveis, em sessões de 90 minutos. Grátis.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-02-28",
+  "fim": "2026-12-30",
+  "dias_horarios": "terça a domingo, 10h30 (90 min)",
+  "local": "Sesc 24 de Maio - Espaço de Brincar (9º andar)",
+  "endereco": "Rua 24 de Maio, 109",
+  "bairro": "Centro",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "0 a 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/espaco-de-brincar-24-demaio",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Espaço de Brincar",
+  "categoria": "infantil",
+  "subcategoria": "espaço de brincar",
+  "descricao": "Espaço lúdico que respeita o tempo de cada criança, para 0 a 6 anos com adultos responsáveis, numa unidade com muito verde. Grátis.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-02-04",
+  "fim": "2026-12-30",
+  "dias_horarios": "quarta a domingo, a partir das 9h",
+  "local": "Sesc Interlagos - Espaço de Brincar",
+  "endereco": "Avenida Manuel Alves Soares, 1100",
+  "bairro": "Parque Colonial",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "0 a 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/espaco-de-brincar-23",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Espaço de Brincar",
+  "categoria": "infantil",
+  "subcategoria": "espaço de brincar",
+  "descricao": "Sala de brincar para crianças de 0 a 6 anos com acompanhantes, aberta nos fins de semana e feriados. Grátis, sem retirada de ingresso.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-01-17",
+  "fim": "2026-12-27",
+  "dias_horarios": "sáb, dom e feriados 10h-17h (pausa para limpeza 14h30-15h)",
+  "local": "Sesc Consolação - Sala Gama (7º andar)",
+  "endereco": "Rua Dr. Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "0 a 6 anos",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/espaco-de-brincar-14",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Jogos de Tabuleiro Africano",
+  "categoria": "infantil",
+  "subcategoria": "oficina de jogos",
+  "descricao": "Oficina para conhecer e jogar jogos de tabuleiro de origem africana, suas histórias e estratégias. Grátis, sem inscrição.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "13:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "13:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "13:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "13:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Interlagos - Hall de Exposições",
+  "endereco": "Avenida Manuel Alves Soares, 1100",
+  "bairro": "Parque Colonial",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.sescsp.org.br/programacao/jogos-de-tabuleiro-africano-2",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Pequenos invasores (Head Space)",
+  "categoria": "cinema",
+  "subcategoria": "animação",
+  "descricao": "Sessão gratuita da animação sul-africana de 2023 (85 min), classificação livre. Ingressos retirados online ou na bilheteria.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Santana - Teatro",
+  "endereco": "Avenida Luiz Dumont Villares, 579",
+  "bairro": "Santana",
+  "cidade": "São Paulo",
+  "regiao": "Zona Norte",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/pequenos-invasores-head-space",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Histórias Pretinhas para todas as idades",
+  "categoria": "infantil",
+  "subcategoria": "teatro infantil",
+  "descricao": "A Coletiva Trupe Trio apresenta contos africanos e afro-brasileiros com música e brincadeiras populares, ao ar livre no Centro de Mogi. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Praça Oswaldo Cruz (Sesc Mogi das Cruzes)",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Mogi das Cruzes",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/historias-pretinhas-para-todas-as-idades-7",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Kalunga Mar",
+  "categoria": "infantil",
+  "subcategoria": "teatro infantil",
+  "descricao": "A palhaça Ursa Maior navega num barquinho por mares e ilhas em busca de um lugar seguro; peça da Indômita Cia. sobre travessias vista pela infância. Grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Mogi das Cruzes - Geodésica",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Mogi das Cruzes",
+  "regiao": "Grande SP",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://www.sescsp.org.br/programacao/kalunga-mar-4",
+  "fonte": "Sesc SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Piano na Praça - Salomão Soares",
+  "categoria": "show",
+  "subcategoria": "música instrumental",
+  "descricao": "Recital solo do pianista Salomão Soares com releituras de Hermeto Pascoal, Dominguinhos, Gismonti, Sivuca e João Donato. Grátis, por ordem de chegada.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "18:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Centro Cultural São Paulo - Praça das Bibliotecas",
+  "endereco": "Rua Vergueiro, 1000",
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://centrocultural.sp.gov.br/piano-na-praca-salomao-soares/",
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Feira de Discos Vinil & CD",
+  "categoria": "festival",
+  "subcategoria": "feira de discos",
+  "descricao": "Mais de 70 expositores de vinil e CD, com DJs e área de alimentação, no jardim do CCSP. Entrada grátis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "12:00"
+   },
+   {
+    "data": "2026-11-08",
+    "hora": "12:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Centro Cultural São Paulo - Jardim Sul",
+  "endereco": "Rua Vergueiro, 1000",
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://centrocultural.sp.gov.br/feira-de-discos-vinil-cd",
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
  }
 ]

@@ -3,29 +3,30 @@
   "titulo": "Juliana Linhares",
   "categoria": "show",
   "subcategoria": "MPB",
-  "descricao": "Show da cantora e compositora Juliana Linhares na casa de shows de Pinheiros.",
+  "descricao": "Juliana Linhares apresenta 'Até Cansar o Cansaço' na casa de Pinheiros. Ingressos esgotados no site.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-05",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 120.0,
+  "preco_max": 200.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/juliana-linhares/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Pedro Mizutani + Alan Bernardes",
@@ -36,52 +37,54 @@
   "datas": [
    {
     "data": "2026-11-06",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 60.0,
+  "preco_max": 200.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/pedro-mizutani-alan-bernardes/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "MARO",
   "categoria": "show",
   "subcategoria": "Pop/MPB",
-  "descricao": "Apresentação da cantora e compositora portuguesa MARO na Casa Natura Musical.",
+  "descricao": "A cantora portuguesa MARO traz a turnê 'So Much Has Changed'; site indica últimos ingressos.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-07",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 180.0,
+  "preco_max": 280.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/maro/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Gisela Mabel",
@@ -92,56 +95,58 @@
   "datas": [
    {
     "data": "2026-11-08",
-    "hora": null
+    "hora": "18:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 140.0,
+  "preco_max": 240.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/gisela-mabel/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Cícero",
   "categoria": "show",
   "subcategoria": "MPB",
-  "descricao": "Cícero se apresenta em duas noites seguidas na Casa Natura Musical.",
+  "descricao": "Cícero celebra 15 anos do disco 'Canções de Apartamento'. A sessão de 13/11 está esgotada.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-12",
-    "hora": null
+    "hora": "21:00"
    },
    {
     "data": "2026-11-13",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 90.0,
+  "preco_max": 200.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/cicero/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Planta e Raiz",
@@ -152,24 +157,25 @@
   "datas": [
    {
     "data": "2026-11-14",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 80.0,
+  "preco_max": 250.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/planta-e-raiz/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Tasha & Tracie - Serena & Venus",
@@ -180,56 +186,58 @@
   "datas": [
    {
     "data": "2026-11-20",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 70.0,
+  "preco_max": 200.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/tasha-e-tracie/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Cordel do Fogo Encantado",
   "categoria": "show",
   "subcategoria": "Rock brasileiro",
-  "descricao": "A banda pernambucana Cordel do Fogo Encantado faz duas noites na casa.",
+  "descricao": "Cordel do Fogo Encantado revisita o primeiro álbum em duas noites (a de domingo é data extra).",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-21",
-    "hora": null
+    "hora": "21:00"
    },
    {
     "data": "2026-11-22",
-    "hora": null
+    "hora": "19:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 80.0,
+  "preco_max": 240.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/cordel-do-fogo-encantado/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "La Bomba de Tiempo",
@@ -240,24 +248,25 @@
   "datas": [
    {
     "data": "2026-11-24",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 160.0,
+  "preco_max": 300.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/la-bomba-de-tiempo-arg/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Letrux - SadSexySillySongs",
@@ -268,24 +277,25 @@
   "datas": [
    {
     "data": "2026-11-28",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Casa Natura Musical",
-  "endereco": null,
+  "endereco": "Rua Artur de Azevedo, 2134",
   "bairro": "Pinheiros",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 90.0,
+  "preco_max": 270.0,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://casanaturamusical.com.br/eventos/letrux-2/",
-  "fonte": "Casa Natura Musical"
+  "fonte": "Casa Natura Musical",
+  "promocao": null
  },
  {
   "titulo": "Sepultura",
@@ -296,24 +306,25 @@
   "datas": [
    {
     "data": "2026-11-07",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Suhai Music Hall",
-  "endereco": null,
+  "endereco": "Av. das Nações Unidas, 22540",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://suhaimusichall.com.br/evento/sepultura/",
-  "fonte": "Suhai Music Hall"
+  "fonte": "Suhai Music Hall",
+  "promocao": null
  },
  {
   "titulo": "ZZ Top",
@@ -324,80 +335,89 @@
   "datas": [
    {
     "data": "2026-11-21",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Suhai Music Hall",
-  "endereco": null,
+  "endereco": "Av. das Nações Unidas, 22540",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://suhaimusichall.com.br/evento/zz-top/",
-  "fonte": "Suhai Music Hall"
+  "fonte": "Suhai Music Hall",
+  "promocao": null
  },
  {
   "titulo": "A Perfect Circle",
   "categoria": "show",
   "subcategoria": "Rock alternativo",
-  "descricao": "Show da banda de rock alternativo A Perfect Circle em São Paulo.",
+  "descricao": "A Perfect Circle, banda de Maynard James Keenan, toca no Suhai; Puscifer também participa da noite.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-27",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Suhai Music Hall",
-  "endereco": null,
+  "endereco": "Av. das Nações Unidas, 22540",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://suhaimusichall.com.br/evento/a-perfect-circle/",
-  "fonte": "Suhai Music Hall"
+  "fonte": "Suhai Music Hall",
+  "promocao": null
  },
  {
   "titulo": "Gipsy Kings by Diego Baliardo",
   "categoria": "show",
   "subcategoria": "Flamenco/World",
-  "descricao": "Show em tributo ao som dos Gipsy Kings, conduzido por Diego Baliardo.",
+  "descricao": "Diego Baliardo e os Gipsy Kings tocam rumba flamenca, com Sidney Magal como convidado especial.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-28",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Suhai Music Hall",
-  "endereco": null,
+  "endereco": "Av. das Nações Unidas, 22540",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://suhaimusichall.com.br/evento/gipsy-kings-by-diego-baliardo/",
-  "fonte": "Suhai Music Hall"
+  "fonte": "Suhai Music Hall",
+  "promocao": {
+   "texto": "Clientes e colaboradores Suhai Seguradora: 15% de desconto na inteira, até 2 ingressos (opção 'Desconto Suhai').",
+   "validade": null,
+   "link": "https://suhaimusichall.com.br/evento/gipsy-kings-by-diego-baliardo/",
+   "fonte": "Suhai Music Hall",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Opeth",
@@ -415,17 +435,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/opeth/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Daniel",
@@ -443,23 +464,30 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/daniel-2/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": {
+   "texto": "Membros do programa Azul: 30% de desconto em 1 ingresso comprado na bilheteria do Espaço Unimed, com cartão Tudo Azul.",
+   "validade": null,
+   "link": "https://www.espacounimed.com.br/show/daniel-2/",
+   "fonte": "Espaço Unimed",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Luana Zucoloto",
-  "categoria": "show",
-  "subcategoria": "Sertanejo",
-  "descricao": "Apresentação de Luana Zucoloto no Espaço Unimed.",
+  "categoria": "standup",
+  "subcategoria": "humor",
+  "descricao": "Luana Zucoloto apresenta o espetáculo de humor 'Esse show poderia ser um e-mail'.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -471,17 +499,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "14 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/luana-zucoloto/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": {
+   "texto": "Membros do programa Azul: 30% de desconto em 1 ingresso comprado na bilheteria do Espaço Unimed, com cartão Tudo Azul.",
+   "validade": null,
+   "link": "https://www.espacounimed.com.br/show/luana-zucoloto/",
+   "fonte": "Espaço Unimed",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Hayley Williams",
@@ -493,31 +528,7 @@
    {
     "data": "2026-11-12",
     "hora": "20:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Espaço Unimed",
-  "endereco": null,
-  "bairro": "Barra Funda",
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
-  "fonte": "Espaço Unimed"
- },
- {
-  "titulo": "Hayley Williams",
-  "categoria": "show",
-  "subcategoria": "Pop/Rock",
-  "descricao": "Segunda noite de Hayley Williams em São Paulo.",
-  "tipo_data": "unica",
-  "datas": [
+   },
    {
     "data": "2026-11-13",
     "hora": "20:00"
@@ -527,17 +538,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
-  "link": "https://www.espacounimed.com.br/show/hayley-williams/",
-  "fonte": "Espaço Unimed"
+  "link": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Gustavo Mioto",
@@ -555,17 +567,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Ca7riel & Paco Amoroso",
@@ -583,17 +596,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/ca7riel-paco-amoroso/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Caetano Veloso",
@@ -611,17 +625,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/caetano-veloso/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "New Order",
@@ -633,31 +648,7 @@
    {
     "data": "2026-11-23",
     "hora": "22:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Espaço Unimed",
-  "endereco": null,
-  "bairro": "Barra Funda",
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://www.espacounimed.com.br/show/new-order-2/",
-  "fonte": "Espaço Unimed"
- },
- {
-  "titulo": "New Order",
-  "categoria": "show",
-  "subcategoria": "Synthpop",
-  "descricao": "Segunda noite do New Order; a fonte indica ingressos esgotados.",
-  "tipo_data": "unica",
-  "datas": [
+   },
    {
     "data": "2026-11-25",
     "hora": "22:00"
@@ -667,23 +658,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
-  "link": "https://www.espacounimed.com.br/show/new-order/",
-  "fonte": "Espaço Unimed"
+  "link": "https://www.espacounimed.com.br/show/new-order-2/",
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Babymetal",
   "categoria": "show",
   "subcategoria": "Metal/J-pop",
-  "descricao": "Show do grupo japonês Babymetal; a fonte indica ingressos esgotados.",
+  "descricao": "Banda japonesa Babymetal mistura metal e j-pop no Espaço Unimed. Ingressos esgotados no site.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -695,23 +687,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/babymetal/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": null
  },
  {
   "titulo": "Reggae Live Station",
   "categoria": "show",
   "subcategoria": "Reggae",
-  "descricao": "Tarde de reggae ao vivo no Espaço Unimed.",
+  "descricao": "Tarde e noite de reggae com Leões de Israel, Edson Gomes e a banda americana Groundation.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -723,17 +716,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Espaço Unimed",
-  "endereco": null,
+  "endereco": "Rua Tagipuru, 795",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
-  "fonte": "Espaço Unimed"
+  "fonte": "Espaço Unimed",
+  "promocao": {
+   "texto": "Membros do programa Azul: 30% de desconto em 1 ingresso comprado na bilheteria do Espaço Unimed, com cartão Tudo Azul.",
+   "validade": null,
+   "link": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
+   "fonte": "Espaço Unimed",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Aniversário Beco 12 Anos & Infinito Mahau 8 Anos",
@@ -751,17 +751,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1484-aniversario-beco-12-anos-e-infinito-mahau-8-anos",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "The White Buffalo",
@@ -779,17 +780,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1385-the-white-buffalo",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Ocean Alley",
@@ -807,17 +809,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1437-ocean-alley",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Braza",
@@ -835,17 +838,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1464-braza",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Sempre Foi Baile",
@@ -863,17 +867,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1404-sempre-foi-baile",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Rael",
@@ -891,17 +896,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1477-rael",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Robot Rock Alive: a Daft Punk Tribute",
@@ -919,17 +925,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1482-robot-rock-alive-a-daft-punk-tribute",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Monobloco",
@@ -947,17 +954,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1455-monobloco",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Hot Chip",
@@ -975,17 +983,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1459-hot-chip",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Godspeed You! Black Emperor",
@@ -996,24 +1005,25 @@
   "datas": [
    {
     "data": "2026-11-23",
-    "hora": null
+    "hora": "21:30"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Audio",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 694",
   "bairro": "Barra Funda",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://audiosp.com.br/1454-godspeed-you--black-emperor",
-  "fonte": "Audio"
+  "fonte": "Audio",
+  "promocao": null
  },
  {
   "titulo": "Guilherme Arantes - 50 anos-luz",
@@ -1031,23 +1041,30 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Tokio Marine Hall",
-  "endereco": null,
+  "endereco": "R. Luis Seraphico Jr., 979",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "regiao": "Zona Sul",
+  "preco_min": 220.0,
+  "preco_max": 545.0,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://www.tokiomarinehall.com.br/guilherme-arantes-3/",
-  "fonte": "Tokio Marine Hall"
+  "fonte": "Tokio Marine Hall",
+  "promocao": {
+   "texto": "Segurados, colaboradores e corretores Tokio Marine: 20% de desconto, até 4 ingressos por CPF (não vale p/ meia).",
+   "validade": null,
+   "link": "https://www.tokiomarinehall.com.br/guilherme-arantes-3/",
+   "fonte": "Tokio Marine Hall",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Gabriel & Shirley",
   "categoria": "show",
-  "subcategoria": "Gospel",
-  "descricao": "Show da dupla Gabriel & Shirley, em sessão de domingo à tarde.",
+  "subcategoria": "show infantil/família",
+  "descricao": "Os youtubers Gabriel & Shirley levam o show 'Gashi: Fora do Play!' ao palco, com humor, música e participação da plateia.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -1059,17 +1076,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Tokio Marine Hall",
-  "endereco": null,
+  "endereco": "R. Luis Seraphico Jr., 979",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
+  "regiao": "Zona Sul",
+  "preco_min": 135.0,
+  "preco_max": 305.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
   "link": "https://www.tokiomarinehall.com.br/gabriel-shirley-2/",
-  "fonte": "Tokio Marine Hall"
+  "fonte": "Tokio Marine Hall",
+  "promocao": {
+   "texto": "Segurados, colaboradores e corretores Tokio Marine: 20% de desconto, até 4 ingressos por CPF (não vale p/ meia).",
+   "validade": null,
+   "link": "https://www.tokiomarinehall.com.br/gabriel-shirley-2/",
+   "fonte": "Tokio Marine Hall",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Fagner",
@@ -1087,45 +1111,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Tokio Marine Hall",
-  "endereco": null,
+  "endereco": "R. Luis Seraphico Jr., 979",
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "regiao": "Zona Sul",
+  "preco_min": 210.0,
+  "preco_max": 405.0,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://www.tokiomarinehall.com.br/fagner-6/",
-  "fonte": "Tokio Marine Hall"
- },
- {
-  "titulo": "Echoes Pink Floyd São Paulo - Animals 50 anos",
-  "categoria": "show",
-  "subcategoria": "Tributo rock",
-  "descricao": "Tributo ao Pink Floyd celebrando os 50 anos do álbum Animals.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-03",
-    "hora": "20:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Blue Note SP",
-  "endereco": null,
-  "bairro": "Consolação",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/",
-  "fonte": "Blue Note SP"
+  "fonte": "Tokio Marine Hall",
+  "promocao": {
+   "texto": "Segurados, colaboradores e corretores Tokio Marine: 20% de desconto, até 4 ingressos por CPF (não vale p/ meia).",
+   "validade": null,
+   "link": "https://www.tokiomarinehall.com.br/fagner-6/",
+   "fonte": "Tokio Marine Hall",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Jean Luc Ponty Project - Imaginary Voyage 50 anos",
@@ -1142,18 +1145,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "U2 Experience (U2 Rio)",
@@ -1170,18 +1174,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/u2-experience-u2-rio/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Kleiton & Kledir",
@@ -1202,18 +1207,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/kleiton-kledir/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Bob Marley in Jazz",
@@ -1230,18 +1236,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/bob-marley-in-jazz/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Collaboration in Concert - 100 anos de Miles Davis",
@@ -1258,18 +1265,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/collaboration-in-concert/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "ABBA The History",
@@ -1286,18 +1294,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/abba-the-history/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Édith Piaf por Lia Paris",
@@ -1314,18 +1323,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/edith-piaf-por-lia-paris-uma-viagem-pela-chanson-francaise/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Rolling Stone Sessions: Hurricanes com Lucinha Turnbull e Beto Bruno",
@@ -1342,18 +1352,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Idania Valdés - voz do Buena Vista Social Club",
@@ -1370,18 +1381,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/idania-valdes/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Queen Legend - O Legado de Freddie Mercury",
@@ -1398,18 +1410,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/queen-legend/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Theo Bial canta Chico Buarque",
@@ -1426,18 +1439,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/theo-bial/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Mel Lisboa canta Rita Lee",
@@ -1454,18 +1468,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/mel-lisboa/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Crua: Jaloo Acústica",
@@ -1482,18 +1497,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/crua-jaloo-acustica/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Lobão - Luau Indoor",
@@ -1514,18 +1530,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/lobao/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "POP3 com George Israel, Henrique Portugal e Charles Gavin",
@@ -1546,18 +1563,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Blue Note SP",
+  "local": "Blue Note São Paulo",
   "endereco": null,
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
-  "fonte": "Blue Note SP"
+  "fonte": "Blue Note SP",
+  "promocao": null
  },
  {
   "titulo": "Haydn de perto (Osesp)",
@@ -1578,18 +1596,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Sala São Paulo",
+  "local": "Estação Motiva Cultural",
   "endereco": null,
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
-  "preco_max": 100,
+  "preco_min": 50.0,
+  "preco_max": 100.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/2002",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Vozes e percussão: Bernstein, Reich e Stravinsky",
@@ -1615,13 +1634,14 @@
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
-  "preco_max": 330,
+  "preco_min": 50.0,
+  "preco_max": 330.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1628",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Câmara Osesp: Quarteto de cordas de Beethoven",
@@ -1638,18 +1658,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Sala São Paulo",
+  "local": "Estação Motiva Cultural",
   "endereco": null,
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 150,
+  "preco_min": 150.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1609",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Rock'n Bach",
@@ -1666,18 +1687,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Sala São Paulo",
+  "local": "Teatro B32",
   "endereco": null,
-  "bairro": "Luz",
+  "bairro": null,
   "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 50,
-  "preco_max": 100,
+  "regiao": null,
+  "preco_min": 50.0,
+  "preco_max": 100.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1808",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Osesp: Do ícone do bel canto a um gênio do minimalismo",
@@ -1707,13 +1729,14 @@
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
-  "preco_max": 330,
+  "preco_min": 50.0,
+  "preco_max": 330.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1597",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Recital: Orli Shaham (piano)",
@@ -1730,18 +1753,19 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Sala São Paulo",
+  "local": "Estação Motiva Cultural",
   "endereco": null,
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 150,
+  "preco_min": 150.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1633",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Coro da Osesp recebe Pierre-Fabien Roubaty",
@@ -1758,24 +1782,25 @@
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Sala São Paulo",
+  "local": "Estação Motiva Cultural",
   "endereco": null,
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
+  "preco_min": 50.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1603",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Domingos com a Osesp: Mahler",
   "categoria": "show",
   "subcategoria": "Música clássica",
-  "descricao": "Concerto matinal gratuito dedicado a Mahler.",
+  "descricao": "Concerto matinal gratuito com a Sinfonia nº 5 de Mahler, com fala introdutória. Ingressos liberados 3 dias antes, ao meio-dia.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -1791,73 +1816,76 @@
   "bairro": "Luz",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
-  "faixa_etaria": null,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://osesp.art.br/osesp/pt/concerto/1802",
-  "fonte": "Osesp"
+  "fonte": "Osesp",
+  "promocao": null
  },
  {
   "titulo": "Morais e Tchaikovsky (Concertos)",
   "categoria": "show",
   "subcategoria": "Música clássica",
-  "descricao": "Concertos no Theatro Municipal com obras de Morais e Tchaikovsky.",
+  "descricao": "Orquestra Sinfônica Municipal, regida por Roberto Minczuk, toca Fernando Morais e a Sinfonia nº 4 de Tchaikovsky.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-06",
-    "hora": null
+    "hora": "20:00"
    },
    {
     "data": "2026-11-07",
-    "hora": null
+    "hora": "17:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Theatro Municipal de São Paulo",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Praça Ramos de Azevedo, s/nº",
+  "bairro": "Sé",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 13.0,
+  "preco_max": 100.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://theatromunicipal.org.br/eventos/morais-e-tchaikovsky/",
-  "fonte": "Theatro Municipal de São Paulo"
+  "fonte": "Theatro Municipal de São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Palavra em Travessia",
   "categoria": "show",
   "subcategoria": "Música clássica",
-  "descricao": "Apresentação da Orquestra Experimental de Repertório, ciclo Concertos.",
+  "descricao": "Orquestra Experimental de Repertório e a mezzo Juliana Taino em Haydn, Mahler e Elgar, numa manhã de domingo.",
   "tipo_data": "unica",
   "datas": [
    {
     "data": "2026-11-08",
-    "hora": null
+    "hora": "11:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Theatro Municipal de São Paulo",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Praça Ramos de Azevedo, s/nº",
+  "bairro": "Sé",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 13.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
-  "fonte": "Theatro Municipal de São Paulo"
+  "fonte": "Theatro Municipal de São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Quarteto de Cordas - Diálogos: Price, Brahms e Dvořák",
@@ -1868,75 +1896,49 @@
   "datas": [
    {
     "data": "2026-11-26",
-    "hora": null
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Praça das Artes",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
-  "fonte": "Theatro Municipal de São Paulo"
- },
- {
-  "titulo": "Ópera Os Pescadores de Pérolas, de Bizet",
-  "categoria": "show",
-  "subcategoria": "Ópera",
-  "descricao": "Temporada da ópera de Bizet no Theatro Municipal.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-27",
-  "fim": "2026-12-01",
-  "dias_horarios": "Temporada de 27/11 a 06/12/2026; horários não informados na fonte",
-  "local": "Theatro Municipal de São Paulo",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
-  "fonte": "Theatro Municipal de São Paulo"
- },
- {
-  "titulo": "Lucas Caram lança 'O que me traz aqui?'",
-  "categoria": "show",
-  "subcategoria": "MPB",
-  "descricao": "Show de lançamento do novo trabalho do cantor e compositor.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-03",
     "hora": "20:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "local": "Praça das Artes",
+  "endereco": "Av. São João, 281",
+  "bairro": "Sé",
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
-  "link": "https://www.eventim.com.br/event/lucas-caram-lanca-o-que-me-traz-aqui-bona-casa-de-musica-22237817/",
-  "fonte": "Eventim"
+  "link": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
+  "fonte": "Theatro Municipal de São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Ópera Os Pescadores de Pérolas, de Bizet",
+  "categoria": "show",
+  "subcategoria": "Ópera",
+  "descricao": "Ópera de Bizet ambientada no Ceilão, na Sala de Espetáculos do Municipal; cerca de 2h30 com intervalo.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-27",
+  "fim": "2026-12-06",
+  "dias_horarios": "27/11, 1/12, 2/12 e 4/12 às 20h; 28/11, 29/11, 5/12 e 6/12 às 17h",
+  "local": "Theatro Municipal de São Paulo",
+  "endereco": "Praça Ramos de Azevedo, s/nº",
+  "bairro": "Sé",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 47.0,
+  "preco_max": 290.0,
+  "gratuito": false,
+  "faixa_etaria": "12 anos",
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
+  "fonte": "Theatro Municipal de São Paulo",
+  "promocao": null
  },
  {
   "titulo": "Leandro Cabral: Com Texto",
@@ -1964,7 +1966,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/leandro-cabral-com-texto-blue-note-sao-paulo-22207926/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Mario Gil com participação de Renato Braz",
@@ -1982,17 +1985,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/mario-gil-com-participacao-de-renato-braz-bona-casa-de-musica-22237878/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Weather Report Tributo",
@@ -2020,13 +2030,14 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/weather-report-tributo-blue-note-sao-paulo-22207927/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Zé Ibarra: Saudade Solidão",
   "categoria": "show",
   "subcategoria": "MPB",
-  "descricao": "Zé Ibarra apresenta o show 'Saudade Solidão' em duas sessões.",
+  "descricao": "Zé Ibarra em voz e violão com músicas de AFIM e do disco solo 'Marquês, 256'. Várias sessões já sem ingressos.",
   "tipo_data": "unica",
   "datas": [
    {
@@ -2036,23 +2047,38 @@
    {
     "data": "2026-11-05",
     "hora": "22:00"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "19:30"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "22:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/artist/bona-casa-musica/ze-ibarra-apresenta-saudade-solidao-4261667/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Angel Ribeiro Trio: Soul Sessions",
@@ -2070,17 +2096,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-angel-ribeiro-trio-soul-sessions-raiz-club-22360616/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Dance Party com Mark Lambert & Blue Note Big Band",
@@ -2108,7 +2135,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/dance-party-com-mark-lambert-blue-note-big-band-blue-note-sao-paulo-22131645/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Banda Chocolate Quente",
@@ -2126,17 +2154,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-banda-chocolate-quente-raiz-club-22360617/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Big Allanbik: o retorno de uma lenda do blues-rock",
@@ -2164,7 +2193,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/big-allanbik-o-retorno-de-uma-lenda-do-blues-rock-blue-note-sao-paulo-22105696/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Baile Café con Ron: Quimbará & Bogotá",
@@ -2192,7 +2222,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/baile-cafe-con-ron-quimbara-bogota-blue-note-sao-paulo-sala-02-22289309/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Baile Disco convida Duo Yori",
@@ -2220,7 +2251,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/baile-disco-convida-duo-yori-blue-note-sao-paulo-22105694/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Vanessa Moreno: Sentido",
@@ -2238,17 +2270,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/vanessa-moreno-apresenta-sentido-bona-casa-de-musica-22294301/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Brasa Blues Band",
@@ -2266,17 +2305,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-brasa-blues-band-raiz-club-22360622/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Patife Band: Uma Temporada no Inferno",
@@ -2304,7 +2344,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/patife-band-apresenta-uma-temporada-no-inferno-blue-note-sao-paulo-sala-02-22207928/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Tributo a Gardel e Piazzolla: Cia. Tango & Paixão",
@@ -2332,7 +2373,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/tributo-a-carlos-gardel-e-astor-piazzolla-cia-tango-paixao-teatro-das-artes-22060016/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Holland Meets Brazil feat. Nailor Proveta",
@@ -2360,7 +2402,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/holland-meets-brazil-feat-nailor-proveta-blue-note-sao-paulo-22270088/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Rodrigo Alarcon: Guizo de Cascavel",
@@ -2378,17 +2421,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/rodrigo-alarcon-apresenta-guizo-de-cascavel-voz-e-violao-bona-casa-de-musica-22237828/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Elaine Guimarães: Nas Trilhas de Gal",
@@ -2406,17 +2456,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/elaine-guimaraes-apresenta-nas-trilhas-de-gal-uma-homenagem-a-gal-costa-bona-casa-de-musica-22237802/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Lorenza Pozza: de Beatles a Carpenters",
@@ -2444,7 +2501,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/lorenza-pozza-de-beatles-a-carpenters-blue-note-sao-paulo-22225239/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Árida: Sertão Encantado de Héloa",
@@ -2472,7 +2530,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/arida-sertao-encantado-de-heloa-blue-note-sao-paulo-22289454/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Analu e Flor",
@@ -2490,17 +2549,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/analu-e-flor-bona-casa-de-musica-22267297/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Marina Aquino acústico",
@@ -2522,17 +2588,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/artist/bona-casa-musica/marina-aquino-acustico-no-bona-4247334/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Tributo a Ella Fitzgerald por Indiana Nomma",
@@ -2560,7 +2633,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/tributo-a-ella-fitzgerald-por-indiana-nomma-blue-note-sao-paulo-21032840/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Amici: reinterpretam os sucessos dos amigos",
@@ -2588,7 +2662,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/amici-reinterpretam-os-sucessos-dos-amigos-blue-note-sao-paulo-21957490/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Sala de Música Rádio CBN com João Sabiá",
@@ -2616,7 +2691,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/sala-de-musica-radio-cbn-part-especial-joao-sabia-blue-note-sao-paulo-sala-02-22225242/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Quimbará: especial Buena Vista Social Club",
@@ -2634,17 +2710,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/quimbara-especial-buena-vista-social-club-bona-casa-de-musica-22198205/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Acústic Band",
@@ -2662,17 +2745,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-acustic-band-raiz-club-22360633/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Day Limns canta anos 2000",
@@ -2700,7 +2784,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/day-limns-canta-anos-2000-blue-note-sao-paulo-sala-02-22248724/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Noneto Brasil Jazz Sinfônica: Afro-Sambas",
@@ -2728,7 +2813,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/noneto-brasil-jazz-sinfonica-afro-sambas-blue-note-sao-paulo-22259539/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Nilson Chaves: o canto de uma voz amazônica",
@@ -2746,17 +2832,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/nilson-chaves-o-canto-de-uma-voz-amazonica-bona-casa-de-musica-22109742/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Banda Black Coffee",
@@ -2774,17 +2867,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-banda-black-coffee-raiz-club-22360634/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Bruna Caram convida artistas Cor e Voz",
@@ -2802,17 +2896,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/bruna-caram-convida-artistas-cor-e-voz-bona-casa-de-musica-22269947/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Pulp Fiction Soundtrack por Frã Finamore",
@@ -2840,7 +2941,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/pulp-fiction-soundtrack-por-fra-finamore-blue-note-sao-paulo-22355896/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Mariah Carey: Christmas Time",
@@ -2858,17 +2960,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Nubank Parque",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 1705",
   "bairro": "Água Branca",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
+  "preco_min": 197.5,
+  "preco_max": 9995.0,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "5 a 15 anos acompanhados",
   "bom_para_criancas": false,
-  "link": "https://www.eventim.com.br/artist/mariah-carey/mariah-carey-3668661/",
-  "fonte": "Eventim"
+  "link": "https://nubankparque.com/mariah-carey/",
+  "fonte": "Nubank Parque",
+  "promocao": null
  },
  {
   "titulo": "Tributo a Miles Davis: Bitches Brew",
@@ -2896,7 +2999,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/tributo-a-miles-davis-bitches-brew-musicman-jazz-blue-note-sao-paulo-20931223/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Andrea Polinelli Quartet: Gato Barbieri Reloaded",
@@ -2924,7 +3028,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/andrea-polinelli-quartet-gato-barbieri-reloaded-blue-note-sao-paulo-22038816/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Otto acústico",
@@ -2946,17 +3051,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Tom Collins & The Fountain Dogs",
@@ -2974,17 +3086,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-tom-collins-the-fountain-dogs-raiz-club-22360649/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Marcelo Rubens Paiva: Rock in Translation",
@@ -3012,7 +3125,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/marcelo-rubens-paiva-rock-in-translation-blue-note-sao-paulo-22207931/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Tributo Simply Red & Christopher Cross: Mark Lambert",
@@ -3040,7 +3154,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/tributo-simply-red-christopher-cross-mark-lambert-blue-note-sao-paulo-22131646/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Luíza Strufaldi Duo",
@@ -3058,17 +3173,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-luiza-strufaldi-duo-raiz-club-22360641/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "André Frateschi e Piero Damiani: Lado Bowie",
@@ -3096,7 +3212,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/andre-frateschi-e-piero-damiani-lado-bowie-blue-note-sao-paulo-21990540/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Alucinados",
@@ -3124,7 +3241,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/alucinados-arena-morada-22306440/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Hector: Diário Musical",
@@ -3142,17 +3260,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/hector-apresenta-diario-musical-no-bona-bona-casa-de-musica-22255772/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Angel Ribeiro",
@@ -3170,17 +3295,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-angel-ribeiro-raiz-club-22360650/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Hélio Ramalho & Nessa Onda: canta Cabo Verde",
@@ -3208,7 +3334,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/helio-ramalho-nessa-onda-canta-cabo-verde-blue-note-sao-paulo-22270089/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Orquestra Brasileira de Música Jamaicana",
@@ -3226,17 +3353,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/orquestra-brasileira-de-musica-jamaicana-no-bona-bona-casa-de-musica-22198252/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Aline Abdo canta BTS",
@@ -3264,7 +3398,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/rolling-stone-novas-vozes-apresenta-aline-abdo-canta-bts-blue-note-sao-paulo-sala-02-22306321/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Tributo a Amy Winehouse",
@@ -3282,17 +3417,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Raiz Club",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Alves Guimarães, 153",
+  "bairro": "Pinheiros",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-tributo-a-amy-winehouse-raiz-club-22360651/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Phil Collins Carrossel: Ademir Dancona",
@@ -3320,35 +3456,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/phil-collins-carrossel-ademir-dancona-blue-note-sao-paulo-22359636/",
-  "fonte": "Eventim"
- },
- {
-  "titulo": "Heber Nunes: Gênese",
-  "categoria": "show",
-  "subcategoria": "rock",
-  "descricao": "O guitarrista Heber Nunes apresenta o trabalho 'Gênese'.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "22:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Blue Note São Paulo",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://www.eventim.com.br/event/heber-nunes-genese-blue-note-sao-paulo-22008014/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Undercurrent Trio & Suzan Veneman",
@@ -3376,7 +3485,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/undercurrent-trio-suzan-veneman-blue-note-sao-paulo-22248739/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Vitoria Maldonado: Minha Melhor Versão",
@@ -3404,7 +3514,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/vitoria-maldonado-minha-melhor-versao-blue-note-sao-paulo-22225272/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Loyle Carner",
@@ -3432,7 +3543,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/loyle-carner-cine-joia-22125159/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Mosquito",
@@ -3450,17 +3562,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
+  "regiao": "Zona Oeste",
+  "preco_min": 65.0,
+  "preco_max": 130.0,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/mosquito-bona-casa-de-musica-22323570/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Alzira E: Senhora do Tempo",
@@ -3478,17 +3597,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/alzira-e-senhora-do-tempo-com-marcelo-dworecki-e-chicao-bona-casa-de-musica-22165655/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Banda Comitatus: Beatles, 60 anos de Revolver",
@@ -3516,7 +3642,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/banda-comitatus-beatles-60-anos-do-disco-revolver-blue-note-sao-paulo-22248746/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Tricky",
@@ -3544,7 +3671,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/tricky-cine-joia-22047970/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Somos 90: Belo, Pixote, Rodriguinho e Marquinhos Sensação",
@@ -3562,17 +3690,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Nubank Parque",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 1705",
   "bairro": "Água Branca",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
+  "preco_min": 82.5,
+  "preco_max": 975.0,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "5 a 15 anos acompanhados",
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/somos-90-belo-pixote-rodriguinho-e-marquinhos-sensacao-a-reuniao-do-pagode-nubank-parque-21982914/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Seal: 30 anos dos álbuns I & II",
@@ -3590,17 +3719,18 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Nubank Parque",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 1705",
   "bairro": "Água Branca",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": null,
-  "preco_max": null,
+  "preco_min": 172.5,
+  "preco_max": 1795.0,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "5 a 15 anos acompanhados",
   "bom_para_criancas": false,
-  "link": "https://www.eventim.com.br/event/seal-nubank-parque-21478682/",
-  "fonte": "Eventim"
+  "link": "https://nubankparque.com/seal/",
+  "fonte": "Nubank Parque",
+  "promocao": null
  },
  {
   "titulo": "Funk Como Le Gusta: Roda de Funk",
@@ -3628,7 +3758,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/funk-como-le-gusta-apresenta-roda-de-funk-blue-note-sao-paulo-sala-02-22259418/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Martins voz e violão",
@@ -3646,17 +3777,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/martins-voz-e-violao-bona-casa-de-musica-22300732/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Rodrigo Ogi: Crônicas da Cidade Cinza 15 anos",
@@ -3684,7 +3822,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/rodrigo-ogi-e-banda-cronicas-da-cidade-cinza-15-anos-blue-note-sao-paulo-sala-02-22270087/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Juca Novaes",
@@ -3702,17 +3841,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/juca-novaes-no-bona-bona-casa-de-musica-22319780/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "SIM SP: Noite Coala Records",
@@ -3730,17 +3876,24 @@
   "fim": null,
   "dias_horarios": null,
   "local": "Bona Casa de Música",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Rua Doutor Paulo Vieira, 101",
+  "bairro": "Sumaré",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/sim-sp-apresenta-noite-coala-records-bona-casa-de-musica-22356869/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": {
+   "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
+   "validade": null,
+   "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+   "fonte": "Eventim",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "André Frateschi",
@@ -3768,7 +3921,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/andre-frateschi-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Humberto Gessinger",
@@ -3796,7 +3950,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Blitz",
@@ -3828,7 +3983,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/blitz-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "14 Bis",
@@ -3856,7 +4012,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/14-bis-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Elton John Cover",
@@ -3884,7 +4041,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/elton-john-cover-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "World of Dance Brazil",
@@ -3916,7 +4074,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/world-of-dance-brazil-2026",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Ivan Lins: 80 anos",
@@ -3927,7 +4086,7 @@
   "datas": [
    {
     "data": "2026-11-06",
-    "hora": null
+    "hora": "21:00"
    }
   ],
   "inicio": null,
@@ -3938,13 +4097,20 @@
   "bairro": "Vila Almeida",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 60,
+  "preco_min": 60.0,
   "preco_max": null,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/ivan-lins-80-anos-16527",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "Sócios do Clube Opus: 40% de desconto, até 2 ingressos por sócio (limite de 5% por setor).",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/ivan-lins-80-anos-16527",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Ira!: Tour Acústico 20 Anos, último show",
@@ -3955,7 +4121,7 @@
   "datas": [
    {
     "data": "2026-11-07",
-    "hora": null
+    "hora": "22:00"
    }
   ],
   "inicio": null,
@@ -3966,13 +4132,20 @@
   "bairro": "Vila Almeida",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 72,
+  "preco_min": 72.0,
   "preco_max": null,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/ira-tour-acustico-20-anos-ultimo-show-16536",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "Sócios do Clube Opus: 40% de desconto, até 2 ingressos por sócio (limite de 5% por setor).",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/ira-tour-acustico-20-anos-ultimo-show-16536",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Gian & Giovani: lançamento do DVD Planeta Sonho",
@@ -3983,7 +4156,7 @@
   "datas": [
    {
     "data": "2026-11-27",
-    "hora": null
+    "hora": "22:00"
    }
   ],
   "inicio": null,
@@ -3994,13 +4167,20 @@
   "bairro": "Vila Almeida",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 60,
+  "preco_min": 60.0,
   "preco_max": null,
   "gratuito": false,
-  "faixa_etaria": null,
+  "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/gian-giovani-lancamento-de-dvd-planeta-sonho-16540",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "Sócios do Clube Opus: 40% de desconto, até 2 ingressos por sócio (limite de 5% por setor).",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/gian-giovani-lancamento-de-dvd-planeta-sonho-16540",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Phonica: Marisa Monte & Orquestra ao vivo",
@@ -4011,23 +4191,865 @@
   "datas": [
    {
     "data": "2026-11-14",
-    "hora": null
+    "hora": "20:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
   "local": "Nubank Parque",
-  "endereco": null,
+  "endereco": "Av. Francisco Matarazzo, 1705",
   "bairro": "Água Branca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 125.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "a partir de 6 anos (6 a 14 acompanhados)",
+  "bom_para_criancas": false,
+  "link": "https://nubankparque.com/phonica/",
+  "fonte": "Nubank Parque",
+  "promocao": null
+ },
+ {
+  "titulo": "Daniel Caesar",
+  "categoria": "show",
+  "subcategoria": "R&B",
+  "descricao": "O cantor canadense de R&B Daniel Caesar faz show no Suhai Music Hall.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-12-02",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Suhai Music Hall",
+  "endereco": "Av. das Nações Unidas, 22540",
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "16 anos",
+  "bom_para_criancas": false,
+  "link": "https://suhaimusichall.com.br/evento/daniel-caesar/",
+  "fonte": "Suhai Music Hall",
+  "promocao": null
+ },
+ {
+  "titulo": "Balaia canta Marília",
+  "categoria": "show",
+  "subcategoria": "sertanejo/festa",
+  "descricao": "Noite na Audio com repertório de Marília Mendonça na voz de Balaia (nova data).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": "Av. Francisco Matarazzo, 694",
+  "bairro": null,
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
   "gratuito": false,
+  "faixa_etaria": "18 anos",
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1488-balaia-canta-marilia",
+  "fonte": "Audio",
+  "promocao": null
+ },
+ {
+  "titulo": "Só Pedrada Musical",
+  "categoria": "show",
+  "subcategoria": "baile/black music",
+  "descricao": "Festa dos 20 anos do Só Pedrada Musical com DJ Tamenpi, DJ Hum, BNegão e Luísa Viscardi: soul, funk e hip hop.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": "Av. Paulista, 2073 (Conjunto Nacional)",
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
-  "link": "https://nubankparque.com/phonica/",
-  "fonte": "Nubank Parque"
+  "link": "https://bluenotesp.com/shows/so-pedrada-musical/",
+  "fonte": "Blue Note SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Boca Livre",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "O grupo vocal Boca Livre, clássico da MPB, se apresenta no The Cavern Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.songkick.com/venues/4624661-cavern-club",
+  "fonte": "Songkick",
+  "promocao": null
+ },
+ {
+  "titulo": "Quarteto convida Heloisa Fernandes",
+  "categoria": "show",
+  "subcategoria": "Música de câmara",
+  "descricao": "Quarteto de Cordas da Cidade recebe a pianista Heloisa Fernandes, com obras dela, incluindo uma inédita.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Praça das Artes",
+  "endereco": "Av. São João, 281",
+  "bairro": "Sé",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
+  "fonte": "Theatro Municipal de São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Osesp duas e trinta: Bernstein, Reich e Stravinsky",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Versão vespertina do programa de vozes e percussão da Osesp, numa sexta às 14h30.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "14:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1602",
+  "fonte": "Osesp",
+  "promocao": null
+ },
+ {
+  "titulo": "Ensaio aberto Osesp: do bel canto ao minimalismo",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Chance de assistir ao ensaio da Osesp para o programa da semana, numa manhã de quinta.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "10:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 25.0,
+  "preco_max": 25.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1765",
+  "fonte": "Osesp",
+  "promocao": null
+ },
+ {
+  "titulo": "Ensaio aberto: Coro da Osesp recebe Pierre-Fabien Roubaty",
+  "categoria": "show",
+  "subcategoria": "Música coral",
+  "descricao": "Ensaio aberto do Coro da Osesp com o regente convidado Pierre-Fabien Roubaty.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": "10:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 25.0,
+  "preco_max": 25.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1769",
+  "fonte": "Osesp",
+  "promocao": null
+ },
+ {
+  "titulo": "Jazz na Estação: FM 5tet",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Quinteto FM 5tet abre a noite de jazz na Estação Motiva Cultural.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-04",
+    "hora": "19:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 132.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1856",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Jazz na Estação: FM 5tet – Referências",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Nova noite do FM 5tet, agora tocando suas referências no jazz.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-25",
+    "hora": "19:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 132.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1857",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Orquestra Jovem do Estado: Réquiem de Brahms",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "A Orquestra Jovem do Estado interpreta o Réquiem Alemão de Brahms na Sala São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 30.0,
+  "preco_max": 60.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1776",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Monteverdi Choir & English Baroque Soloists",
+  "categoria": "show",
+  "subcategoria": "Música barroca",
+  "descricao": "O coro e a orquestra de época britânicos fundados por John Eliot Gardiner se apresentam na Sala São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 140.0,
+  "preco_max": 320.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1648",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Grupo Martelo: Sotaque",
+  "categoria": "show",
+  "subcategoria": "música instrumental",
+  "descricao": "O Grupo Martelo apresenta o show 'Sotaque' na Estação Motiva Cultural.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-10",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 80.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1837",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Duda Beat e Letrux: Encontros Históricos",
+  "categoria": "show",
+  "subcategoria": "pop",
+  "descricao": "Duda Beat e Letrux dividem o palco da Sala São Paulo na série Encontros Históricos.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 380.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1792",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Matinais: Corporação Musical Lyra Mauá",
+  "categoria": "show",
+  "subcategoria": "banda",
+  "descricao": "Concerto matinal gratuito da banda Lyra Mauá. Retirada de ingressos 3 dias antes, a partir do meio-dia.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-15",
+    "hora": "10:50"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1739",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Cartas del Sur – Festival Ecos Latinoamericanos",
+  "categoria": "show",
+  "subcategoria": "música latino-americana",
+  "descricao": "Noite do Festival Ecos Latinoamericanos com o programa 'Cartas del Sur'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-17",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/2003",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Coral Paulistano e Indiana Nomma – Ecos Latinoamericanos",
+  "categoria": "show",
+  "subcategoria": "música coral/latina",
+  "descricao": "O Coral Paulistano encontra a cantora Indiana Nomma em programa latino-americano.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/2004",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Bésame Mucho: Concerto para bebês",
+  "categoria": "show",
+  "subcategoria": "concerto para bebês",
+  "descricao": "Concerto para bebês e crianças pequenas explorarem livremente com a família, com sons andinos, argentinos e brasileiros.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "10:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": "bebês e crianças pequenas",
+  "bom_para_criancas": true,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/2005",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Carta(s) de Reivindicação: Ubuntu Ensemble & La Sociedad",
+  "categoria": "show",
+  "subcategoria": "música latino-americana",
+  "descricao": "Ubuntu Ensemble e La Sociedad dividem a noite no Festival Ecos Latinoamericanos.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/2006",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "A Volta ao Mundo com Mamãe Noel (Tucca Aprendiz de Maestro)",
+  "categoria": "show",
+  "subcategoria": "concerto didático/Natal",
+  "descricao": "Concerto de Natal: Mamãe Noel viaja atrás do Papai Noel e mostra como o mundo celebra a data. Cerca de 1 hora.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 30.0,
+  "preco_max": 115.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1657",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "La Sereníssima: Martin Sued & La Sociedad + Saideira",
+  "categoria": "show",
+  "subcategoria": "música latino-americana",
+  "descricao": "O bandoneonista Martin Sued e La Sociedad encerram a noite com uma saideira no festival latino.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/2007",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Matinais: Banda Sinfônica Jovem do Estado",
+  "categoria": "show",
+  "subcategoria": "banda sinfônica",
+  "descricao": "Concerto gratuito de domingo de manhã com a Banda Sinfônica Jovem. Ingressos liberados 3 dias antes, ao meio-dia.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-22",
+    "hora": "10:50"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1740",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Travessias: de Schubert à MPB",
+  "categoria": "show",
+  "subcategoria": "canção/MPB",
+  "descricao": "Programa que liga canções de Schubert ao repertório da MPB.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-24",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 80.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1660",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Quando a Música Entra em Cena: clássicos no cinema",
+  "categoria": "show",
+  "subcategoria": "trilhas de cinema",
+  "descricao": "Orquestra Sinfônica Heliópolis toca grandes temas clássicos usados no cinema.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 300.0,
+  "preco_max": 300.0,
+  "gratuito": false,
+  "faixa_etaria": "7 anos",
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1967",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Palavras na Estação: Conceição Evaristo",
+  "categoria": "show",
+  "subcategoria": "literatura/encontro",
+  "descricao": "Encontro gratuito com a escritora Conceição Evaristo na série Palavras na Estação.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1905",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Primeiros Acordes: Música para bebês",
+  "categoria": "show",
+  "subcategoria": "concerto para bebês",
+  "descricao": "Jovens músicos tocam de pertinho para bebês de 0 a 3 anos, explorando timbres, gestos e movimento.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "10:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": "0 a 3 anos",
+  "bom_para_criancas": true,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1844",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Fresno Sinfonia '26",
+  "categoria": "show",
+  "subcategoria": "rock com orquestra",
+  "descricao": "A banda Fresno revisita seu repertório com orquestra na Sala São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-12-02",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 300.0,
+  "preco_max": 450.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1990",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Histórias do café, com Comer História",
+  "categoria": "show",
+  "subcategoria": "música e gastronomia",
+  "descricao": "Programa da Estação Motiva Cultural sobre a história do café, com o projeto Comer História.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1841",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Arroz com Feijão, Retratos do Brasil – Brasil Jazz Sinfônica",
+  "categoria": "show",
+  "subcategoria": "música instrumental",
+  "descricao": "Orquestra toca arranjos instrumentais de Milton Nascimento, Cartola, João do Vale e Rita Lee, a preço simbólico.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "16:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Sérgio Cardoso",
+  "endereco": "R. Rui Barbosa, 153",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 1.0,
+  "preco_max": 2.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://amigosdaarte.org.br/agenda-equipamento/arroz-com-feijao-retratos-do-brasil/",
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  }
 ]

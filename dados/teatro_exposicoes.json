@@ -1,5 +1,158 @@
 [
  {
+  "titulo": "Elos - Pirilampos do Planeta",
+  "categoria": "exposicao",
+  "subcategoria": "exposição luminosa",
+  "descricao": "Esculturas iluminadas feitas com materiais descartados, que lembram rios, raízes e micélios; boa porta de entrada para conversar sobre natureza com as crianças.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-08-21",
+  "fim": "2026-11-22",
+  "dias_horarios": "ter a dom, 9h-20h",
+  "local": "Farol Santander (24º andar)",
+  "endereco": null,
+  "bairro": "Centro",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 22.5,
+  "preco_max": 45.0,
+  "gratuito": false,
+  "faixa_etaria": "Todas as idades",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/elos-farol-santander/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Pixel Zoo Ocean",
+  "categoria": "exposicao",
+  "subcategoria": "exposição imersiva",
+  "descricao": "Projeções 360° com luz e som levam a recifes, florestas de algas e mar profundo, com animais marinhos em escala gigante e temas como poluição por plástico.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-26",
+  "fim": "2027-01-31",
+  "dias_horarios": "qua a seg, 10h-22h (fechado às terças)",
+  "local": "Nubank Arte Lab (Conjunto Nacional)",
+  "endereco": "Av. Paulista, 2.073, 1º andar",
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "Todas as idades",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/na-paulista-exposicao-sp/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
+ },
+ {
+  "titulo": "Trem de Natal da Maria Fumaça",
+  "categoria": "passeio",
+  "subcategoria": "passeio de trem natalino",
+  "descricao": "Passeio noturno de Maria Fumaça de Campinas a Jaguariúna com chegada do Papai Noel na estação; volta prevista às 22h30. Crianças até 5 anos pagam R$ 65.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "17:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Anhumas (ABPF)",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "Campinas",
+  "regiao": "Interior/Litoral",
+  "preco_min": 65.0,
+  "preco_max": 300.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/maria-fumaca-campinas/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": {
+   "texto": "Cupom TREM: ingresso adulto de R$ 300 sai por R$ 150",
+   "validade": null,
+   "link": "https://saopauloparacriancas.com.br/maria-fumaca-campinas/",
+   "fonte": "São Paulo para Crianças",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Bailes da vida: Academia da Osesp e Studio3 Cia. de Dança",
+  "categoria": "danca",
+  "subcategoria": "dança e orquestra",
+  "descricao": "Espetáculo de dança com orquestra e coros da Academia da Osesp inspirado na música de Milton Nascimento. Grátis, com retirada online.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-07",
+    "hora": "16:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/2012",
+  "fonte": "Osesp",
+  "promocao": null
+ },
+ {
+  "titulo": "São Paulo Companhia Jovem de Dança",
+  "categoria": "danca",
+  "subcategoria": "dança contemporânea",
+  "descricao": "Apresentação gratuita da São Paulo Companhia Jovem de Dança na Estação Motiva Cultural.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "20:30"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação Motiva Cultural",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1869",
+  "fonte": "Sala São Paulo",
+  "promocao": null
+ },
+ {
   "titulo": "Rosa Elena Curruchich: crônicas de Comalapa",
   "categoria": "exposicao",
   "subcategoria": "artes visuais",
@@ -16,11 +169,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/rosa-elena-curruchich-cronicas-de-comalapa",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Pablo Delano: Museu da Antiga Colônia",
@@ -39,11 +193,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/pablo-delano-museu-da-antiga-colonia",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Sala de vídeo: Edgar Calel",
@@ -62,11 +217,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/sala-de-video-edgar-calel",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Histórias latino-americanas",
@@ -85,11 +241,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/historias-latino-americanas",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Sol Calero: Casa María Lionza",
@@ -108,11 +265,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/sol-calero",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Jesús Soto",
@@ -131,11 +289,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/jesus-soto",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Manuel Herreros & Mateo Manaure: mi nombre es Venezuela",
@@ -154,11 +313,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://masp.org.br/exposicoes/manuel-herreros-mateo-manaure-mi-nombre-es-venezuela",
-  "fonte": "MASP"
+  "fonte": "MASP",
+  "promocao": null
  },
  {
   "titulo": "Marília Mendonça – Sentimento Louco",
@@ -177,11 +337,12 @@
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://mis-sp.org.br/exposicao/marilia-mendonca-sentimento-louco/",
-  "fonte": "MIS"
+  "fonte": "MIS",
+  "promocao": null
  },
  {
   "titulo": "Caleidoscópio Xapiri Yanomami",
@@ -200,11 +361,12 @@
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://mis-sp.org.br/exposicao/caleidoscopio-xapiri-yanomam/",
-  "fonte": "MIS"
+  "fonte": "MIS",
+  "promocao": null
  },
  {
   "titulo": "Círio de Nazaré: do Sagrado ao Profano – Nova Fotografia 2026",
@@ -223,11 +385,12 @@
   "regiao": "Zona Oeste",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://mis-sp.org.br/exposicao/cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-nova-fotografia-2026/",
-  "fonte": "MIS"
+  "fonte": "MIS",
+  "promocao": null
  },
  {
   "titulo": "39º Panorama da Arte Brasileira: Depois que tudo foi dito",
@@ -246,11 +409,12 @@
   "regiao": "Zona Sul",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://mam.org.br/exposicao/39o-panorama-da-arte-brasileira-depois-que-tudo-foi-dito/",
-  "fonte": "MAM SP"
+  "fonte": "MAM SP",
+  "promocao": null
  },
  {
   "titulo": "Via Satélite: Diálogos com Nam June Paik – Charlotte Moorman e Vivian Caccuri",
@@ -269,11 +433,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/via-satelite-dialogos-com-nam-june-paik-charlotte-moorman-vivian-caccuri/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Nós, Jovens",
@@ -292,11 +457,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/nos-jovens/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Ismael Nery: armadilha moderna",
@@ -315,11 +481,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/ismael-nery-armadilha-moderna/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Luana Vitra: Bandeira Branca",
@@ -338,11 +505,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/luana-vitra-bandeira-branca/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Vídeos do acervo – Luiz Roque, Urubu",
@@ -361,11 +529,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/luiz-roque-urubu/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Uma Obra: Pintura sem fim",
@@ -384,11 +553,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/uma-obra-pintura-sem-fim/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Beatriz Milhazes: gravuras do acervo da Pinacoteca",
@@ -407,11 +577,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/beatriz-milhazes/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Paulo Pedro Leal: trágico subúrbio",
@@ -430,11 +601,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/paulo-pedro-leal-2/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Jardim das Esculturas",
@@ -453,11 +625,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/jardim-das-esculturas/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Coleção Roger Wright: Instalações",
@@ -476,11 +649,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://pinacoteca.org.br/programacao/exposicoes/colecao-roger-wright-instalacoes/",
-  "fonte": "Pinacoteca"
+  "fonte": "Pinacoteca",
+  "promocao": null
  },
  {
   "titulo": "Ocupação Anísio Teixeira",
@@ -493,40 +667,18 @@
   "fim": "2026-11-15",
   "dias_horarios": "ter a sáb 11h-20h; dom e feriados 11h-19h",
   "local": "Itaú Cultural",
-  "endereco": null,
+  "endereco": "Av. Paulista, 149",
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://www.itaucultural.org.br/secoes/agenda/pioneiro-da-educacao-do-brasil-anisio-teixeira-e-homenageado-pelo-ocupacao",
-  "fonte": "Itaú Cultural"
- },
- {
-  "titulo": "O bocejo da serpente",
-  "categoria": "teatro",
-  "subcategoria": "infantil / poesia",
-  "descricao": "Espetáculo lúdico sobre a busca por poemas perdidos, inspirado no livro homônimo de Antônia Gomes Minchoni.",
-  "tipo_data": "temporada",
-  "datas": [],
-  "inicio": "2026-08-02",
-  "fim": "2026-11-29",
-  "dias_horarios": "domingos 16h (ingressos gratuitos pelo Inti, na terça anterior)",
-  "local": "Itaú Cultural",
-  "endereco": null,
-  "bairro": "Bela Vista",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://www.itaucultural.org.br/secoes/agenda/o-bocejo-da-serpente-aborda-a-poetica-e-o-ludico-na-busca-por-poesias-perdidas",
-  "fonte": "Itaú Cultural"
+  "fonte": "Itaú Cultural",
+  "promocao": null
  },
  {
   "titulo": "Grupo Corpo: Piracema e Lecuona",
@@ -543,13 +695,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 25,
-  "preco_max": 240,
-  "gratuito": null,
+  "preco_min": 25.0,
+  "preco_max": 240.0,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/grupo-corpo-com-piracema-e-lecuona/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "A Menina que Inundou o Mundo",
@@ -566,13 +719,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 45,
-  "preco_max": 120,
-  "gratuito": null,
+  "preco_min": 45.0,
+  "preco_max": 120.0,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/a-menina-que-inundou-o-mundo/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "A Raiz",
@@ -589,13 +743,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 25,
-  "preco_max": 50,
-  "gratuito": null,
+  "preco_min": 25.0,
+  "preco_max": 50.0,
+  "gratuito": false,
   "faixa_etaria": "12 anos",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/a-raiz/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "Segunda chance, com Nany People",
@@ -621,13 +776,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 40,
-  "preco_max": 120,
-  "gratuito": null,
+  "preco_min": 40.0,
+  "preco_max": 120.0,
+  "gratuito": false,
   "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/segunda-chance/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "Gongada Drag: Golden Girls",
@@ -649,13 +805,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 100,
-  "preco_max": 210,
-  "gratuito": null,
+  "preco_min": 100.0,
+  "preco_max": 210.0,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/gongada-drag-golden-girls/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "Quasar Cia de Dança: Menos da Metade",
@@ -683,11 +840,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/menos-da-metade/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "Cavalleria Rusticana, com Denise de Freitas",
@@ -709,13 +867,14 @@
   "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://amigosdaarte.org.br/agenda-equipamento/cavalleria-rusticana-com-a-mezzo-soprano-denise-de-freitas/",
-  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)"
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
  },
  {
   "titulo": "Alice no País das Maravilhas, um Musical Desconcertante",
@@ -728,17 +887,24 @@
   "fim": "2026-11-29",
   "dias_horarios": "dom 15h e 17h30; seg 15h; sex e sáb 17h30 (conforme listagem)",
   "local": "Teatro Shopping Metrô Tatuapé (Sala Lea Garcia)",
-  "endereco": null,
+  "endereco": "Rua Domingos Agostim, 91",
   "bairro": "Tatuapé",
   "cidade": "São Paulo",
   "regiao": "Zona Leste",
-  "preco_min": 40,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 40.0,
+  "preco_max": 90.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-alice-no-pais-das-maravilhas-um-musical-desconcertante-teatro-shopping-metro-tatuape-n-sala-lea-garcia-teatro-infantil-70036988455753.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Ingresso promocional de R$ 90 por R$ 40 (+ taxa)",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-alice-no-pais-das-maravilhas-um-musical-desconcertante-teatro-shopping-metro-tatuape-n-sala-lea-garcia-teatro-infantil-70036988455753.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Os Três Porquinhos – O Mundo Nos Espera",
@@ -751,17 +917,24 @@
   "fim": "2026-11-29",
   "dias_horarios": "dom 13h e 15h; seg 11h e 13h; sex 11h e 15h; sáb 15h (conforme listagem)",
   "local": "Teatro Shopping Metrô Tatuapé (Sala Lea Garcia)",
-  "endereco": null,
+  "endereco": "Rua Domingos Agostim, 91",
   "bairro": "Tatuapé",
   "cidade": "São Paulo",
   "regiao": "Zona Leste",
-  "preco_min": 40,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_min": 40.0,
+  "preco_max": 90.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-os-tres-porquinhos-o-mundo-nos-espera-teatro-shopping-metro-tatuape-n-sala-lea-garcia-teatro-infantil-151524813935051.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Ingresso promocional de R$ 90 por R$ 40 (+ taxa)",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/teatro-por-genero/ingressos-para-teatro-infantil.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "O Mágico de Oz",
@@ -772,19 +945,26 @@
   "datas": [],
   "inicio": "2026-11-05",
   "fim": "2026-11-28",
-  "dias_horarios": "sáb 17h30 (e sessões em dias de semana, conforme listagem)",
+  "dias_horarios": "sáb 17h30; seg 17h30 e 17h45",
   "local": "Teatro Bibi Ferreira",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Av. Brigadeiro Luís Antônio, 931",
+  "bairro": "Bela Vista",
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": 45,
-  "preco_max": 90,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "regiao": "Centro",
+  "preco_min": 45.0,
+  "preco_max": 90.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-o-magico-de-oz-teatro-bibi-ferreira-teatro-infantil-332921320547303.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Ingresso promocional a R$ 49,90 (+ taxa); inteira R$ 90",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-o-magico-de-oz-teatro-bibi-ferreira-teatro-infantil-332921320547303.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Os Três Porquinhos, o Musical",
@@ -795,19 +975,26 @@
   "datas": [],
   "inicio": "2026-11-05",
   "fim": "2026-11-29",
-  "dias_horarios": "dom 15h; sáb 16h15 (e sessões em dias de semana, conforme listagem)",
+  "dias_horarios": "sáb 16h15; dom 15h; seg 16h15 e 16h30",
   "local": "Teatro Bibi Ferreira",
-  "endereco": null,
-  "bairro": null,
+  "endereco": "Av. Brigadeiro Luís Antônio, 931",
+  "bairro": "Bela Vista",
   "cidade": "São Paulo",
-  "regiao": null,
+  "regiao": "Centro",
   "preco_min": 44.9,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "preco_max": 90.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-os-tres-porquinhos-o-musical-teatro-bibi-ferreira-musical-infantil-163573802523919.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Ingresso promocional de R$ 90 por R$ 44,90 (+ taxa)",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-os-tres-porquinhos-o-musical-teatro-bibi-ferreira-musical-infantil-163573802523919.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Arianna Nutt – De Repente 40",
@@ -831,11 +1018,12 @@
   "regiao": null,
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-arianna-nutt-de-repente-40-stand-up-comedy-no-marte-hall-sp-marte-hall-sao-paulo-comedia-stand-up-162218730197875.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": null
  },
  {
   "titulo": "Sexta do Stand Up Comedy (grátis)",
@@ -852,13 +1040,14 @@
   "bairro": "Bixiga",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
+  "preco_min": 0.0,
+  "preco_max": 0.0,
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-gratis-sexta-do-stand-up-comedy-as-21h-bixiga-comedy-club-comedia-stand-up-727828900569504.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": null
  },
  {
   "titulo": "Noite da Comédia",
@@ -875,13 +1064,14 @@
   "bairro": "Bixiga",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 30,
-  "preco_max": 50,
-  "gratuito": null,
+  "preco_min": 30.0,
+  "preco_max": 50.0,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-noite-da-comedia-bixiga-comedy-club-comedia-stand-up-862293355724349.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": null
  },
  {
   "titulo": "Cortinas Abertas no Teatro Caritas",
@@ -903,13 +1093,14 @@
   "bairro": null,
   "cidade": "São Paulo",
   "regiao": null,
-  "preco_min": 55,
+  "preco_min": 55.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-cortinas-abertas-no-teatro-caritas-teatro-caritas-danca-598413578911344.html",
-  "fonte": "Bilheteria Express"
+  "fonte": "Bilheteria Express",
+  "promocao": null
  },
  {
   "titulo": "Feliz Ano Velho – O Musical",
@@ -926,13 +1117,14 @@
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 25,
+  "preco_min": 25.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "14 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/feliz-ano-velho-o-musical-16277",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "On Your Feet! – O Musical da Gloria Estefan",
@@ -949,13 +1141,20 @@
   "bairro": "Vila Olímpia",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 25,
-  "preco_max": 220,
-  "gratuito": null,
+  "preco_min": 25.0,
+  "preco_max": 220.0,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/on-your-feet-o-musical-da-gloria-estefan-16378",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "40% de desconto para assinantes do Clube UOL com cupom (até 6 ingressos/mês)",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/on-your-feet-o-musical-da-gloria-estefan-16378",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
  },
  {
   "titulo": "Mulheres em Chamas",
@@ -977,13 +1176,14 @@
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 40,
+  "preco_min": 40.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "14 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/mulheres-em-chamas-17105",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Joguei no Grupo",
@@ -1005,13 +1205,14 @@
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
+  "preco_min": 50.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/joguei-no-grupo-16841",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Thiago Ventura – Lado a Lado",
@@ -1033,13 +1234,14 @@
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 45,
+  "preco_min": 45.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "16 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/thiago-ventura-15611",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Bianca Del Rio – It Gets Bitter",
@@ -1061,13 +1263,14 @@
   "bairro": "Perdizes",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 150,
+  "preco_min": 150.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "14 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/bianca-del-rio-it-gets-bitter-world-comedy-tour-16576",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Cátia Damasceno – O Que Pode Dar Errado na Cama?",
@@ -1089,13 +1292,14 @@
   "bairro": "Perdizes",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 40,
+  "preco_min": 40.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "18 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/catia-damasceno-em-sp-o-que-pode-dar-errado-na-cama-16513",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Fábio Rabin em Séloko",
@@ -1117,13 +1321,14 @@
   "bairro": "Perdizes",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 44,
+  "preco_min": 44.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "14 anos",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/fabio-rabin-em-seloko-15628",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Padre Patrick – Pecado É Não Rir",
@@ -1145,13 +1350,14 @@
   "bairro": "Consolação",
   "cidade": "São Paulo",
   "regiao": "Centro",
-  "preco_min": 50,
+  "preco_min": 50.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/padre-patrick-pecado-e-nao-rir-16348",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "A Bela e a Fera – Ballonné Studio de Dança",
@@ -1173,13 +1379,14 @@
   "bairro": "Perdizes",
   "cidade": "São Paulo",
   "regiao": "Zona Oeste",
-  "preco_min": 62,
+  "preco_min": 62.0,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/a-bela-e-a-fera-ballonne-studio-de-danca-16814",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Igor Guimarães – Stand Up de Humor",
@@ -1203,11 +1410,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/igor-guimaraes-stand-up-de-humor-16059",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Fernando Pedrosa – Xaveca a Plateia e Bebe Vinho",
@@ -1231,11 +1439,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/fernando-pedrosa-xaveca-a-plateia-e-bebe-vinho-15847",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Gongada Drag",
@@ -1259,11 +1468,12 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/gongada-drag-15984",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Dodô",
@@ -1287,80 +1497,60 @@
   "regiao": "Centro",
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/dodo-16396",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Gil – Andar com Fé, o Musical",
   "categoria": "teatro",
   "subcategoria": "musical",
-  "descricao": "Temporada do musical 'Gil – Andar com Fé'; local e preço não constam na listagem.",
+  "descricao": "Musical dirigido por Miguel Falabella que percorre a vida e as canções de Gilberto Gil, do exílio aos clássicos.",
   "tipo_data": "temporada",
   "datas": [],
-  "inicio": "2026-11-05",
+  "inicio": "2026-08-20",
   "fim": "2026-11-29",
-  "dias_horarios": null,
-  "local": null,
-  "endereco": null,
-  "bairro": null,
+  "dias_horarios": "qui e sex 20h; sáb 16h e 20h; dom 15h e 19h",
+  "local": "Teatro Santander",
+  "endereco": "Av. Pres. Juscelino Kubitschek, 2041",
+  "bairro": "Itaim Bibi",
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "regiao": "Zona Oeste",
+  "preco_min": 25.0,
+  "preco_max": 400.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre (menores de 12 com responsável)",
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/115256",
-  "fonte": "Sympla"
- },
- {
-  "titulo": "Percy Jackson – O Ladrão de Raios: O Musical",
-  "categoria": "teatro",
-  "subcategoria": "musical",
-  "descricao": "Musical baseado na aventura juvenil 'Percy Jackson – O Ladrão de Raios'; local e preço não constam na listagem.",
-  "tipo_data": "temporada",
-  "datas": [],
-  "inicio": "2026-11-05",
-  "fim": "2026-11-29",
-  "dias_horarios": null,
-  "local": null,
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://bileto.sympla.com.br/event/114114",
-  "fonte": "Sympla"
+  "fonte": "Sympla / Teatro Santander",
+  "promocao": null
  },
  {
   "titulo": "Rita Lee, uma Autobiografia Musical – 2026",
   "categoria": "teatro",
   "subcategoria": "musical",
-  "descricao": "Temporada do musical sobre a vida e a obra de Rita Lee; local e preço não constam na listagem.",
+  "descricao": "Mel Lisboa volta a viver Rita Lee no musical baseado na autobiografia da cantora, com os grandes sucessos ao vivo.",
   "tipo_data": "temporada",
   "datas": [],
-  "inicio": "2026-11-06",
+  "inicio": "2026-10-02",
   "fim": "2026-12-13",
-  "dias_horarios": null,
-  "local": null,
+  "dias_horarios": "sex e sáb 20h; dom 17h",
+  "local": "Teatro Porto",
   "endereco": null,
   "bairro": null,
   "cidade": "São Paulo",
   "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
+  "preco_min": 50.0,
+  "preco_max": 220.0,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/116591",
-  "fonte": "Sympla"
+  "fonte": "Sympla / Catraca Livre",
+  "promocao": null
  },
  {
   "titulo": "Todas as Coisas Maravilhosas",
@@ -1379,34 +1569,36 @@
   "regiao": null,
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/126797",
-  "fonte": "Sympla"
+  "fonte": "Sympla",
+  "promocao": null
  },
  {
   "titulo": "Imagina na Adolescência",
-  "categoria": "standup",
-  "subcategoria": "humor",
-  "descricao": "Espetáculo de humor listado em stand-up; local e preço não constam na listagem.",
+  "categoria": "teatro",
+  "subcategoria": "comédia",
+  "descricao": "Comédia com Priscila Assum sobre uma mãe às voltas com o filho adolescente que quer independência, baseada no livro de Thaís Vilarinho.",
   "tipo_data": "temporada",
   "datas": [],
-  "inicio": "2026-11-07",
-  "fim": "2026-11-15",
-  "dias_horarios": null,
-  "local": null,
+  "inicio": null,
+  "fim": "2026-12-06",
+  "dias_horarios": "sáb e dom 17h",
+  "local": "Teatro Multiplan MorumbiShopping",
   "endereco": null,
   "bairro": null,
   "cidade": "São Paulo",
-  "regiao": null,
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": null,
-  "faixa_etaria": null,
+  "regiao": "Zona Sul",
+  "preco_min": 60.0,
+  "preco_max": 120.0,
+  "gratuito": false,
+  "faixa_etaria": "12 anos",
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/123873",
-  "fonte": "Sympla"
+  "fonte": "Sympla / São Paulo para Crianças",
+  "promocao": null
  },
  {
   "titulo": "Confissões Improvisadas",
@@ -1425,11 +1617,12 @@
   "regiao": null,
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/68456",
-  "fonte": "Sympla"
+  "fonte": "Sympla",
+  "promocao": null
  },
  {
   "titulo": "Rodrigo Marques – Stand-up Comedy",
@@ -1448,11 +1641,12 @@
   "regiao": null,
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/113928",
-  "fonte": "Sympla"
+  "fonte": "Sympla",
+  "promocao": null
  },
  {
   "titulo": "HaHaHappy Hour",
@@ -1471,11 +1665,12 @@
   "regiao": null,
   "preco_min": null,
   "preco_max": null,
-  "gratuito": null,
+  "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://bileto.sympla.com.br/event/79703",
-  "fonte": "Sympla"
+  "fonte": "Sympla",
+  "promocao": null
  },
  {
   "titulo": "Cansei de Ser Belo",
@@ -1498,7 +1693,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/artist/teatro-youtube/cansei-de-ser-belo-4221990/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Maurício Meirelles: Surto Coletivo",
@@ -1526,7 +1722,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/mauricio-meirelles-em-surto-coletivo-teatro-das-artes-22311460/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Cerveja com a Sua Mãe ao vivo: parte II",
@@ -1554,7 +1751,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.eventim.com.br/event/cerveja-com-a-sua-mae-ao-vivo-parte-ii-teatro-youtube-22319134/",
-  "fonte": "Eventim"
+  "fonte": "Eventim",
+  "promocao": null
  },
  {
   "titulo": "Diogo Portugal",
@@ -1582,7 +1780,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/diogo-portugal-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Nando Viana e Rodrigo Marques",
@@ -1610,7 +1809,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.ticketmaster.com.br/event/nando-viana-rodrigo-marques-the-cavern-club",
-  "fonte": "Ticketmaster Brasil"
+  "fonte": "Ticketmaster Brasil",
+  "promocao": null
  },
  {
   "titulo": "Raphael Ghanem: A Carne Só Cai no Prato do Vegano",
@@ -1632,13 +1832,14 @@
   "bairro": "Vila Almeida",
   "cidade": "São Paulo",
   "regiao": "Zona Sul",
-  "preco_min": 50,
+  "preco_min": 50.0,
   "preco_max": null,
   "gratuito": false,
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://uhuu.com/evento/sp/sao-paulo/raphael-ghanem-15992",
-  "fonte": "Uhuu"
+  "fonte": "Uhuu",
+  "promocao": null
  },
  {
   "titulo": "Do Cavalo Nada Sabemos",
@@ -1661,7 +1862,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://teatrofaap.showare.com.br/Default.aspx?EventId=216&sw_sc=internet&trk_eventId=216",
-  "fonte": "Teatro FAAP"
+  "fonte": "Teatro FAAP",
+  "promocao": null
  },
  {
   "titulo": "Miró: Mestre das Formas",
@@ -1684,7 +1886,8 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://www.guiadasemana.com.br/sao-paulo/exposicao/evento/exposicao-joan-miro-mab-faap-sao-paulo",
-  "fonte": "Guia da Semana"
+  "fonte": "Guia da Semana",
+  "promocao": null
  },
  {
   "titulo": "Marlene Barros: tecitura do feminino",
@@ -1707,6 +1910,672 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://ccbb.com.br/sao-paulo/programacao/marlene-barros-tecitura-do-feminino/",
-  "fonte": "CCBB SP"
+  "fonte": "CCBB SP",
+  "promocao": null
+ },
+ {
+  "titulo": "Quanto mais desejo, mais invento o que vejo – Fernando Lemos",
+  "categoria": "exposicao",
+  "subcategoria": "artes visuais e fotografia",
+  "descricao": "Centenário do artista luso-brasileiro com cerca de 400 obras: fotos, desenhos, cartazes, gravuras, moda e design de sete décadas.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-09-19",
+  "fim": "2027-02-07",
+  "dias_horarios": "ter a dom e feriados 10h-20h",
+  "local": "IMS Paulista",
+  "endereco": "Av. Paulista, 2424",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://ims.com.br/exposicao/fernando-lemos/",
+  "fonte": "IMS",
+  "promocao": null
+ },
+ {
+  "titulo": "Dignidade e luta: Laudelina de Campos Mello",
+  "categoria": "exposicao",
+  "subcategoria": "história e fotografia",
+  "descricao": "Fotos, documentos e obras de artistas contam a trajetória da sindicalista negra que fundou a primeira associação de trabalhadoras domésticas.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-05-16",
+  "fim": "2026-11-22",
+  "dias_horarios": "ter a dom e feriados 10h-20h",
+  "local": "IMS Paulista",
+  "endereco": "Av. Paulista, 2424",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://ims.com.br/exposicao/dignity-and-struggle-laudelina-de-campos-mello/",
+  "fonte": "IMS",
+  "promocao": null
+ },
+ {
+  "titulo": "Elos – Pirilampos do Planeta",
+  "categoria": "exposicao",
+  "subcategoria": "instalação luminosa",
+  "descricao": "Esculturas iluminadas feitas de objetos descartados, inspiradas em rios, raízes e fungos, no 24º andar do Farol Santander.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-08-21",
+  "fim": "2026-11-22",
+  "dias_horarios": "ter a dom 9h-20h (últimos ingressos 19h)",
+  "local": "Farol Santander",
+  "endereco": null,
+  "bairro": "Centro",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 22.5,
+  "preco_max": 45.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/?p=298269",
+  "fonte": "São Paulo para Crianças / Farol Santander",
+  "promocao": {
+   "texto": "Clientes Santander pagam R$ 40,50 (10% off) com cartão Santander, até 8 ingressos",
+   "validade": null,
+   "link": "https://www.farolsantander.com.br/sp/tickets",
+   "fonte": "Farol Santander",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Elza Soares – Se Acaso Ela Chegasse",
+  "categoria": "exposicao",
+  "subcategoria": "grafite / artes visuais",
+  "descricao": "Oito telas de grafiteiras das Fábricas de Cultura homenageiam a trajetória de Elza Soares, no hall do Teatro Sérgio Cardoso.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-13",
+  "fim": "2026-11-19",
+  "dias_horarios": null,
+  "local": "Teatro Sérgio Cardoso",
+  "endereco": "R. Rui Barbosa, 153",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://amigosdaarte.org.br/agenda-equipamento/elza-soares-se-acaso-ela-chegasse/",
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
+ },
+ {
+  "titulo": "Casa de Vó",
+  "categoria": "danca",
+  "subcategoria": "dança-teatro",
+  "descricao": "Duas netas recontam memórias para salvar a casa da avó da demolição; crianças são convidadas a brincar e dançar junto.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "11:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Sérgio Cardoso",
+  "endereco": "R. Rui Barbosa, 153",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://amigosdaarte.org.br/agenda-equipamento/casa-de-vo/",
+  "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+  "promocao": null
+ },
+ {
+  "titulo": "As Bodas de Fígaro, de Mozart",
+  "categoria": "teatro",
+  "subcategoria": "ópera",
+  "descricao": "Ópera cômica de Mozart sobre o casamento de Fígaro e Susanna, ameaçado pelo Conde; cantada em italiano com legendas.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-27",
+  "fim": "2026-12-06",
+  "dias_horarios": "sessões diárias (horários no link)",
+  "local": "Teatro Bradesco",
+  "endereco": "Rua Palestra Itália, 500 (Bourbon Shopping, 3º piso)",
+  "bairro": "Perdizes",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 90.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/as-bodas-de-figaro-de-mozart-16600",
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "50% de desconto para clientes Bradesco e Next (limite de 260 ingressos)",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/as-bodas-de-figaro-de-mozart-16600",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Abracadabra – O Circo Musical: Dedé Santana 90 anos, com Diego Hypólito",
+  "categoria": "teatro",
+  "subcategoria": "circo musical",
+  "descricao": "Circo com música ao vivo, acrobatas, malabaristas, mágicos e palhaços celebra os 90 anos de Dedé Santana.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-05",
+  "fim": "2026-11-15",
+  "dias_horarios": "qui e sex 19h30; sáb 16h e 19h30; dom 15h e 18h30",
+  "local": "Arena Sabesp – Mooca Plaza Shopping",
+  "endereco": "Rua Capitão Pacheco e Chaves, 313",
+  "bairro": "Vila Prudente",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 25.0,
+  "preco_max": 300.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/reder-circus-dede-santana-e-diego-hypolito-em-abracadabra-16502",
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "Ingresso solidário: 50% off na inteira doando 1 kg de alimento não perecível no dia",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/reder-circus-dede-santana-e-diego-hypolito-em-abracadabra-16502",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "A Igreja da Fran, de Rafaela Azevedo",
+  "categoria": "teatro",
+  "subcategoria": "comédia",
+  "descricao": "Segundo capítulo da trilogia de King Kong Fran: humor ácido sobre misoginia e poder na doutrinação religiosa.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-09",
+    "hora": null
+   },
+   {
+    "data": "2026-11-10",
+    "hora": null
+   },
+   {
+    "data": "2026-11-11",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Sabesp Frei Caneca",
+  "endereco": "Rua Frei Caneca, 569 (Shopping Frei Caneca, 7º piso)",
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 40.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "18 anos",
+  "bom_para_criancas": false,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/a-igreja-da-fran-de-rafaela-azevedo-15678",
+  "fonte": "Uhuu",
+  "promocao": {
+   "texto": "Ingresso solidário: 30% off doando 1 kg de alimento ou 1 agasalho",
+   "validade": null,
+   "link": "https://uhuu.com/evento/sp/sao-paulo/a-igreja-da-fran-de-rafaela-azevedo-15678",
+   "fonte": "Uhuu",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "A Christmas Carol – Um Conto de Natal",
+  "categoria": "teatro",
+  "subcategoria": "musical",
+  "descricao": "Musical natalino com cerca de 70 artistas e Fernando Caruso como Scrooge, o avarento visitado por fantasmas na véspera de Natal.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-24",
+    "hora": "20:30"
+   },
+   {
+    "data": "2026-11-25",
+    "hora": "20:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Liberdade",
+  "endereco": "Rua São Joaquim, 129",
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 150.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre (menores de 2 anos não pagam)",
+  "bom_para_criancas": false,
+  "link": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": {
+   "texto": "Clientes Glesp: 25% de desconto na inteira com cupom (até 4 ingressos)",
+   "validade": null,
+   "link": "https://saopauloparacriancas.com.br/a-christmas-carol-musical-sp/",
+   "fonte": "São Paulo para Crianças",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Chapeuzinho Vermelho",
+  "categoria": "teatro",
+  "subcategoria": "infantil",
+  "descricao": "Releitura em que o lobo é um lobo-guará do bem e se une a Chapeuzinho e à vovó para ensinar um caçador a cuidar da floresta.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-01",
+  "fim": "2026-11-29",
+  "dias_horarios": "dom 16h15",
+  "local": "Teatro Bibi Ferreira",
+  "endereco": "Av. Brigadeiro Luís Antônio, 931",
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 39.9,
+  "preco_max": 80.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-chapeuzinho-vermelho-teatro-bibi-ferreira-teatro-infantil-374455720533701.html",
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Ingresso promocional a R$ 39,90 (+ taxa); inteira R$ 80",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-chapeuzinho-vermelho-teatro-bibi-ferreira-teatro-infantil-374455720533701.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Deu a Louca nos Contos de Fada – Uma Comédia Além da Magia",
+  "categoria": "teatro",
+  "subcategoria": "infantil",
+  "descricao": "Um vento misterioso vira o reino encantado do avesso: princesas e vilões acordam trocados e precisam desvendar o que houve.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-04",
+  "fim": "2026-11-29",
+  "dias_horarios": "dom 17h30",
+  "local": "Teatro Raposo Shopping (Sala Bibi Ferreira)",
+  "endereco": "Rod. Raposo Tavares (SP-270), km 14",
+  "bairro": "Jardim Boa Vista",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 39.9,
+  "preco_max": 80.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-deu-a-louca-nos-contos-de-fada-uma-comedia-alem-da-magia-teatro-raposo-shopping-sala-bibi-ferreira-teatro-infantil-355206777827760.html",
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "De R$ 80 por R$ 39,90 (+ taxa)",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-deu-a-louca-nos-contos-de-fada-uma-comedia-alem-da-magia-teatro-raposo-shopping-sala-bibi-ferreira-teatro-infantil-355206777827760.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Moisés, o Musical",
+  "categoria": "teatro",
+  "subcategoria": "musical",
+  "descricao": "Musical bíblico sobre Moisés, que descobre sua origem hebreia e enfrenta Ramsés para libertar seu povo no Egito.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-10-29",
+  "fim": "2026-11-12",
+  "dias_horarios": "qui 20h",
+  "local": "Teatro UNICID",
+  "endereco": "Av. Imperatriz Leopoldina, 550",
+  "bairro": "Vila Leopoldina",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 60.0,
+  "preco_max": 120.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-moises-o-musical-teatro-unicid-musical-adulto-596771972050414.html",
+  "fonte": "Bilheteria Express",
+  "promocao": {
+   "texto": "Lote promocional a R$ 80 (inteira R$ 120) com doação de 1 kg de alimento",
+   "validade": null,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-moises-o-musical-teatro-unicid-musical-adulto-596771972050414.html",
+   "fonte": "Bilheteria Express",
+   "verificado_em": "2026-11-04"
+  }
+ },
+ {
+  "titulo": "Sherlock Holmes e o Cão dos Baskerville",
+  "categoria": "teatro",
+  "subcategoria": "comédia de suspense",
+  "descricao": "Holmes e Watson investigam a maldição da família Baskerville numa comédia de suspense com trocas rápidas de figurino.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-17",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro UNICID",
+  "endereco": "Av. Imperatriz Leopoldina, 550",
+  "bairro": "Vila Leopoldina",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": 40.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "12 anos",
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-sherlock-holmes-e-o-cao-de-baskerville-teatro-unicid-teatro-adulto-710982672470896.html",
+  "fonte": "Bilheteria Express",
+  "promocao": null
+ },
+ {
+  "titulo": "Ecos do Tempo",
+  "categoria": "danca",
+  "subcategoria": "espetáculo de escola de dança",
+  "descricao": "Espetáculo de dança de escola na Zona Leste, com cerca de duas horas e meia de apresentações.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro São Francisco",
+  "endereco": "Av. Reg. Feijó, 412",
+  "bairro": "Vila Regente Feijó",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 35.0,
+  "preco_max": 45.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-espetaculo-ecos-do-tempo-teatro-sao-francisco-danca-998431409557440.html",
+  "fonte": "Bilheteria Express",
+  "promocao": null
+ },
+ {
+  "titulo": "Estúdio 8 – Dançando Pelas Nações",
+  "categoria": "danca",
+  "subcategoria": "espetáculo de escola de dança",
+  "descricao": "Viagem pelo mundo em coreografias de balé, jazz, danças urbanas e contemporâneo, cada uma representando um país.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "16:00"
+   },
+   {
+    "data": "2026-11-29",
+    "hora": "19:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro São Francisco",
+  "endereco": "Av. Reg. Feijó, 412",
+  "bairro": "Vila Regente Feijó",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 50.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-espetaculo-2026-estudio-8-dancando-pelas-nacoes-teatro-sao-francisco-danca-543955819699011.html",
+  "fonte": "Bilheteria Express",
+  "promocao": null
+ },
+ {
+  "titulo": "Um Dia Muito Especial",
+  "categoria": "teatro",
+  "subcategoria": "comédia dramática",
+  "descricao": "Reynaldo Gianecchini e Maria Casadevall vivem a dona de casa e o vizinho demitido por ser gay que se aproximam na Itália fascista.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-10-30",
+  "fim": "2027-01-31",
+  "dias_horarios": "sex 21h30; sáb 21h; dom 19h (pausa entre 21/12 e 7/1)",
+  "local": "Teatro Renaissance",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": 90.0,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "12 anos",
+  "bom_para_criancas": false,
+  "link": "https://teatrorenaissance.com.br/um-dia-muito-especial/",
+  "fonte": "Teatro Renaissance",
+  "promocao": null
+ },
+ {
+  "titulo": "O Ovo e a Galinha",
+  "categoria": "teatro",
+  "subcategoria": "monólogo",
+  "descricao": "Ana Hartmann vive Clarice Lispector diante de um ovo, com projeções e cinema ao vivo, a partir do conto lido num congresso de bruxaria.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-10-19",
+  "fim": "2026-12-08",
+  "dias_horarios": "seg e ter 20h",
+  "local": "Teat(r)o Oficina Uzyna Uzona",
+  "endereco": "Rua Jaceguai, 520",
+  "bairro": "Bixiga",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50.0,
+  "preco_max": 100.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://catracalivre.com.br/gira/o-ovo-e-a-galinha-ganha-temporada-no-teatro-oficina-com-ana-hartmann-na-pele-de-clarice-lispector/",
+  "fonte": "Catraca Livre",
+  "promocao": null
+ },
+ {
+  "titulo": "Eu Sou Minha Própria Mulher",
+  "categoria": "teatro",
+  "subcategoria": "monólogo",
+  "descricao": "Edwin Luisi interpreta 20 personagens na história real de Charlotte von Mahlsdorf, mulher trans que sobreviveu ao nazismo.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-09-11",
+  "fim": "2026-11-29",
+  "dias_horarios": "sex e sáb 20h; dom 17h",
+  "local": "Teatro FAAP",
+  "endereco": "Rua Alagoas, 903",
+  "bairro": "Higienópolis",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 80.0,
+  "preco_max": 160.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://catracalivre.com.br/gira/espetaculo-eu-sou-minha-propria-mulher-estreia-em-nova-montagem-no-palco-do-teatro-faap/",
+  "fonte": "Catraca Livre",
+  "promocao": null
+ },
+ {
+  "titulo": "Caso Bizarro com Mabê",
+  "categoria": "standup",
+  "subcategoria": null,
+  "descricao": "Encontro ao vivo de Mabê no Teatro Youtube com convidados: Carol Moreira (9/11) e Fabão e Ti (16/11).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-09",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-16",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Youtube",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/caso-bizarro-com-mabe-teatro-youtube-22044208/",
+  "fonte": "Eventim",
+  "promocao": null
+ },
+ {
+  "titulo": "Corujão do Muka",
+  "categoria": "standup",
+  "subcategoria": null,
+  "descricao": "Apresentação ao vivo do Corujão do Muka no Teatro Youtube.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro Youtube",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/corujao-do-muka-teatro-youtube-22311276/",
+  "fonte": "Eventim",
+  "promocao": null
+ },
+ {
+  "titulo": "Mulheres em Chamas",
+  "categoria": "teatro",
+  "subcategoria": null,
+  "descricao": "Sessão do espetáculo Mulheres em Chamas no ABC, além da data no Teatro Frei Caneca.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Multiplan Hall Park Shopping São Caetano",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Caetano do Sul",
+  "regiao": "Grande SP",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/mulheres-em-chamas-multiplan-hall-park-shopping-sao-caetano-22347554/",
+  "fonte": "Eventim",
+  "promocao": null
+ },
+ {
+  "titulo": "33 Risos Festival",
+  "categoria": "standup",
+  "subcategoria": "festival de stand-up",
+  "descricao": "Festival de stand-up nas madrugadas de sábado do Bixiga Comedy Club.",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-18",
+  "fim": "2026-11-28",
+  "dias_horarios": "sáb 23h",
+  "local": "Bixiga Comedy Club",
+  "endereco": null,
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 30.0,
+  "preco_max": 50.0,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-33-risos-festival-bixiga-comedy-club-comedia-stand-up-7874626822365.html",
+  "fonte": "Bilheteria Express",
+  "promocao": null
+ },
+ {
+  "titulo": "Quinta da Gargalhada (grátis)",
+  "categoria": "standup",
+  "subcategoria": "stand-up",
+  "descricao": "Sessão gratuita de stand-up às quintas no Bixiga Comedy Club (paga-se só a taxa do ingresso).",
+  "tipo_data": "temporada",
+  "datas": [],
+  "inicio": "2026-11-06",
+  "fim": "2026-11-26",
+  "dias_horarios": "qui 21h",
+  "local": "Bixiga Comedy Club",
+  "endereco": null,
+  "bairro": "Bela Vista",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0.0,
+  "preco_max": 0.0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.bilheteriaexpress.com.br/ingressos-para-gratis-quinta-da-gargalhada-21h00-stand-up-comedy-bixiga-comedy-club-comedia-stand-up-719368049156450.html",
+  "fonte": "Bilheteria Express",
+  "promocao": null
  }
 ]
