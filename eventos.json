@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-03",
+  "atualizado_em": "2026-11-04",
   "fontes": [
    "ABC do ABC",
    "AdoroCinema",
@@ -3909,10 +3909,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-03",
-     "hora": "14:30"
-    },
-    {
      "data": "2026-11-10",
      "hora": "14:30"
     },
@@ -5261,6 +5257,10 @@
     {
      "data": "2026-11-12",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-11-13",
+     "hora": "20:00"
     }
    ],
    "inicio": null,
@@ -5376,6 +5376,10 @@
    "datas": [
     {
      "data": "2026-11-23",
+     "hora": "22:00"
+    },
+    {
+     "data": "2026-11-25",
      "hora": "22:00"
     }
    ],
@@ -5829,35 +5833,6 @@
    "bom_para_criancas": false,
    "link": "https://www.tokiomarinehall.com.br/fagner-6/",
    "fonte": "Tokio Marine Hall",
-   "promocao": null
-  },
-  {
-   "titulo": "Echoes Pink Floyd São Paulo - Animals 50 anos",
-   "categoria": "show",
-   "subcategoria": "Tributo rock",
-   "descricao": "Tributo ao Pink Floyd celebrando os 50 anos do álbum Animals.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-03",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note SP",
-   "endereco": null,
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/",
-   "fonte": "Blue Note SP",
    "promocao": null
   },
   {
@@ -6668,35 +6643,6 @@
    "bom_para_criancas": false,
    "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
    "fonte": "Theatro Municipal de São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Lucas Caram lança 'O que me traz aqui?'",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Show de lançamento do novo trabalho do cantor e compositor.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-03",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/lucas-caram-lanca-o-que-me-traz-aqui-bona-casa-de-musica-22237817/",
-   "fonte": "Eventim",
    "promocao": null
   },
   {

@@ -1,0 +1,4033 @@
+[
+ {
+  "titulo": "Juliana Linhares",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show da cantora e compositora Juliana Linhares na casa de shows de Pinheiros.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/juliana-linhares/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Pedro Mizutani + Alan Bernardes",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Noite de encontro musical entre Pedro Mizutani e Alan Bernardes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/pedro-mizutani-alan-bernardes/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "MARO",
+  "categoria": "show",
+  "subcategoria": "Pop/MPB",
+  "descricao": "Apresentação da cantora e compositora portuguesa MARO na Casa Natura Musical.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/maro/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Gisela Mabel",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show de Gisela Mabel em domingo de programação na Casa Natura Musical.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/gisela-mabel/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Cícero",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Cícero se apresenta em duas noites seguidas na Casa Natura Musical.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": null
+   },
+   {
+    "data": "2026-11-13",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/cicero/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Planta e Raiz",
+  "categoria": "show",
+  "subcategoria": "Reggae",
+  "descricao": "Show da banda de reggae Planta e Raiz em Pinheiros.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/planta-e-raiz/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Tasha & Tracie - Serena & Venus",
+  "categoria": "show",
+  "subcategoria": "Pop/R&B",
+  "descricao": "Tasha & Tracie voltam à casa com a turnê Serena & Venus, no feriado da Consciência Negra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/tasha-e-tracie/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Cordel do Fogo Encantado",
+  "categoria": "show",
+  "subcategoria": "Rock brasileiro",
+  "descricao": "A banda pernambucana Cordel do Fogo Encantado faz duas noites na casa.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": null
+   },
+   {
+    "data": "2026-11-22",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/cordel-do-fogo-encantado/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "La Bomba de Tiempo",
+  "categoria": "show",
+  "subcategoria": "Percussão",
+  "descricao": "Show do grupo argentino de percussão improvisada La Bomba de Tiempo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-24",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/la-bomba-de-tiempo-arg/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Letrux - SadSexySillySongs",
+  "categoria": "show",
+  "subcategoria": "Pop",
+  "descricao": "Letrux encerra na casa a turnê do álbum SadSexySillySongs.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Casa Natura Musical",
+  "endereco": null,
+  "bairro": "Pinheiros",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://casanaturamusical.com.br/eventos/letrux-2/",
+  "fonte": "Casa Natura Musical"
+ },
+ {
+  "titulo": "Sepultura",
+  "categoria": "show",
+  "subcategoria": "Metal",
+  "descricao": "Show da banda brasileira de metal Sepultura no Suhai Music Hall.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Suhai Music Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://suhaimusichall.com.br/evento/sepultura/",
+  "fonte": "Suhai Music Hall"
+ },
+ {
+  "titulo": "ZZ Top",
+  "categoria": "show",
+  "subcategoria": "Rock",
+  "descricao": "A lendária banda texana de blues rock ZZ Top volta a São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Suhai Music Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://suhaimusichall.com.br/evento/zz-top/",
+  "fonte": "Suhai Music Hall"
+ },
+ {
+  "titulo": "A Perfect Circle",
+  "categoria": "show",
+  "subcategoria": "Rock alternativo",
+  "descricao": "Show da banda de rock alternativo A Perfect Circle em São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Suhai Music Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://suhaimusichall.com.br/evento/a-perfect-circle/",
+  "fonte": "Suhai Music Hall"
+ },
+ {
+  "titulo": "Gipsy Kings by Diego Baliardo",
+  "categoria": "show",
+  "subcategoria": "Flamenco/World",
+  "descricao": "Show em tributo ao som dos Gipsy Kings, conduzido por Diego Baliardo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Suhai Music Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://suhaimusichall.com.br/evento/gipsy-kings-by-diego-baliardo/",
+  "fonte": "Suhai Music Hall"
+ },
+ {
+  "titulo": "Opeth",
+  "categoria": "show",
+  "subcategoria": "Metal progressivo",
+  "descricao": "Show da banda sueca de metal progressivo Opeth.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": "21:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/opeth/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Daniel",
+  "categoria": "show",
+  "subcategoria": "Sertanejo",
+  "descricao": "Show do cantor sertanejo Daniel.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/daniel-2/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Luana Zucoloto",
+  "categoria": "show",
+  "subcategoria": "Sertanejo",
+  "descricao": "Apresentação de Luana Zucoloto no Espaço Unimed.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "19:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/luana-zucoloto/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Hayley Williams",
+  "categoria": "show",
+  "subcategoria": "Pop/Rock",
+  "descricao": "Hayley Williams, vocalista do Paramore, em apresentação solo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Hayley Williams",
+  "categoria": "show",
+  "subcategoria": "Pop/Rock",
+  "descricao": "Segunda noite de Hayley Williams em São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/hayley-williams/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Gustavo Mioto",
+  "categoria": "show",
+  "subcategoria": "Sertanejo",
+  "descricao": "Show do cantor sertanejo Gustavo Mioto.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Ca7riel & Paco Amoroso",
+  "categoria": "show",
+  "subcategoria": "Pop/Alternativo",
+  "descricao": "Dupla argentina Ca7riel & Paco Amoroso em show na capital.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-18",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/ca7riel-paco-amoroso/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Caetano Veloso",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show de Caetano Veloso no Espaço Unimed.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/caetano-veloso/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "New Order",
+  "categoria": "show",
+  "subcategoria": "Synthpop",
+  "descricao": "Primeira noite da banda britânica New Order em São Paulo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-23",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/new-order-2/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "New Order",
+  "categoria": "show",
+  "subcategoria": "Synthpop",
+  "descricao": "Segunda noite do New Order; a fonte indica ingressos esgotados.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-25",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/new-order/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Babymetal",
+  "categoria": "show",
+  "subcategoria": "Metal/J-pop",
+  "descricao": "Show do grupo japonês Babymetal; a fonte indica ingressos esgotados.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/babymetal/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Reggae Live Station",
+  "categoria": "show",
+  "subcategoria": "Reggae",
+  "descricao": "Tarde de reggae ao vivo no Espaço Unimed.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "18:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Espaço Unimed",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
+  "fonte": "Espaço Unimed"
+ },
+ {
+  "titulo": "Aniversário Beco 12 Anos & Infinito Mahau 8 Anos",
+  "categoria": "show",
+  "subcategoria": "Festa/Eletrônica",
+  "descricao": "Festa de aniversário conjunta das produtoras Beco e Infinito Mahau.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1484-aniversario-beco-12-anos-e-infinito-mahau-8-anos",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "The White Buffalo",
+  "categoria": "show",
+  "subcategoria": "Folk rock",
+  "descricao": "Show do cantor e compositor norte-americano The White Buffalo; portões às 19h.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": "18 anos",
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1385-the-white-buffalo",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Ocean Alley",
+  "categoria": "show",
+  "subcategoria": "Rock psicodélico",
+  "descricao": "Banda australiana Ocean Alley se apresenta no Audio.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1437-ocean-alley",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Braza",
+  "categoria": "show",
+  "subcategoria": "Pop/Reggae",
+  "descricao": "Show da banda Braza.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1464-braza",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Sempre Foi Baile",
+  "categoria": "show",
+  "subcategoria": "Baile/Black music",
+  "descricao": "Festa-baile Sempre Foi Baile no Audio.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1404-sempre-foi-baile",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Rael",
+  "categoria": "show",
+  "subcategoria": "Rap",
+  "descricao": "Show do rapper Rael.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1477-rael",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Robot Rock Alive: a Daft Punk Tribute",
+  "categoria": "show",
+  "subcategoria": "Tributo eletrônico",
+  "descricao": "Tributo ao duo Daft Punk com performance ao vivo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1482-robot-rock-alive-a-daft-punk-tribute",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Monobloco",
+  "categoria": "show",
+  "subcategoria": "Samba/Carnaval",
+  "descricao": "O bloco-banda Monobloco leva seu repertório de carnaval ao palco.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1455-monobloco",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Hot Chip",
+  "categoria": "show",
+  "subcategoria": "Eletrônica",
+  "descricao": "Banda britânica de synthpop Hot Chip em show no Audio.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-22",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1459-hot-chip",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Godspeed You! Black Emperor",
+  "categoria": "show",
+  "subcategoria": "Pós-rock",
+  "descricao": "Coletivo canadense de pós-rock instrumental Godspeed You! Black Emperor.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-23",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Audio",
+  "endereco": null,
+  "bairro": "Barra Funda",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://audiosp.com.br/1454-godspeed-you--black-emperor",
+  "fonte": "Audio"
+ },
+ {
+  "titulo": "Guilherme Arantes - 50 anos-luz",
+  "categoria": "show",
+  "subcategoria": "MPB/Pop",
+  "descricao": "Guilherme Arantes celebra cinco décadas de carreira em turnê.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Tokio Marine Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.tokiomarinehall.com.br/guilherme-arantes-3/",
+  "fonte": "Tokio Marine Hall"
+ },
+ {
+  "titulo": "Gabriel & Shirley",
+  "categoria": "show",
+  "subcategoria": "Gospel",
+  "descricao": "Show da dupla Gabriel & Shirley, em sessão de domingo à tarde.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-15",
+    "hora": "17:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Tokio Marine Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.tokiomarinehall.com.br/gabriel-shirley-2/",
+  "fonte": "Tokio Marine Hall"
+ },
+ {
+  "titulo": "Fagner",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show do cantor cearense Fagner no Tokio Marine Hall.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": "21:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Tokio Marine Hall",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.tokiomarinehall.com.br/fagner-6/",
+  "fonte": "Tokio Marine Hall"
+ },
+ {
+  "titulo": "Echoes Pink Floyd São Paulo - Animals 50 anos",
+  "categoria": "show",
+  "subcategoria": "Tributo rock",
+  "descricao": "Tributo ao Pink Floyd celebrando os 50 anos do álbum Animals.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-03",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Jean Luc Ponty Project - Imaginary Voyage 50 anos",
+  "categoria": "show",
+  "subcategoria": "Jazz fusion",
+  "descricao": "Projeto que revisita o disco Imaginary Voyage, de Jean-Luc Ponty, em seu cinquentenário.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "U2 Experience (U2 Rio)",
+  "categoria": "show",
+  "subcategoria": "Tributo rock",
+  "descricao": "Banda tributo apresenta os grandes sucessos do U2.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/u2-experience-u2-rio/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Kleiton & Kledir",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Dupla gaúcha Kleiton & Kledir em duas sessões na mesma noite.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-07",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/kleiton-kledir/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Bob Marley in Jazz",
+  "categoria": "show",
+  "subcategoria": "Jazz/Reggae",
+  "descricao": "Canções de Bob Marley em arranjos de jazz.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-11",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/bob-marley-in-jazz/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Collaboration in Concert - 100 anos de Miles Davis",
+  "categoria": "show",
+  "subcategoria": "Jazz",
+  "descricao": "Show em homenagem ao centenário de Miles Davis.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/collaboration-in-concert/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "ABBA The History",
+  "categoria": "show",
+  "subcategoria": "Tributo pop",
+  "descricao": "Banda tributo revive os sucessos do ABBA.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/abba-the-history/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Édith Piaf por Lia Paris",
+  "categoria": "show",
+  "subcategoria": "Chanson française",
+  "descricao": "Viagem pela canção francesa com repertório de Édith Piaf.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/edith-piaf-por-lia-paris-uma-viagem-pela-chanson-francaise/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Rolling Stone Sessions: Hurricanes com Lucinha Turnbull e Beto Bruno",
+  "categoria": "show",
+  "subcategoria": "Rock",
+  "descricao": "Noite de rock com a banda Hurricanes e participações de Lucinha Turnbull e Beto Bruno.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-18",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Idania Valdés - voz do Buena Vista Social Club",
+  "categoria": "show",
+  "subcategoria": "Música cubana",
+  "descricao": "A cantora cubana Idania Valdés, ligada ao Buena Vista Social Club, em show internacional.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/idania-valdes/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Queen Legend - O Legado de Freddie Mercury",
+  "categoria": "show",
+  "subcategoria": "Tributo rock",
+  "descricao": "Banda tributo celebra o legado de Freddie Mercury e do Queen.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/queen-legend/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Theo Bial canta Chico Buarque",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Theo Bial interpreta o repertório de Chico Buarque.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/theo-bial/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Mel Lisboa canta Rita Lee",
+  "categoria": "show",
+  "subcategoria": "Rock/MPB",
+  "descricao": "Mel Lisboa homenageia Rita Lee com clássicos de sua obra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-25",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/mel-lisboa/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Crua: Jaloo Acústica",
+  "categoria": "show",
+  "subcategoria": "Pop",
+  "descricao": "Jaloo em versão acústica, com repertório de sua carreira.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-26",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/crua-jaloo-acustica/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Lobão - Luau Indoor",
+  "categoria": "show",
+  "subcategoria": "Rock brasileiro",
+  "descricao": "Lobão faz seu show em formato de luau em duas sessões.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-28",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/lobao/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "POP3 com George Israel, Henrique Portugal e Charles Gavin",
+  "categoria": "show",
+  "subcategoria": "Pop rock",
+  "descricao": "Trio formado por três nomes do rock nacional em duas sessões.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-27",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note SP",
+  "endereco": null,
+  "bairro": "Consolação",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
+  "fonte": "Blue Note SP"
+ },
+ {
+  "titulo": "Haydn de perto (Osesp)",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Concerto da Osesp com foco na obra de Haydn.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-06",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50,
+  "preco_max": 100,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/2002",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Vozes e percussão: Bernstein, Reich e Stravinsky",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Programa da Osesp reunindo Bernstein, Reich e Stravinsky.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-14",
+    "hora": "16:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50,
+  "preco_max": 330,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1628",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Câmara Osesp: Quarteto de cordas de Beethoven",
+  "categoria": "show",
+  "subcategoria": "Música de câmara",
+  "descricao": "Concerto de câmara com quarteto de cordas de Beethoven e música para dança e teatro.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-15",
+    "hora": "18:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 150,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1609",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Rock'n Bach",
+  "categoria": "show",
+  "subcategoria": "Clássico/Rock",
+  "descricao": "Concerto que cruza a música de Bach com o universo do rock.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-16",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50,
+  "preco_max": 100,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1808",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Osesp: Do ícone do bel canto a um gênio do minimalismo",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Programa sinfônico em três apresentações, do bel canto ao minimalismo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-20",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-21",
+    "hora": "16:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50,
+  "preco_max": 330,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1597",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Recital: Orli Shaham (piano)",
+  "categoria": "show",
+  "subcategoria": "Recital",
+  "descricao": "Recital de piano da pianista Orli Shaham.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-22",
+    "hora": "18:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 150,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1633",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Coro da Osesp recebe Pierre-Fabien Roubaty",
+  "categoria": "show",
+  "subcategoria": "Coral",
+  "descricao": "O Coro da Osesp recebe o regente convidado Pierre-Fabien Roubaty.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "18:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 50,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1603",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Domingos com a Osesp: Mahler",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Concerto matinal gratuito dedicado a Mahler.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "10:50"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sala São Paulo",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://osesp.art.br/osesp/pt/concerto/1802",
+  "fonte": "Osesp"
+ },
+ {
+  "titulo": "Morais e Tchaikovsky (Concertos)",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Concertos no Theatro Municipal com obras de Morais e Tchaikovsky.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": null
+   },
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Theatro Municipal de São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/morais-e-tchaikovsky/",
+  "fonte": "Theatro Municipal de São Paulo"
+ },
+ {
+  "titulo": "Palavra em Travessia",
+  "categoria": "show",
+  "subcategoria": "Música clássica",
+  "descricao": "Apresentação da Orquestra Experimental de Repertório, ciclo Concertos.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Theatro Municipal de São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
+  "fonte": "Theatro Municipal de São Paulo"
+ },
+ {
+  "titulo": "Quarteto de Cordas - Diálogos: Price, Brahms e Dvořák",
+  "categoria": "show",
+  "subcategoria": "Música de câmara",
+  "descricao": "Quarteto de cordas com obras de Price, Brahms e Dvořák na Praça das Artes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-26",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Praça das Artes",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
+  "fonte": "Theatro Municipal de São Paulo"
+ },
+ {
+  "titulo": "Ópera Os Pescadores de Pérolas, de Bizet",
+  "categoria": "show",
+  "subcategoria": "Ópera",
+  "descricao": "Temporada da ópera de Bizet no Theatro Municipal.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-27",
+  "fim": "2026-12-01",
+  "dias_horarios": "Temporada de 27/11 a 06/12/2026; horários não informados na fonte",
+  "local": "Theatro Municipal de São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": null,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
+  "fonte": "Theatro Municipal de São Paulo"
+ },
+ {
+  "titulo": "Lucas Caram lança 'O que me traz aqui?'",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show de lançamento do novo trabalho do cantor e compositor.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-03",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/lucas-caram-lanca-o-que-me-traz-aqui-bona-casa-de-musica-22237817/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Leandro Cabral: Com Texto",
+  "categoria": "show",
+  "subcategoria": "instrumental",
+  "descricao": "Noite de música instrumental com o pianista Leandro Cabral.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-04",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/leandro-cabral-com-texto-blue-note-sao-paulo-22207926/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Mario Gil com participação de Renato Braz",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Encontro de violão e voz entre Mario Gil e Renato Braz.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-04",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/mario-gil-com-participacao-de-renato-braz-bona-casa-de-musica-22237878/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Weather Report Tributo",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Homenagem ao repertório do grupo de jazz fusion Weather Report.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-04",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/weather-report-tributo-blue-note-sao-paulo-22207927/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Zé Ibarra: Saudade Solidão",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Zé Ibarra apresenta o show 'Saudade Solidão' em duas sessões.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "19:30"
+   },
+   {
+    "data": "2026-11-05",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/artist/bona-casa-musica/ze-ibarra-apresenta-saudade-solidao-4261667/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Angel Ribeiro Trio: Soul Sessions",
+  "categoria": "show",
+  "subcategoria": "soul",
+  "descricao": "Trio de Angel Ribeiro em noite de soul.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-05",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-angel-ribeiro-trio-soul-sessions-raiz-club-22360616/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Dance Party com Mark Lambert & Blue Note Big Band",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Big band e o cantor Mark Lambert em noite dançante.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/dance-party-com-mark-lambert-blue-note-big-band-blue-note-sao-paulo-22131645/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Banda Chocolate Quente",
+  "categoria": "show",
+  "subcategoria": "baile",
+  "descricao": "Banda de baile no Raiz Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-banda-chocolate-quente-raiz-club-22360617/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Big Allanbik: o retorno de uma lenda do blues-rock",
+  "categoria": "show",
+  "subcategoria": "blues",
+  "descricao": "Volta aos palcos do grupo de blues-rock Big Allanbik.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/big-allanbik-o-retorno-de-uma-lenda-do-blues-rock-blue-note-sao-paulo-22105696/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Baile Café con Ron: Quimbará & Bogotá",
+  "categoria": "show",
+  "subcategoria": "música latina",
+  "descricao": "Baile de música latina com os grupos Quimbará e Bogotá.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": "23:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/baile-cafe-con-ron-quimbara-bogota-blue-note-sao-paulo-sala-02-22289309/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Baile Disco convida Duo Yori",
+  "categoria": "show",
+  "subcategoria": "disco",
+  "descricao": "Noite de disco music com participação do Duo Yori.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/baile-disco-convida-duo-yori-blue-note-sao-paulo-22105694/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Vanessa Moreno: Sentido",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "A cantora Vanessa Moreno mostra o show 'Sentido'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/vanessa-moreno-apresenta-sentido-bona-casa-de-musica-22294301/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Brasa Blues Band",
+  "categoria": "show",
+  "subcategoria": "blues",
+  "descricao": "Blues ao vivo com a Brasa Blues Band.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-brasa-blues-band-raiz-club-22360622/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Patife Band: Uma Temporada no Inferno",
+  "categoria": "show",
+  "subcategoria": "rock",
+  "descricao": "A banda paulistana Patife Band apresenta 'Uma Temporada no Inferno'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/patife-band-apresenta-uma-temporada-no-inferno-blue-note-sao-paulo-sala-02-22207928/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tributo a Gardel e Piazzolla: Cia. Tango & Paixão",
+  "categoria": "show",
+  "subcategoria": "tango",
+  "descricao": "Espetáculo de música e dança dedicado a Carlos Gardel e Astor Piazzolla.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Teatro das Artes",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/tributo-a-carlos-gardel-e-astor-piazzolla-cia-tango-paixao-teatro-das-artes-22060016/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Holland Meets Brazil feat. Nailor Proveta",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Encontro de jazz holandês e brasileiro com o clarinetista Nailor Proveta.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/holland-meets-brazil-feat-nailor-proveta-blue-note-sao-paulo-22270088/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Rodrigo Alarcon: Guizo de Cascavel",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show intimista de voz e violão de Rodrigo Alarcon.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-08",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/rodrigo-alarcon-apresenta-guizo-de-cascavel-voz-e-violao-bona-casa-de-musica-22237828/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Elaine Guimarães: Nas Trilhas de Gal",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Homenagem da cantora Elaine Guimarães a Gal Costa.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-10",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/elaine-guimaraes-apresenta-nas-trilhas-de-gal-uma-homenagem-a-gal-costa-bona-casa-de-musica-22237802/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Lorenza Pozza: de Beatles a Carpenters",
+  "categoria": "show",
+  "subcategoria": "pop",
+  "descricao": "Repertório que vai dos Beatles aos Carpenters na voz de Lorenza Pozza.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-10",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/lorenza-pozza-de-beatles-a-carpenters-blue-note-sao-paulo-22225239/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Árida: Sertão Encantado de Héloa",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "A cantora Héloa apresenta o show 'Árida', inspirado no sertão.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-11",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/arida-sertao-encantado-de-heloa-blue-note-sao-paulo-22289454/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Analu e Flor",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show da dupla Analu e Flor.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-11",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/analu-e-flor-bona-casa-de-musica-22267297/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Marina Aquino acústico",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Apresentação acústica de Marina Aquino em duas sessões.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "19:00"
+   },
+   {
+    "data": "2026-11-12",
+    "hora": "21:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/artist/bona-casa-musica/marina-aquino-acustico-no-bona-4247334/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tributo a Ella Fitzgerald por Indiana Nomma",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Indiana Nomma canta o repertório de Ella Fitzgerald.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/tributo-a-ella-fitzgerald-por-indiana-nomma-blue-note-sao-paulo-21032840/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Amici: reinterpretam os sucessos dos amigos",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Grupo Amici revisita canções conhecidas da música brasileira.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/amici-reinterpretam-os-sucessos-dos-amigos-blue-note-sao-paulo-21957490/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Sala de Música Rádio CBN com João Sabiá",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Edição ao vivo do programa Sala de Música, com João Sabiá.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/sala-de-musica-radio-cbn-part-especial-joao-sabia-blue-note-sao-paulo-sala-02-22225242/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Quimbará: especial Buena Vista Social Club",
+  "categoria": "show",
+  "subcategoria": "música cubana",
+  "descricao": "Repertório do Buena Vista Social Club com o grupo Quimbará.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/quimbara-especial-buena-vista-social-club-bona-casa-de-musica-22198205/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Acústic Band",
+  "categoria": "show",
+  "subcategoria": "pop",
+  "descricao": "Banda acústica no Raiz Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-acustic-band-raiz-club-22360633/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Day Limns canta anos 2000",
+  "categoria": "show",
+  "subcategoria": "pop",
+  "descricao": "Day Limns revisita hits dos anos 2000.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-13",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/day-limns-canta-anos-2000-blue-note-sao-paulo-sala-02-22248724/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Noneto Brasil Jazz Sinfônica: Afro-Sambas",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Noneto toca os Afro-Sambas de Baden Powell e Vinicius de Moraes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/noneto-brasil-jazz-sinfonica-afro-sambas-blue-note-sao-paulo-22259539/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Nilson Chaves: o canto de uma voz amazônica",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "O cantor paraense Nilson Chaves em show com repertório amazônico.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/nilson-chaves-o-canto-de-uma-voz-amazonica-bona-casa-de-musica-22109742/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Banda Black Coffee",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Show da banda Black Coffee.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-banda-black-coffee-raiz-club-22360634/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Bruna Caram convida artistas Cor e Voz",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Bruna Caram recebe convidados no palco.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-15",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/bruna-caram-convida-artistas-cor-e-voz-bona-casa-de-musica-22269947/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Pulp Fiction Soundtrack por Frã Finamore",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "A trilha sonora do filme Pulp Fiction tocada ao vivo.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-15",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/pulp-fiction-soundtrack-por-fra-finamore-blue-note-sao-paulo-22355896/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Mariah Carey: Christmas Time",
+  "categoria": "show",
+  "subcategoria": "pop internacional",
+  "descricao": "A cantora americana traz ao estádio seu show de Natal.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-17",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Nubank Parque",
+  "endereco": null,
+  "bairro": "Água Branca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/artist/mariah-carey/mariah-carey-3668661/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tributo a Miles Davis: Bitches Brew",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Grupo Musicman Jazz revisita o disco Bitches Brew.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-17",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/tributo-a-miles-davis-bitches-brew-musicman-jazz-blue-note-sao-paulo-20931223/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Andrea Polinelli Quartet: Gato Barbieri Reloaded",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Quarteto homenageia o saxofonista Gato Barbieri.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-17",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/andrea-polinelli-quartet-gato-barbieri-reloaded-blue-note-sao-paulo-22038816/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Otto acústico",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "O pernambucano Otto em formato acústico, em duas noites.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-18",
+    "hora": "20:00"
+   },
+   {
+    "data": "2026-11-19",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tom Collins & The Fountain Dogs",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Banda Tom Collins & The Fountain Dogs no Raiz Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-18",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-tom-collins-the-fountain-dogs-raiz-club-22360649/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Marcelo Rubens Paiva: Rock in Translation",
+  "categoria": "show",
+  "subcategoria": "rock",
+  "descricao": "O escritor Marcelo Rubens Paiva comanda show sobre versões de rock.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-18",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/marcelo-rubens-paiva-rock-in-translation-blue-note-sao-paulo-22207931/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tributo Simply Red & Christopher Cross: Mark Lambert",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Mark Lambert canta sucessos de Simply Red e Christopher Cross.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/tributo-simply-red-christopher-cross-mark-lambert-blue-note-sao-paulo-22131646/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Luíza Strufaldi Duo",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Duo de Luíza Strufaldi no Raiz Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-luiza-strufaldi-duo-raiz-club-22360641/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "André Frateschi e Piero Damiani: Lado Bowie",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Repertório de David Bowie com André Frateschi e Piero Damiani.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-19",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/andre-frateschi-e-piero-damiani-lado-bowie-blue-note-sao-paulo-21990540/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Alucinados",
+  "categoria": "show",
+  "subcategoria": "samba e pagode",
+  "descricao": "Evento de samba e pagode no feriado da Consciência Negra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "15:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Arena Morada",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/alucinados-arena-morada-22306440/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Hector: Diário Musical",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Hector apresenta o show 'Diário Musical'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/hector-apresenta-diario-musical-no-bona-bona-casa-de-musica-22255772/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Angel Ribeiro",
+  "categoria": "show",
+  "subcategoria": "soul",
+  "descricao": "Angel Ribeiro de volta ao Raiz Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-angel-ribeiro-raiz-club-22360650/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Hélio Ramalho & Nessa Onda: canta Cabo Verde",
+  "categoria": "show",
+  "subcategoria": "world music",
+  "descricao": "Show com repertório de música cabo-verdiana.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/helio-ramalho-nessa-onda-canta-cabo-verde-blue-note-sao-paulo-22270089/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Orquestra Brasileira de Música Jamaicana",
+  "categoria": "show",
+  "subcategoria": "reggae",
+  "descricao": "A OBMJ toca ska e reggae com arranjos de orquestra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/orquestra-brasileira-de-musica-jamaicana-no-bona-bona-casa-de-musica-22198252/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Aline Abdo canta BTS",
+  "categoria": "show",
+  "subcategoria": "pop",
+  "descricao": "Aline Abdo interpreta canções do grupo coreano BTS.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/rolling-stone-novas-vozes-apresenta-aline-abdo-canta-bts-blue-note-sao-paulo-sala-02-22306321/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tributo a Amy Winehouse",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Noite dedicada às canções de Amy Winehouse.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "22:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Raiz Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/raiz-club-apresenta-tributo-a-amy-winehouse-raiz-club-22360651/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Phil Collins Carrossel: Ademir Dancona",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Show com sucessos de Phil Collins.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/phil-collins-carrossel-ademir-dancona-blue-note-sao-paulo-22359636/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Heber Nunes: Gênese",
+  "categoria": "show",
+  "subcategoria": "rock",
+  "descricao": "O guitarrista Heber Nunes apresenta o trabalho 'Gênese'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-21",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/heber-nunes-genese-blue-note-sao-paulo-22008014/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Undercurrent Trio & Suzan Veneman",
+  "categoria": "show",
+  "subcategoria": "jazz",
+  "descricao": "Trio de jazz com a cantora Suzan Veneman.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-22",
+    "hora": "19:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/undercurrent-trio-suzan-veneman-blue-note-sao-paulo-22248739/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Vitoria Maldonado: Minha Melhor Versão",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Vitoria Maldonado mostra o show 'Minha Melhor Versão'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-24",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/vitoria-maldonado-minha-melhor-versao-blue-note-sao-paulo-22225272/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Loyle Carner",
+  "categoria": "show",
+  "subcategoria": "hip hop internacional",
+  "descricao": "O rapper britânico Loyle Carner em show no Cine Joia.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-24",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Cine Joia",
+  "endereco": null,
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/loyle-carner-cine-joia-22125159/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Mosquito",
+  "categoria": "show",
+  "subcategoria": "samba",
+  "descricao": "Show do sambista Mosquito.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-25",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/mosquito-bona-casa-de-musica-22323570/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Alzira E: Senhora do Tempo",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Alzira E apresenta 'Senhora do Tempo' com Marcelo Dworecki e Chicão.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-26",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/alzira-e-senhora-do-tempo-com-marcelo-dworecki-e-chicao-bona-casa-de-musica-22165655/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Banda Comitatus: Beatles, 60 anos de Revolver",
+  "categoria": "show",
+  "subcategoria": "tributo",
+  "descricao": "Banda Comitatus toca o disco Revolver, dos Beatles.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-26",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/banda-comitatus-beatles-60-anos-do-disco-revolver-blue-note-sao-paulo-22248746/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Tricky",
+  "categoria": "show",
+  "subcategoria": "eletrônica",
+  "descricao": "O músico inglês Tricky, nome do trip-hop, no Cine Joia.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-26",
+    "hora": "23:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Cine Joia",
+  "endereco": null,
+  "bairro": "Liberdade",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/tricky-cine-joia-22047970/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Somos 90: Belo, Pixote, Rodriguinho e Marquinhos Sensação",
+  "categoria": "show",
+  "subcategoria": "pagode",
+  "descricao": "Encontro de vozes do pagode dos anos 90 no estádio.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": "19:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Nubank Parque",
+  "endereco": null,
+  "bairro": "Água Branca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/somos-90-belo-pixote-rodriguinho-e-marquinhos-sensacao-a-reuniao-do-pagode-nubank-parque-21982914/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Seal: 30 anos dos álbuns I & II",
+  "categoria": "show",
+  "subcategoria": "pop internacional",
+  "descricao": "Seal celebra os 30 anos de seus dois primeiros discos.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Nubank Parque",
+  "endereco": null,
+  "bairro": "Água Branca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/seal-nubank-parque-21478682/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Funk Como Le Gusta: Roda de Funk",
+  "categoria": "show",
+  "subcategoria": "funk/soul",
+  "descricao": "A banda Funk Como Le Gusta em roda de funk e soul.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/funk-como-le-gusta-apresenta-roda-de-funk-blue-note-sao-paulo-sala-02-22259418/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Martins voz e violão",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show de voz e violão de Martins.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/martins-voz-e-violao-bona-casa-de-musica-22300732/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Rodrigo Ogi: Crônicas da Cidade Cinza 15 anos",
+  "categoria": "show",
+  "subcategoria": "rap",
+  "descricao": "Rodrigo Ogi celebra 15 anos do disco 'Crônicas da Cidade Cinza'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": "22:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Blue Note São Paulo - Sala 02",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/rodrigo-ogi-e-banda-cronicas-da-cidade-cinza-15-anos-blue-note-sao-paulo-sala-02-22270087/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "Juca Novaes",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show do compositor Juca Novaes.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-29",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/juca-novaes-no-bona-bona-casa-de-musica-22319780/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "SIM SP: Noite Coala Records",
+  "categoria": "show",
+  "subcategoria": "música independente",
+  "descricao": "Noite do selo Coala Records dentro da Semana Internacional de Música de SP.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-12-01",
+    "hora": "21:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Bona Casa de Música",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.eventim.com.br/event/sim-sp-apresenta-noite-coala-records-bona-casa-de-musica-22356869/",
+  "fonte": "Eventim"
+ },
+ {
+  "titulo": "André Frateschi",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "Show de André Frateschi no The Cavern Club.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/andre-frateschi-the-cavern-club",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "Humberto Gessinger",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "O ex-líder dos Engenheiros do Hawaii em show intimista.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-10",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "Blitz",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "A banda Blitz em duas noites (12 e 13/11).",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-12",
+    "hora": null
+   },
+   {
+    "data": "2026-11-13",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/blitz-the-cavern-club",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "14 Bis",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "O grupo mineiro 14 Bis no feriado da Consciência Negra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-20",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/14-bis-the-cavern-club",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "Elton John Cover",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "Show cover com sucessos de Elton John.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-28",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "The Cavern Club",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": null,
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/elton-john-cover-the-cavern-club",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "World of Dance Brazil",
+  "categoria": "danca",
+  "subcategoria": "competição de dança",
+  "descricao": "Etapa brasileira da competição internacional de dança, em São Caetano do Sul.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   },
+   {
+    "data": "2026-11-15",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "São Caetano do Sul",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Caetano do Sul",
+  "regiao": "Grande SP",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://www.ticketmaster.com.br/event/world-of-dance-brazil-2026",
+  "fonte": "Ticketmaster Brasil"
+ },
+ {
+  "titulo": "Ivan Lins: 80 anos",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "Ivan Lins comemora 80 anos com seus clássicos.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-06",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Vibra São Paulo",
+  "endereco": "Av. das Nações Unidas, 17955",
+  "bairro": "Vila Almeida",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 60,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/ivan-lins-80-anos-16527",
+  "fonte": "Uhuu"
+ },
+ {
+  "titulo": "Ira!: Tour Acústico 20 Anos, último show",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "Despedida da turnê que celebra os 20 anos do Acústico MTV do Ira!.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-07",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Vibra São Paulo",
+  "endereco": "Av. das Nações Unidas, 17955",
+  "bairro": "Vila Almeida",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 72,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/ira-tour-acustico-20-anos-ultimo-show-16536",
+  "fonte": "Uhuu"
+ },
+ {
+  "titulo": "Gian & Giovani: lançamento do DVD Planeta Sonho",
+  "categoria": "show",
+  "subcategoria": null,
+  "descricao": "A dupla sertaneja lança o DVD 'Planeta Sonho'.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-27",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Vibra São Paulo",
+  "endereco": "Av. das Nações Unidas, 17955",
+  "bairro": "Vila Almeida",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 60,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://uhuu.com/evento/sp/sao-paulo/gian-giovani-lancamento-de-dvd-planeta-sonho-16540",
+  "fonte": "Uhuu"
+ },
+ {
+  "titulo": "Phonica: Marisa Monte & Orquestra ao vivo",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Último show da turnê em que Marisa Monte canta acompanhada de orquestra.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-14",
+    "hora": null
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Nubank Parque",
+  "endereco": null,
+  "bairro": "Água Branca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Oeste",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://nubankparque.com/phonica/",
+  "fonte": "Nubank Parque"
+ }
+]
