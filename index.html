@@ -1,0 +1,374 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<meta charset="utf-8">
+<title>Rolê SP</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: agenda de bolso — barra de filtros fixa no topo, passeios fixos em faixa, programação agrupada por dia como canhotos de ingresso */
+:root {
+  --bg: #f1f4f9;
+  --surface: #ffffff;
+  --ink: #13233d;
+  --muted: #5a6880;
+  --line: #d8dfea;
+  --accent: #b8245f;        /* ipê-roxo */
+  --accent-soft: #f6e3eb;
+  --kid: #1f6fc5;          /* grátis / Nina */
+  --kid-soft: #e2edfa;
+  --sun: #e8a317;
+  --c-show: #b8245f; --c-teatro: #6b3fa0; --c-cinema: #3b4fb8; --c-infantil: #1f6fc5;
+  --c-exposicao: #a3591c; --c-passeio: #0e4d8c; --c-festival: #c0392b; --c-outros: #5a6880;
+  --f-display: "Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --f-body: "Instrument Sans", "Helvetica Neue", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0e1624; --surface: #172234; --ink: #e6ecf5; --muted: #9eabc0; --line: #283650;
+  --accent: #f07aa6; --accent-soft: #3a1a28; --kid: #6fb3f2; --kid-soft: #152a45; --sun: #f2c15a;
+  --c-show: #f07aa6; --c-teatro: #b69bec; --c-cinema: #9aa8f0; --c-infantil: #6fb3f2;
+  --c-exposicao: #e0a06a; --c-passeio: #5b9be0; --c-festival: #f08a7e; --c-outros: #9eabc0;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0e1624; --surface: #172234; --ink: #e6ecf5; --muted: #9eabc0; --line: #283650;
+  --accent: #f07aa6; --accent-soft: #3a1a28; --kid: #6fb3f2; --kid-soft: #152a45; --sun: #f2c15a;
+  --c-show: #f07aa6; --c-teatro: #b69bec; --c-cinema: #9aa8f0; --c-infantil: #6fb3f2;
+  --c-exposicao: #e0a06a; --c-passeio: #5b9be0; --c-festival: #f08a7e; --c-outros: #9eabc0;
+  color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.45 }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg) }
+a { color: inherit }
+button, input, select { font: inherit; color: inherit }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)) }
+
+header.top { padding-block: 28px 8px }
+.brand { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap }
+.brand h1 { font-family: var(--f-display); font-weight: 800; font-size: clamp(34px, 6vw, 54px); letter-spacing: -0.02em; margin: 0; line-height: 1 }
+.brand h1 span { color: var(--accent) }
+.brand p { margin: 0; color: var(--muted); max-width: 52ch }
+.meta { font-family: var(--f-mono); font-size: 12px; color: var(--muted); margin-top: 10px }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); padding-block: 12px }
+.bar .wrap { display: grid; gap: 10px }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; background: var(--surface) }
+.seg button { border: 0; background: transparent; padding: 7px 13px; cursor: pointer; font-size: 14px; white-space: nowrap }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg) }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 12px; cursor: pointer; font-size: 14px; display: inline-flex; gap: 6px; align-items: center }
+.chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--c) }
+.chip .n { font-family: var(--f-mono); font-size: 12px; color: var(--muted) }
+.chip[aria-pressed="true"] { border-color: var(--c, var(--ink)); background: color-mix(in srgb, var(--c, var(--ink)) 14%, var(--surface)) }
+.chip.nina[aria-pressed="true"] { --c: var(--kid) }
+.chip.gratis[aria-pressed="true"] { --c: var(--sun) }
+.search { flex: 1 1 220px; min-width: 0; border: 1px solid var(--line); border-radius: 999px; padding: 7px 14px; background: var(--surface) }
+select { border: 1px solid var(--line); border-radius: 999px; padding: 7px 12px; background: var(--surface) }
+.count { font-family: var(--f-mono); font-size: 12px; color: var(--muted); margin-left: auto }
+
+main { padding-block: 20px 64px; display: grid; gap: 36px }
+h2 { font-family: var(--f-display); font-weight: 700; font-size: 24px; margin: 0 0 4px; text-wrap: balance }
+.sub { color: var(--muted); margin: 0 0 14px; font-size: 14px }
+
+.farms { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px }
+.farm { background: var(--kid-soft); border-radius: var(--r); padding: 14px 16px; display: grid; gap: 6px; align-content: start; min-width: 0 }
+.farm h3 { margin: 0; font-family: var(--f-display); font-size: 18px; font-weight: 700 }
+.farm .where { font-size: 13px; color: var(--muted) }
+.farm p { margin: 0; font-size: 14px }
+.farm .hours { font-family: var(--f-mono); font-size: 12px }
+.farm.star { outline: 2px solid var(--kid) }
+
+.day { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 16px; padding-block: 14px; border-top: 1px solid var(--line) }
+.day-h { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 130px); align-self: start }
+.day-h .dow { font-family: var(--f-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted) }
+.day-h .dnum { font-family: var(--f-display); font-weight: 800; font-size: 34px; line-height: 1 }
+.day-h .mon { font-family: var(--f-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .08em }
+.day-h .hol { display: inline-block; margin-top: 6px; font-size: 11px; background: var(--accent-soft); color: var(--accent); border-radius: 6px; padding: 2px 6px }
+.list { display: grid; gap: 8px; min-width: 0 }
+
+.ev { display: grid; grid-template-columns: 58px minmax(0, 1fr) auto; gap: 12px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; border-left: 4px solid var(--c); min-width: 0 }
+.ev .time { font-family: var(--f-mono); font-size: 14px; font-weight: 500 }
+.ev .body { min-width: 0; overflow-wrap: anywhere }
+.ev .cat { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--c); font-weight: 600 }
+.ev h3 { margin: 2px 0 2px; font-size: 16px; font-weight: 600; text-wrap: balance }
+.ev .where { font-size: 13px; color: var(--muted) }
+.ev p.desc { margin: 4px 0 0; font-size: 14px }
+.ev .side { display: grid; gap: 6px; justify-items: end; text-align: right }
+.price { font-family: var(--f-mono); font-size: 13px; white-space: nowrap }
+.price.free { color: var(--kid); font-weight: 500 }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px }
+.tag { font-size: 11px; border-radius: 6px; padding: 2px 7px; background: var(--bg); color: var(--muted) }
+.tag.kid { background: var(--kid-soft); color: var(--kid); font-weight: 600 }
+.tag.promo { background: var(--accent-soft); color: var(--accent); font-weight: 600 }
+.promo-line { display: block; margin-top: 6px; padding: 6px 10px; border-radius: 8px; background: var(--accent-soft); color: var(--accent); font-size: 13px; text-decoration: none }
+.promo-line:hover { text-decoration: underline }
+.promo-line b { font-weight: 600 }
+.chip.promo[aria-pressed="true"] { --c: var(--accent) }
+.nina-line { font-size: 13px; color: var(--muted) }
+.nina-line.free { color: var(--kid); background: var(--kid-soft); padding: 6px 10px; border-radius: 8px; font-weight: 600 }
+.nina-line small { font-weight: 400; font-size: 12px }
+.go { font-size: 13px; color: var(--accent); text-decoration: none; white-space: nowrap }
+.go:hover { text-decoration: underline }
+
+.season { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px }
+.season .ev { grid-template-columns: minmax(0, 1fr) auto }
+.season .when { font-family: var(--f-mono); font-size: 12px; color: var(--muted); margin-top: 4px }
+
+.empty { padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: var(--r) }
+footer { color: var(--muted); font-size: 13px; padding-block: 0 40px }
+
+@media (max-width: 640px) {
+  .day { grid-template-columns: minmax(0, 1fr); gap: 8px }
+  .day-h { position: static; display: flex; gap: 8px; align-items: baseline }
+  .day-h .dnum { font-size: 24px }
+  .ev { grid-template-columns: minmax(0, 1fr); gap: 4px }
+  .ev .side { display: flex; flex-wrap: wrap; align-items: baseline; text-align: left; gap: 4px 12px; min-width: 0 }
+  .go { white-space: normal }
+  .count { margin-left: 0 }
+}
+@media (prefers-reduced-motion: no-preference) { .chip, .seg button { transition: background .15s, border-color .15s } }
+</style>
+
+<header class="top wrap">
+  <div class="brand">
+    <h1>Rolê <span>SP</span></h1>
+    <p>Shows, teatro, cinema, exposições e programas para a Nina na capital e arredores, reunidos de várias agendas.</p>
+  </div>
+  <div class="meta" id="meta">Carregando agenda…</div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="row">
+      <div class="seg" role="group" aria-label="Quando">
+        <button id="q-hoje" data-q="hoje">Hoje</button>
+        <button id="q-fds" data-q="fds">Fim de semana</button>
+        <button id="q-7" data-q="7">7 dias</button>
+        <button id="q-tudo" data-q="tudo" aria-pressed="true">Tudo</button>
+      </div>
+      <button class="chip nina" id="f-nina" aria-pressed="false">Bom para a Nina</button>
+      <button class="chip gratis" id="f-gratis" aria-pressed="false">Grátis</button>
+      <button class="chip promo" id="f-promo" aria-pressed="false">Em promoção</button>
+      <select id="f-regiao" aria-label="Região">
+        <option value="">Todas as regiões</option>
+      </select>
+      <input class="search" id="f-busca" type="search" placeholder="Buscar artista, peça, local…" aria-label="Buscar">
+    </div>
+    <div class="row" id="cats" aria-label="Categorias"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <section id="sec-farms">
+    <h2>Fazendinhas e passeios com crianças</h2>
+    <p class="sub">Abertos o ano todo. Confira o horário no site antes de sair, porque alguns fecham em dia de chuva ou só abrem com reserva.</p>
+    <div class="farms" id="farms"></div>
+  </section>
+  <section id="sec-days">
+    <h2>Programação por dia</h2>
+    <p class="sub">Eventos com data marcada.</p>
+    <div id="days"></div>
+  </section>
+  <section id="sec-season">
+    <h2>Em cartaz</h2>
+    <p class="sub">Peças, exposições e filmes em temporada no período escolhido.</p>
+    <div class="season" id="season"></div>
+  </section>
+</main>
+<footer class="wrap" id="foot"></footer>
+
+<script>
+const CATS = {
+  show: ["Shows", "--c-show"], teatro: ["Teatro", "--c-teatro"], danca: ["Dança", "--c-teatro"],
+  standup: ["Stand-up", "--c-teatro"], cinema: ["Cinema", "--c-cinema"], infantil: ["Infantil", "--c-infantil"],
+  exposicao: ["Exposições", "--c-exposicao"], passeio: ["Passeios", "--c-passeio"], festival: ["Festas e feiras", "--c-festival"],
+  gastronomia: ["Gastronomia", "--c-festival"], esporte: ["Esporte", "--c-outros"]
+};
+// Feriados e datas em SP no período
+const HOLIDAYS = { "2026-11-02": "Finados", "2026-11-15": "Proclamação da República", "2026-11-20": "Consciência Negra", "2026-12-25": "Natal" };
+// Mês de nascimento da criança não fica no código: vem do link (?nasc=AAAA-MM) e é lembrado só neste navegador
+const NASC = (() => {
+  let v = null;
+  try { v = new URLSearchParams(location.search).get("nasc"); if (v) localStorage.setItem("rolesp-nasc", v); else v = localStorage.getItem("rolesp-nasc") } catch (_) {}
+  const m = /^(\d{4})-(\d{2})$/.exec(v || "");
+  return m ? { ano: +m[1], mes: +m[2] - 1 } : null;
+})();
+const DOW = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+const MON = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
+
+const state = { q: "tudo", nina: false, gratis: false, promo: false, regiao: "", busca: "", cats: new Set() };
+let DATA = [], META = {};
+
+const iso = d => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+const parse = s => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d) };
+const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x };
+const fmtShort = s => { const d = parse(s); return d.getDate() + " " + MON[d.getMonth()] };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const norm = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+function range() {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  if (state.q === "hoje") return [iso(today), iso(today)];
+  if (state.q === "7") return [iso(today), iso(addDays(today, 6))];
+  if (state.q === "fds") {
+    // sex a dom: se já estamos no fim de semana, começa hoje
+    const dw = today.getDay();
+    const sun = dw === 0 ? today : addDays(today, 7 - dw);
+    const start = (dw === 0 || dw >= 5) ? today : addDays(sun, -1);
+    return [iso(start), iso(sun)];
+  }
+  return [iso(today), "9999-12-31"];
+}
+
+function price(e) {
+  if (e.gratuito || e.preco_max === 0 || (e.preco_min === 0 && e.preco_max == null)) return '<span class="price free">Grátis</span>';
+  const f = n => "R$ " + Math.round(n).toLocaleString("pt-BR");
+  if (e.preco_min != null && e.preco_max != null && e.preco_max !== e.preco_min) return `<span class="price">${f(e.preco_min)}–${f(e.preco_max)}</span>`;
+  if (e.preco_min != null) return `<span class="price">${e.preco_max == null ? "a partir de " : ""}${f(e.preco_min)}</span>`;
+  return '<span class="price">Preço no link</span>';
+}
+function place(e) {
+  const where = [e.bairro, e.cidade && e.cidade !== "São Paulo" ? e.cidade : null].filter(Boolean).join(", ");
+  return esc([e.local, where].filter(Boolean).join(" · "));
+}
+function tags(e) {
+  const t = [];
+  if (e.promocao) t.push('<span class="tag promo">Promoção</span>');
+  if (e.bom_para_criancas) t.push('<span class="tag kid">Bom para a Nina</span>');
+  if (e.faixa_etaria) t.push(`<span class="tag">${esc(e.faixa_etaria)}</span>`);
+  if (e.subcategoria) t.push(`<span class="tag">${esc(e.subcategoria)}</span>`);
+  return t.length ? `<div class="tags">${t.join("")}</div>` : "";
+}
+function ninaLine(e) {
+  const g = e.gratis_crianca;
+  if (!g || !g.regra) return "";
+  const regra = esc(g.regra);
+  if (g.idade_max_meses == null || !NASC) return `<div class="nina-line free">${regra.charAt(0).toUpperCase() + regra.slice(1)}</div>`;
+  const hoje = new Date();
+  const idade = (hoje.getFullYear() - NASC.ano) * 12 + (hoje.getMonth() - NASC.mes);
+  if (idade > g.idade_max_meses) return `<div class="nina-line">Nina já paga · ${regra}</div>`;
+  const fim = new Date(NASC.ano, NASC.mes + g.idade_max_meses + 1, 1);
+  return `<div class="nina-line free">Nina entra grátis até ${MON[fim.getMonth()]}/${fim.getFullYear()} <small>· ${regra}</small></div>`;
+}
+function promoLine(e) {
+  const p = e.promocao;
+  if (!p) return "";
+  const ate = p.validade ? " · até " + fmtShort(p.validade) : "";
+  const inner = `<b>Promoção:</b> ${esc(p.texto)}${ate}${p.link ? " ↗" : ""}`;
+  return p.link ? `<a class="promo-line" href="${esc(p.link)}" target="_blank" rel="noopener">${inner}</a>` : `<span class="promo-line">${inner}</span>`;
+}
+const catVar = c => (CATS[c] || ["", "--c-outros"])[1];
+const catLabel = c => (CATS[c] || [c || "Outros"])[0];
+const link = e => e.link ? `<a class="go" href="${esc(e.link)}" target="_blank" rel="noopener">Ver em ${esc(e.fonte || "site")} ↗</a>` : "";
+
+function passes(e) {
+  if (state.nina && !e.bom_para_criancas) return false;
+  if (state.gratis && !(e.gratuito || e.preco_max === 0)) return false;
+  if (state.promo && !e.promocao) return false;
+  if (state.regiao && e.regiao !== state.regiao) return false;
+  if (state.cats.size && !state.cats.has(e.categoria)) return false;
+  if (state.busca) {
+    const hay = norm([e.titulo, e.local, e.bairro, e.cidade, e.descricao, e.subcategoria].join(" "));
+    if (!norm(state.busca).split(/\s+/).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+
+function render() {
+  const [a, b] = range();
+  const base = DATA.filter(passes);
+  const shown = new Set();
+
+  // Passeios permanentes
+  const isFarm = e => e.tipo_data === "permanente" && (e.categoria === "passeio" || e.categoria === "infantil");
+  const farms = base.filter(isFarm);
+  document.getElementById("sec-farms").hidden = !farms.length;
+  farms.sort((x, y) => (/anim[aá]lia/i.test(y.titulo) - /anim[aá]lia/i.test(x.titulo)) || x.titulo.localeCompare(y.titulo));
+  document.getElementById("farms").innerHTML = farms.map(e => `
+    <article class="farm${/anim[aá]lia/i.test(e.titulo) ? " star" : ""}">
+      <h3>${esc(e.titulo)}</h3>
+      <div class="where">${place(e)}</div>
+      ${e.descricao ? `<p>${esc(e.descricao)}</p>` : ""}
+      ${ninaLine(e)}
+      ${promoLine(e)}
+      ${e.dias_horarios ? `<div class="hours">${esc(e.dias_horarios)}</div>` : ""}
+      <div class="row" style="justify-content:space-between">${price(e)}${link(e)}</div>
+    </article>`).join("");
+  farms.forEach(e => shown.add(e));
+
+  // Por dia
+  const byDay = {};
+  base.filter(e => e.tipo_data === "unica" && Array.isArray(e.datas)).forEach(e => {
+    e.datas.forEach(d => { if (d.data >= a && d.data <= b) (byDay[d.data] ||= []).push({ e, hora: d.hora }) });
+  });
+  const days = Object.keys(byDay).sort();
+  document.getElementById("days").innerHTML = days.length ? days.map(k => {
+    const d = parse(k), items = byDay[k].sort((x, y) => (x.hora || "99").localeCompare(y.hora || "99"));
+    items.forEach(x => shown.add(x.e));
+    return `<div class="day">
+      <div class="day-h"><div class="dow">${DOW[d.getDay()]}</div><div class="dnum">${d.getDate()}</div><div class="mon">${MON[d.getMonth()]}</div>${HOLIDAYS[k] ? `<span class="hol">Feriado: ${HOLIDAYS[k]}</span>` : ""}</div>
+      <div class="list">${items.map(({ e, hora }) => `
+        <article class="ev" style="--c: var(${catVar(e.categoria)})">
+          <div class="time">${esc(hora || "—")}</div>
+          <div class="body"><div class="cat">${esc(catLabel(e.categoria))}</div><h3>${esc(e.titulo)}</h3><div class="where">${place(e)}</div>${e.descricao ? `<p class="desc">${esc(e.descricao)}</p>` : ""}${tags(e)}${ninaLine(e)}${promoLine(e)}</div>
+          <div class="side">${price(e)}${link(e)}</div>
+        </article>`).join("")}</div></div>`;
+  }).join("") : '<div class="empty">Nada com data marcada nesse filtro. Tente ampliar o período ou tirar algum filtro.</div>';
+
+  // Temporadas
+  const season = base.filter(e => (e.tipo_data === "temporada" && (e.inicio || "0000") <= b && (e.fim || "9999") >= a) || (e.tipo_data === "permanente" && !isFarm(e)))
+    .sort((x, y) => (x.categoria || "").localeCompare(y.categoria || "") || x.titulo.localeCompare(y.titulo));
+  season.forEach(e => shown.add(e));
+  document.getElementById("season").innerHTML = season.length ? season.map(e => `
+    <article class="ev" style="--c: var(${catVar(e.categoria)})">
+      <div class="body"><div class="cat">${esc(catLabel(e.categoria))}</div><h3>${esc(e.titulo)}</h3><div class="where">${place(e)}</div>
+        <div class="when">${e.tipo_data === "permanente" ? "o ano todo" : ""}${e.inicio ? (e.inicio > iso(new Date()) ? "estreia " + fmtShort(e.inicio) : "desde " + fmtShort(e.inicio)) : ""}${e.fim ? " · até " + fmtShort(e.fim) : ""}${e.dias_horarios ? " · " + esc(e.dias_horarios) : ""}</div>
+        ${e.descricao ? `<p class="desc">${esc(e.descricao)}</p>` : ""}${tags(e)}${ninaLine(e)}${promoLine(e)}</div>
+      <div class="side">${price(e)}${link(e)}</div>
+    </article>`).join("") : '<div class="empty">Nenhuma temporada nesse filtro.</div>';
+
+  document.getElementById("count").textContent = shown.size + " de " + DATA.length + " itens";
+}
+
+function buildControls() {
+  const counts = {};
+  DATA.forEach(e => counts[e.categoria] = (counts[e.categoria] || 0) + 1);
+  const cats = Object.keys(CATS).filter(c => counts[c]);
+  const box = document.getElementById("cats");
+  box.innerHTML = cats.map(c => `<button class="chip" id="cat-${c}" data-cat="${c}" aria-pressed="false" style="--c: var(${CATS[c][1]})"><span class="dot"></span>${CATS[c][0]} <span class="n">${counts[c]}</span></button>`).join("") + '<span class="count" id="count"></span>';
+  box.querySelectorAll("[data-cat]").forEach(btn => btn.onclick = () => {
+    const c = btn.dataset.cat; state.cats.has(c) ? state.cats.delete(c) : state.cats.add(c);
+    btn.setAttribute("aria-pressed", state.cats.has(c)); render();
+  });
+  const nPromo = DATA.filter(e => e.promocao).length;
+  const promoBtn = document.getElementById("f-promo");
+  promoBtn.hidden = !nPromo;
+  promoBtn.insertAdjacentHTML("beforeend", ` <span class="n">${nPromo}</span>`);
+  const regs = ["Centro", "Zona Sul", "Zona Oeste", "Zona Norte", "Zona Leste", "Grande SP", "Interior/Litoral"].filter(r => DATA.some(e => e.regiao === r));
+  document.getElementById("f-regiao").insertAdjacentHTML("beforeend", regs.map(r => `<option>${r}</option>`).join(""));
+}
+
+document.querySelectorAll("[data-q]").forEach(btn => btn.onclick = () => {
+  state.q = btn.dataset.q;
+  document.querySelectorAll("[data-q]").forEach(b => b.setAttribute("aria-pressed", b === btn)); render();
+});
+for (const [id, key] of [["f-nina", "nina"], ["f-gratis", "gratis"], ["f-promo", "promo"]]) {
+  const el = document.getElementById(id);
+  el.onclick = () => { state[key] = !state[key]; el.setAttribute("aria-pressed", state[key]); render() };
+}
+document.getElementById("f-regiao").onchange = e => { state.regiao = e.target.value; render() };
+document.getElementById("f-busca").oninput = e => { state.busca = e.target.value.trim(); render() };
+
+fetch("eventos.json").then(r => r.json()).then(j => {
+  META = j.meta || {}; DATA = j.eventos || [];
+  const at = META.atualizado_em ? parse(META.atualizado_em) : null;
+  document.getElementById("meta").textContent = `${DATA.length} itens${at ? " · atualizado em " + at.getDate() + " " + MON[at.getMonth()] + " " + at.getFullYear() : ""}${META.fontes ? " · " + META.fontes.length + " fontes" : ""}`;
+  document.getElementById("foot").textContent = "Fontes: " + (META.fontes || []).join(", ") + ". Datas e preços mudam; confira no link antes de comprar.";
+  buildControls(); render();
+}).catch(() => { document.getElementById("meta").textContent = "Não consegui carregar a agenda. Recarregue a página." });
+</script>
+
+</body></html>
