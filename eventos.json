@@ -1,6 +1,6 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-04",
+  "atualizado_em": "2026-11-05",
   "fontes": [
    "ABC do ABC",
    "AdoroCinema",
@@ -16,6 +16,7 @@
    "Correio da Manhã (site oficial: festivalcinemaitaliano.com)",
    "Espaço Unimed",
    "Eventim",
+   "Folha PE / Songkick",
    "Fábrica dos Sonhos Musical / São Paulo para Crianças",
    "Guia da Semana",
    "IMS",
@@ -29,6 +30,7 @@
    "Museu do Futebol",
    "Museu do Ipiranga",
    "Nubank Parque",
+   "Omelete / Ticketmaster",
    "Osesp",
    "Parque Ibirapuera / A Cidade de São Paulo",
    "Parque Villa-Lobos / A Cidade de São Paulo",
@@ -77,7 +79,9 @@
    "Ticketmaster",
    "Ticketmaster Brasil",
    "Tokio Marine Hall",
-   "Uhuu"
+   "Uhuu",
+   "Visite São Paulo / Rolling Stone Brasil",
+   "ma.to (IMS Paulista)"
   ]
  },
  "eventos": [
@@ -1052,39 +1056,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://cinemateca.org.br/exibicao/a-jornada-do-cinema-silencioso-conversa-com-jay-weissberg/",
-   "fonte": "Cinemateca Brasileira",
-   "promocao": null
-  },
-  {
-   "titulo": "Palestine Cinema Days na Cinemateca (04/11)",
-   "categoria": "cinema",
-   "subcategoria": "sessão de cinema",
-   "descricao": "Noite de documentários palestinos na Sala Grande Otelo, como Com Hasan em Gaza e Eles Não Existem (1974).",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "17:30"
-    },
-    {
-     "data": "2026-11-04",
-     "hora": "19:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Cinemateca Brasileira",
-   "endereco": "Largo Senador Raul Cardoso, 207",
-   "bairro": "Vila Mariana",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "14 anos",
-   "bom_para_criancas": false,
-   "link": "https://cinemateca.org.br/exibicao/com-hasan-em-gaza-2/",
    "fonte": "Cinemateca Brasileira",
    "promocao": null
   },
@@ -3062,6 +3033,35 @@
    "promocao": null
   },
   {
+   "titulo": "Sessão Indeterminações - Reprise (IMS Paulista)",
+   "categoria": "cinema",
+   "subcategoria": "sessão especial",
+   "descricao": "Segunda chance de ver dois filmes: Inventário de um feudalismo cultural nordestino (1978) e Aquele que viu o abismo (2024), exibidos sem o debate das sessões originais.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "IMS Paulista",
+   "endereco": "Avenida Paulista, 2424",
+   "bairro": "Bela Vista",
+   "cidade": "São Paulo",
+   "regiao": "Centro",
+   "preco_min": 10.0,
+   "preco_max": 10.0,
+   "gratuito": false,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://ma.to/event/sessao-indeterminacoes-reprise-22-11-2026",
+   "fonte": "ma.to (IMS Paulista)",
+   "promocao": null
+  },
+  {
    "titulo": "Chegada do Papai Noel - Shopping Center Norte",
    "categoria": "infantil",
    "subcategoria": "Natal / chegada do Papai Noel",
@@ -4036,10 +4036,6 @@
    "descricao": "Últimos dias da montagem Alegría sob a grande tenda no Villa-Lobos, com cerca de 2h15 de duração; mais indicada para crianças em idade escolar.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "20:00"
-    },
     {
      "data": "2026-11-05",
      "hora": "20:00"
@@ -5095,6 +5091,107 @@
     "fonte": "Uhuu",
     "verificado_em": "2026-11-04"
    }
+  },
+  {
+   "subcategoria": "corrida infantil",
+   "datas": [
+    {
+     "data": "2026-11-14",
+     "hora": null
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "endereco": null,
+   "bairro": "São Bernardo do Campo",
+   "bom_para_criancas": true,
+   "promocao": null,
+   "gratuito": false,
+   "preco_min": null,
+   "preco_max": null,
+   "faixa_etaria": null,
+   "cidade": "São Bernardo do Campo",
+   "titulo": "Noel Kids Run",
+   "categoria": "infantil",
+   "descricao": "Corrida para crianças com percursos de 50 a 500 metros separados por idade, brinquedos infláveis e chegada do Papai Noel.",
+   "tipo_data": "unica",
+   "local": "Golden Square Shopping",
+   "regiao": "Grande SP",
+   "link": "https://saopauloparacriancas.com.br/?p=298242",
+   "fonte": "São Paulo para Crianças"
+  },
+  {
+   "subcategoria": "natal",
+   "datas": null,
+   "inicio": "2026-10-01",
+   "fim": "2026-12-23",
+   "dias_horarios": null,
+   "endereco": null,
+   "bairro": "Morumbi",
+   "bom_para_criancas": true,
+   "promocao": null,
+   "gratuito": false,
+   "preco_min": null,
+   "preco_max": null,
+   "faixa_etaria": null,
+   "cidade": "São Paulo",
+   "titulo": "Natal Encantado do Chalezinho",
+   "categoria": "infantil",
+   "descricao": "Decoração iluminada com neve artificial, Casa do Papai Noel e shows musicais no restaurante Chalezinho, com rodízio de fondue.",
+   "tipo_data": "temporada",
+   "local": "Chalezinho",
+   "regiao": "Zona Sul",
+   "link": "https://saopauloparacriancas.com.br/?p=298242",
+   "fonte": "São Paulo para Crianças"
+  },
+  {
+   "subcategoria": "infláveis e aventura",
+   "datas": null,
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": "sáb, dom e feriados, 10h às 18h",
+   "endereco": null,
+   "bairro": "Alto de Pinheiros",
+   "bom_para_criancas": true,
+   "promocao": null,
+   "gratuito": false,
+   "preco_min": null,
+   "preco_max": null,
+   "faixa_etaria": null,
+   "cidade": "São Paulo",
+   "titulo": "Família no Parque (Parque Villa-Lobos)",
+   "categoria": "passeio",
+   "descricao": "Brinquedos infláveis e atividades de aventura e lazer ao ar livre no parque, nos fins de semana e feriados.",
+   "tipo_data": "permanente",
+   "local": "Parque Villa-Lobos",
+   "regiao": "Zona Oeste",
+   "link": "https://saopauloparacriancas.com.br/?p=298258",
+   "fonte": "São Paulo para Crianças"
+  },
+  {
+   "subcategoria": "café temático",
+   "datas": null,
+   "inicio": "2026-10-12",
+   "fim": null,
+   "dias_horarios": null,
+   "endereco": null,
+   "bairro": "Água Branca",
+   "bom_para_criancas": true,
+   "promocao": null,
+   "gratuito": false,
+   "preco_min": null,
+   "preco_max": null,
+   "faixa_etaria": null,
+   "cidade": "São Paulo",
+   "titulo": "Café do Chico Bento",
+   "categoria": "passeio",
+   "descricao": "Café com ambientes inspirados nas histórias do Chico Bento e quitutes da culinária caipira, na Casa do Caboclo.",
+   "tipo_data": "permanente",
+   "local": "Parque da Água Branca (Casa do Caboclo)",
+   "regiao": "Zona Oeste",
+   "link": "https://saopauloparacriancas.com.br/?p=298341",
+   "fonte": "São Paulo para Crianças"
   },
   {
    "categoria": "cinema",
@@ -7094,10 +7191,6 @@
    "descricao": "Experiência musical de descobertas sonoras para bebês e crianças no Espaço de Brincar do Sesc Casa Verde.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "16:30"
-    },
     {
      "data": "2026-11-28",
      "hora": "11:00"
@@ -9145,6 +9238,104 @@
    "promocao": null
   },
   {
+   "categoria": "infantil",
+   "tipo_data": "temporada",
+   "datas": null,
+   "cidade": "São Paulo",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "bom_para_criancas": true,
+   "fonte": "Sesc SP",
+   "promocao": null,
+   "endereco": null,
+   "bairro": null,
+   "titulo": "Brinquedos Naturalizados",
+   "subcategoria": "vivência / instalação lúdica",
+   "descricao": "Instalação com brinquedos de bambu e madeira bruta que convida as crianças a explorar desafios de movimento no brincar. Grátis, a partir de 4 anos.",
+   "inicio": "2026-11-05",
+   "fim": "2026-12-30",
+   "dias_horarios": "terça a sábado 10h-19h45; domingos 10h-18h",
+   "local": "Sesc 14 Bis",
+   "regiao": "Centro",
+   "faixa_etaria": "a partir de 4 anos",
+   "link": "https://www.sescsp.org.br/programacao/brinquedos-naturalizados-gira-pula-e-equilibra/"
+  },
+  {
+   "categoria": "infantil",
+   "tipo_data": "temporada",
+   "datas": null,
+   "cidade": "São Paulo",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "bom_para_criancas": true,
+   "fonte": "Sesc SP",
+   "promocao": null,
+   "endereco": "Rua Paes Leme, 195",
+   "bairro": "Pinheiros",
+   "titulo": "#Sextinha!",
+   "subcategoria": "oficina / brincar",
+   "descricao": "Brincadeiras e experiências sensoriais para crianças e adultos de referência explorarem sentidos, texturas, cores e formas. Grátis, até 6 anos.",
+   "inicio": "2026-11-06",
+   "fim": "2026-11-27",
+   "dias_horarios": "sextas, 15h30-16h30",
+   "local": "Sesc Pinheiros - Espaço de Brincar",
+   "regiao": "Zona Oeste",
+   "faixa_etaria": "até 6 anos",
+   "link": "https://www.sescsp.org.br/programacao/sextinha/"
+  },
+  {
+   "categoria": "infantil",
+   "tipo_data": "temporada",
+   "datas": null,
+   "cidade": "São Paulo",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "bom_para_criancas": true,
+   "fonte": "Sesc SP",
+   "promocao": null,
+   "endereco": null,
+   "bairro": "Itaquera",
+   "titulo": "Quintal do Curumim: Ateliê de Brincadeiras",
+   "subcategoria": "vivência / brincadeiras",
+   "descricao": "Brincadeiras, oficinas e jogos populares de diferentes culturas, conduzidos por educadores do Curumim. Grátis, a partir de 7 anos. Confirme as datas no site.",
+   "inicio": "2026-11-05",
+   "fim": "2026-11-30",
+   "dias_horarios": "sábados e domingos, 11h-12h30 (exceto 7/11 segundo o guia Em Cartaz)",
+   "local": "Sesc Itaquera - Quiosque da Praça",
+   "regiao": "Zona Leste",
+   "faixa_etaria": "a partir de 7 anos",
+   "link": "https://www.sescsp.org.br/programacao/quintal-do-curumim-atelie-de-brincadeiras/"
+  },
+  {
+   "categoria": "infantil",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-08",
+     "hora": "14:30"
+    }
+   ],
+   "cidade": "São Paulo",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "bom_para_criancas": true,
+   "fonte": "Sesc SP",
+   "promocao": null,
+   "endereco": "Rua 24 de Maio, 109",
+   "bairro": "Centro",
+   "titulo": "Roda de Mães",
+   "subcategoria": "encontro",
+   "descricao": "Espaço de escuta e troca de saberes sobre diferentes experiências de maternidade, no programa Espaço de Brincar. Grátis, todas as idades.",
+   "local": "Sesc 24 de Maio - Espaço de Brincar (9º andar)",
+   "regiao": "Centro",
+   "faixa_etaria": "Livre",
+   "link": "https://www.sescsp.org.br/programacao/roda-de-maes-8/"
+  },
+  {
    "titulo": "Juliana Linhares",
    "categoria": "show",
    "subcategoria": "MPB",
@@ -11083,99 +11274,6 @@
    "bom_para_criancas": false,
    "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
    "fonte": "Theatro Municipal de São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Leandro Cabral: Com Texto",
-   "categoria": "show",
-   "subcategoria": "instrumental",
-   "descricao": "Noite de música instrumental com o pianista Leandro Cabral.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/leandro-cabral-com-texto-blue-note-sao-paulo-22207926/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Mario Gil com participação de Renato Braz",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Encontro de violão e voz entre Mario Gil e Renato Braz.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": "Rua Doutor Paulo Vieira, 101",
-   "bairro": "Sumaré",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/mario-gil-com-participacao-de-renato-braz-bona-casa-de-musica-22237878/",
-   "fonte": "Eventim",
-   "promocao": {
-    "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
-    "validade": null,
-    "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-    "fonte": "Eventim",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Weather Report Tributo",
-   "categoria": "show",
-   "subcategoria": "tributo",
-   "descricao": "Homenagem ao repertório do grupo de jazz fusion Weather Report.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "22:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/weather-report-tributo-blue-note-sao-paulo-22207927/",
-   "fonte": "Eventim",
    "promocao": null
   },
   {
@@ -13589,35 +13687,6 @@
    "promocao": null
   },
   {
-   "titulo": "Jazz na Estação: FM 5tet",
-   "categoria": "show",
-   "subcategoria": "jazz",
-   "descricao": "Quinteto FM 5tet abre a noite de jazz na Estação Motiva Cultural.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-04",
-     "hora": "19:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Estação Motiva Cultural",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 50.0,
-   "preco_max": 132.0,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1856",
-   "fonte": "Sala São Paulo",
-   "promocao": null
-  },
-  {
    "titulo": "Jazz na Estação: FM 5tet – Referências",
    "categoria": "show",
    "subcategoria": "jazz",
@@ -14195,6 +14264,126 @@
    "bom_para_criancas": false,
    "link": "https://amigosdaarte.org.br/agenda-equipamento/arroz-com-feijao-retratos-do-brasil/",
    "fonte": "Teatro Sérgio Cardoso (Amigos da Arte)",
+   "promocao": null
+  },
+  {
+   "titulo": "Eddie Vedder - Best of Blues and Rock",
+   "categoria": "show",
+   "subcategoria": "rock / festival",
+   "descricao": "Vocalista do Pearl Jam se apresenta nos dois dias de abertura e encerramento do festival Best of Blues and Rock, ao ar livre no Ibirapuera.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-20",
+     "hora": "15:30"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "15:30"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Auditório Ibirapuera (plateia externa)",
+   "endereco": null,
+   "bairro": "Parque Ibirapuera",
+   "cidade": "São Paulo",
+   "regiao": "Zona Sul",
+   "preco_min": 406.0,
+   "preco_max": 1232.0,
+   "gratuito": false,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://www.omelete.com.br/musica/best-of-blues-and-rock-2026-festival-em-sp-line-up-eddie-vedder-roger-daltrey",
+   "fonte": "Omelete / Ticketmaster",
+   "promocao": null
+  },
+  {
+   "titulo": "Roger Daltrey - Best of Blues and Rock",
+   "categoria": "show",
+   "subcategoria": "rock / festival",
+   "descricao": "Voz do The Who é headliner do sábado do festival, com Chris Isaak, Kingfish e Artur Menezes na programação.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-21",
+     "hora": "15:30"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Auditório Ibirapuera (plateia externa)",
+   "endereco": null,
+   "bairro": "Parque Ibirapuera",
+   "cidade": "São Paulo",
+   "regiao": "Zona Sul",
+   "preco_min": 406.0,
+   "preco_max": 1232.0,
+   "gratuito": false,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://www.omelete.com.br/musica/best-of-blues-and-rock-2026-festival-em-sp-line-up-eddie-vedder-roger-daltrey",
+   "fonte": "Omelete / Ticketmaster",
+   "promocao": null
+  },
+  {
+   "titulo": "Johnny Marr",
+   "categoria": "show",
+   "subcategoria": "rock / indie",
+   "descricao": "Show único no Brasil do ex-guitarrista dos Smiths; portões às 20h e show às 21h30.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-24",
+     "hora": "21:30"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Tokio Marine Hall",
+   "endereco": "R. Bragança Paulista, 1281",
+   "bairro": "Várzea de Baixo",
+   "cidade": "São Paulo",
+   "regiao": "Zona Sul",
+   "preco_min": 200.0,
+   "preco_max": 700.0,
+   "gratuito": false,
+   "faixa_etaria": "16 anos",
+   "bom_para_criancas": false,
+   "link": "https://visitesaopaulo.com/evento/johnny-marr-2026/",
+   "fonte": "Visite São Paulo / Rolling Stone Brasil",
+   "promocao": null
+  },
+  {
+   "titulo": "Ty Segall",
+   "categoria": "show",
+   "subcategoria": "rock / indie",
+   "descricao": "Estreia do roqueiro californiano no Brasil, com Ema Stoned e BIKE abrindo.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-15",
+     "hora": "18:00"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Cine Joia",
+   "endereco": null,
+   "bairro": "Liberdade",
+   "cidade": "São Paulo",
+   "regiao": "Centro",
+   "preco_min": null,
+   "preco_max": null,
+   "gratuito": false,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://www.folhape.com.br/cultura/ty-segall-faz-estreia-no-brasil-com-show-em-sao-paulo-sp-em/518894/",
+   "fonte": "Folha PE / Songkick",
    "promocao": null
   },
   {
@@ -16773,6 +16962,83 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://www.bilheteriaexpress.com.br/ingressos-para-gratis-quinta-da-gargalhada-21h00-stand-up-comedy-bixiga-comedy-club-comedia-stand-up-719368049156450.html",
+   "fonte": "Bilheteria Express",
+   "promocao": null
+  },
+  {
+   "titulo": "O bocejo da serpente",
+   "categoria": "infantil",
+   "subcategoria": "teatro infantil",
+   "descricao": "Quatro atrizes vão encenar uma peça, mas poemas e desenhos somem; elas saem para recuperá-los. Baseado no livro de Antônia Gomes Minchoni, com Libras.",
+   "tipo_data": "temporada",
+   "datas": null,
+   "inicio": "2026-08-02",
+   "fim": "2026-11-29",
+   "dias_horarios": "domingos 16h (24/10 sábado no lugar de 25/10); reserva de ingresso gratuito pela plataforma Inti",
+   "local": "Itaú Cultural (Auditório)",
+   "endereco": "Avenida Paulista, 149",
+   "bairro": "Bela Vista",
+   "cidade": "São Paulo",
+   "regiao": "Centro",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": "Livre",
+   "bom_para_criancas": true,
+   "link": "https://www.itaucultural.org.br/secoes/agenda/o-bocejo-da-serpente-aborda-a-poetica-e-o-ludico-na-busca-por-poesias-perdidas",
+   "fonte": "Itaú Cultural",
+   "promocao": null
+  },
+  {
+   "titulo": "Gaby e Sua Casa Mágica",
+   "categoria": "infantil",
+   "subcategoria": "teatro infantil",
+   "descricao": "A bruxinha Gaby e o dragão Zé vivem aventuras e resolvem mistérios numa casa mágica. Peça de 50 minutos da Like Teatro.",
+   "tipo_data": "temporada",
+   "datas": null,
+   "inicio": null,
+   "fim": "2026-11-22",
+   "dias_horarios": "sáb 14h30, dom 14h",
+   "local": "Teatro BTC Metrô Alto do Ipiranga",
+   "endereco": "Rua Santa Cruz, 2105",
+   "bairro": "Vila Mariana",
+   "cidade": "São Paulo",
+   "regiao": "Zona Sul",
+   "preco_min": 55.0,
+   "preco_max": 160.0,
+   "gratuito": false,
+   "faixa_etaria": "Livre",
+   "bom_para_criancas": true,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-gaby-e-sua-casa-magica-um-mundo-magico-e-cheio-de-diversao-teatro-btc-metro-alto-ipiranga-teatro-infantil-865313967056577.html",
+   "fonte": "Bilheteria Express",
+   "promocao": null
+  },
+  {
+   "titulo": "The Rocky Horror Show In Concert",
+   "categoria": "teatro",
+   "subcategoria": "musical",
+   "descricao": "Versão em formato de show do musical cult de Richard O'Brien, com os números mais famosos ao vivo e plateia convidada a se fantasiar e cantar.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-18",
+     "hora": "20:00"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Teatro Shopping Metrô Tatuapé",
+   "endereco": "Rua Domingos Agostim, 91",
+   "bairro": "Cidade Mãe do Céu",
+   "cidade": "São Paulo",
+   "regiao": "Zona Leste",
+   "preco_min": 40.0,
+   "preco_max": 80.0,
+   "gratuito": false,
+   "faixa_etaria": "16 anos",
+   "bom_para_criancas": false,
+   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-the-rocky-horror-show-in-concert-teatro-shopping-metro-tatuape-shows-806563851670980.html",
    "fonte": "Bilheteria Express",
    "promocao": null
   }
