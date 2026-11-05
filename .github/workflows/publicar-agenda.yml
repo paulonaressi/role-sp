@@ -1,0 +1,63 @@
+# Junta na main as atualizações de agenda que a tarefa agendada envia para branches claude/agenda-*.
+# A tarefa não faz push direto na main (o modo Auto da nuvem pede aprovação para isso);
+# este workflow confere que só os dados mudaram, valida e publica.
+name: Publicar agenda
+
+on:
+  push:
+    branches: ["claude/agenda-*"]
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: publicar-agenda
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Conferir que só dados/ e eventos.json mudaram
+        run: |
+          git fetch origin main
+          mudados=$(git diff --name-only origin/main...HEAD)
+          echo "$mudados"
+          fora=$(echo "$mudados" | grep -v -E '^(dados/[a-z_]+\.json|eventos\.json)$' || true)
+          if [ -n "$fora" ]; then
+            echo "::error::A branch mexe em arquivos fora de dados/ e eventos.json: $fora"
+            exit 1
+          fi
+
+      - name: Validar JSON e total de itens
+        run: |
+          python3 -I - <<'EOF'
+          import json, glob, sys
+          for f in glob.glob("dados/*.json"):
+              json.load(open(f, encoding="utf-8"))
+          j = json.load(open("eventos.json", encoding="utf-8"))
+          n = len(j["eventos"])
+          print("itens:", n, "| atualizado_em:", j["meta"]["atualizado_em"])
+          if n < 250:
+              sys.exit(f"::error::Só {n} itens; abaixo do mínimo de 250, não publico.")
+          EOF
+
+      - name: Juntar na main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout main
+          git pull --ff-only origin main
+          git merge --ff-only "origin/${GITHUB_REF_NAME}" || git merge --no-edit "origin/${GITHUB_REF_NAME}"
+          git push origin main
+          git push origin --delete "${GITHUB_REF_NAME}"
+
+      - name: Reconstruir o site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "Pages vai reconstruir pelo push"
