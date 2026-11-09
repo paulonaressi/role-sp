@@ -101,9 +101,10 @@
   "gratis_crianca": {
    "regra": "0 a 3 anos, 11 meses e 29 dias não pagam (com documento)",
    "idade_max_meses": 47,
-   "verificado_em": "2026-11-04"
+   "verificado_em": "2026-11-09"
   },
-  "promocao": null
+  "promocao": null,
+  "verificado_em": "2026-11-09"
  },
  {
   "titulo": "Simba Safari (Zoo Safari)",
@@ -130,9 +131,10 @@
   "gratis_crianca": {
    "regra": "até 3 anos, 11 meses e 30 dias não pagam; 4 a 13 anos pagam meia",
    "idade_max_meses": 47,
-   "verificado_em": "2026-11-04"
+   "verificado_em": "2026-11-09"
   },
-  "promocao": null
+  "promocao": null,
+  "verificado_em": "2026-11-09"
  },
  {
   "titulo": "Aquário de São Paulo",
@@ -157,9 +159,9 @@
   "link": "https://aquariodesp.com.br/site/preco-e-horarios/",
   "fonte": "Site oficial Aquário de SP",
   "gratis_crianca": {
-   "regra": "ingresso infantil começa aos 2 anos; site não cita gratuidade para menores de 2, confirme",
+   "regra": "ingresso infantil de 2 a 12 anos; site oficial não cita gratuidade para menores de 2, confirme",
    "idade_max_meses": 23,
-   "verificado_em": "2026-11-04"
+   "verificado_em": "2026-11-09"
   },
   "promocao": {
    "texto": "Ingresso promocional online: adulto R$ 150, infantil (2 a 12) R$ 120; cheio R$ 300. Promo segunda-feira R$ 120. Visitas até 06/12.",
@@ -167,7 +169,8 @@
    "link": "https://lojadoaquariodesp.com.br/",
    "fonte": "Aquário de SP (loja oficial)",
    "verificado_em": "2026-11-04"
-  }
+  },
+  "verificado_em": "2026-11-09"
  },
  {
   "titulo": "Parque da Mônica (Shopping SP Market)",
@@ -627,7 +630,7 @@
   "datas": [],
   "inicio": null,
   "fim": null,
-  "dias_horarios": "Ter a dom 9h-17h (bilheteria fecha às 16h); fechado seg",
+  "dias_horarios": "Ter a dom 9h-17h (bilheteria fecha às 16h); fechado seg; grátis às terças",
   "local": "Museu Catavento",
   "endereco": "Av. Mercúrio, s/n",
   "bairro": "Parque Dom Pedro II",
@@ -643,9 +646,10 @@
   "gratis_crianca": {
    "regra": "crianças até 7 anos não pagam",
    "idade_max_meses": 83,
-   "verificado_em": "2026-11-04"
+   "verificado_em": "2026-11-09"
   },
-  "promocao": null
+  "promocao": null,
+  "verificado_em": "2026-11-09"
  },
  {
   "titulo": "Museu das Ilusões (Shopping SP Market)",
@@ -993,5 +997,35 @@
    "verificado_em": "2026-11-04"
   },
   "promocao": null
+ },
+ {
+  "titulo": "Museu da Imigração do Estado de São Paulo",
+  "categoria": "passeio",
+  "subcategoria": "museu histórico",
+  "descricao": "Museu na antiga Hospedaria de Imigrantes, com exposições sobre migração e jardim; sábados com entrada grátis nas exposições.",
+  "tipo_data": "permanente",
+  "datas": [],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": "Ter a sáb 9h-18h; dom 10h-18h (bilheteria até 17h); sáb grátis nas exposições (sem eventos especiais)",
+  "local": "Museu da Imigração",
+  "endereco": "Rua Visconde de Parnaíba, 1316",
+  "bairro": "Mooca",
+  "cidade": "São Paulo",
+  "regiao": "Zona Leste",
+  "preco_min": 8.0,
+  "preco_max": 16.0,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://museudaimigracao.org.br/visite-o-museu",
+  "fonte": "Museu da Imigração",
+  "promocao": null,
+  "verificado_em": "2026-11-09",
+  "gratis_crianca": {
+   "regra": "crianças até 7 anos não pagam (RG ou certidão)",
+   "idade_max_meses": 83,
+   "verificado_em": "2026-11-09"
+  }
  }
 ]

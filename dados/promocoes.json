@@ -1,50 +1,58 @@
 [
- {
-  "titulo": "Animália Park (Animália Reserva)",
-  "texto": "Ingresso Reserva promocional R$ 150 (cheio R$ 380), com agendamento. Professor e 60+ pagam R$ 100.",
-  "validade": "2026-12-06",
-  "link": "https://animaliapark.com.br/precos-e-horario/",
-  "fonte": "Animália Park (site oficial)",
-  "verificado_em": "2026-11-04"
- },
- {
-  "titulo": "Animália Park (Animália Reserva)",
-  "texto": "Animália Diversão + Aventura por R$ 40 online (R$ 50 na bilheteria) junto com Reserva promocional; sem combo, R$ 100.",
-  "validade": "2026-12-06",
-  "link": "https://animaliapark.com.br/precos-e-horario/",
-  "fonte": "Animália Park (site oficial)",
-  "verificado_em": "2026-11-04"
- },
- {
-  "titulo": "Zoológico de São Paulo",
-  "texto": "\"Todo mundo paga meia\" a partir de R$ 69,90 e Combo Black November a partir de R$ 129,90 na página de ingressos.",
-  "validade": null,
-  "link": "https://www.zoologico.com.br/tickets",
-  "fonte": "Zoo SP (site oficial)",
-  "verificado_em": "2026-11-04"
- },
- {
-  "titulo": "Simba Safari (Zoo Safari)",
-  "texto": "Combão Black November a partir de R$ 129,90 (avulso a partir de R$ 99,90). Itens e datas não informados.",
-  "validade": null,
-  "link": "https://www.simbasafari.com.br/tickets",
-  "fonte": "Simba Safari (site oficial)",
-  "verificado_em": "2026-11-04"
- },
- {
-  "titulo": "Parque da Mônica (Shopping SP Market)",
-  "texto": "Ingresso antecipado online de R$ 109 a R$ 149 (varia por data), contra R$ 390 inteira sem promoção.",
-  "validade": null,
-  "link": "https://saopauloparacriancas.com.br/parque-da-monica/",
-  "fonte": "São Paulo para Crianças",
-  "verificado_em": "2026-11-04"
- },
- {
-  "titulo": "Bichomania Parque Fazenda",
-  "texto": "Desconto exclusivo para compra antecipada pelo site (valores na página: R$ 79,90 e R$ 72,90).",
-  "validade": null,
-  "link": "https://www.bichomania.com.br",
-  "fonte": "Bichomania (site oficial)",
-  "verificado_em": "2026-11-04"
- }
+  {
+    "titulo": "Animália Park (Animália Reserva)",
+    "texto": "Ingresso Reserva promocional R$ 150 (cheio R$ 380), com agendamento. Professor e 60+ pagam R$ 100.",
+    "validade": "2026-12-06",
+    "link": "https://animaliapark.com.br/precos-e-horario/",
+    "fonte": "Animália Park (site oficial)",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Animália Park (Animália Reserva)",
+    "texto": "Animália Diversão + Aventura por R$ 40 online (R$ 50 na bilheteria) junto com Reserva promocional; sem combo, R$ 100.",
+    "validade": "2026-12-06",
+    "link": "https://animaliapark.com.br/precos-e-horario/",
+    "fonte": "Animália Park (site oficial)",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Zoológico de São Paulo",
+    "texto": "\"Todo mundo paga meia\" a partir de R$ 69,90 e Combo Black November a partir de R$ 129,90 na página de ingressos.",
+    "validade": null,
+    "link": "https://www.zoologico.com.br/tickets",
+    "fonte": "Zoo SP (site oficial)",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Simba Safari (Zoo Safari)",
+    "texto": "Combão Black November a partir de R$ 129,90 (avulso a partir de R$ 99,90). Itens e datas não informados.",
+    "validade": null,
+    "link": "https://www.simbasafari.com.br/tickets",
+    "fonte": "Simba Safari (site oficial)",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Parque da Mônica (Shopping SP Market)",
+    "texto": "Ingresso antecipado online de R$ 109 a R$ 149 (varia por data), contra R$ 390 inteira sem promoção.",
+    "validade": null,
+    "link": "https://saopauloparacriancas.com.br/parque-da-monica/",
+    "fonte": "São Paulo para Crianças",
+    "verificado_em": "2026-11-04"
+  },
+  {
+    "titulo": "Bichomania Parque Fazenda",
+    "texto": "Compra antecipada pelo site: ingresso por R$ 72,90 (de R$ 79,90).",
+    "validade": null,
+    "link": "https://www.bichomania.com.br",
+    "fonte": "Bichomania (site oficial)",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Museu das Ilusões (Shopping SP Market)",
+    "texto": "Grupos de 3 ou mais pessoas (a partir de 5 anos) pagam meia-entrada: R$ 45 em vez de R$ 90.",
+    "validade": null,
+    "link": "https://museudasilusoes.com.br",
+    "fonte": "Museu das Ilusões (site oficial)",
+    "verificado_em": "2026-11-09"
+  }
 ]
