@@ -5,7 +5,7 @@
     "validade": "2026-12-06",
     "link": "https://animaliapark.com.br/precos-e-horario/",
     "fonte": "Animália Park (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
   },
   {
     "titulo": "Animália Park (Animália Reserva)",
@@ -13,7 +13,7 @@
     "validade": "2026-12-06",
     "link": "https://animaliapark.com.br/precos-e-horario/",
     "fonte": "Animália Park (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
   },
   {
     "titulo": "Zoológico de São Paulo",
@@ -21,7 +21,7 @@
     "validade": null,
     "link": "https://www.zoologico.com.br/tickets",
     "fonte": "Zoo SP (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
   },
   {
     "titulo": "Simba Safari (Zoo Safari)",
@@ -29,7 +29,7 @@
     "validade": null,
     "link": "https://www.simbasafari.com.br/tickets",
     "fonte": "Simba Safari (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
   },
   {
     "titulo": "Parque da Mônica (Shopping SP Market)",
@@ -45,7 +45,7 @@
     "validade": null,
     "link": "https://www.bichomania.com.br",
     "fonte": "Bichomania (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
   },
   {
     "titulo": "Museu das Ilusões (Shopping SP Market)",
@@ -54,5 +54,13 @@
     "link": "https://museudasilusoes.com.br",
     "fonte": "Museu das Ilusões (site oficial)",
     "verificado_em": "2026-11-09"
+  },
+  {
+    "titulo": "Museu da Imaginação (Água Branca)",
+    "texto": "Combos: 3 ingressos R$ 99,90 cada; 4 a R$ 89,90; 5 ou 6 a R$ 79,90 (avulso R$ 120).",
+    "validade": null,
+    "link": "https://saopauloparacriancas.com.br/museu-da-imaginacao-um-espaco-ludico-que-estimula-criancas-a-explorar-o-mundo-combinando-arte-brincadeira-experiencia-e-conhecimento/",
+    "fonte": "São Paulo para Crianças",
+    "verificado_em": "2026-11-16"
   }
 ]

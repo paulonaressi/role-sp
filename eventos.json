@@ -1,15 +1,16 @@
 {
  "meta": {
-  "atualizado_em": "2026-11-12",
+  "atualizado_em": "2026-11-16",
   "fontes": [
+   "ABC da Comunicação",
    "ABC do ABC",
+   "ABC do ABC (Sesc SP)",
    "ABCdoABC",
    "AdoroCinema",
    "Agenda Cultural São Paulo",
    "Amigos da Arte",
    "Audio",
    "BaresSP",
-   "BaresSP / Sympla",
    "Bilheteria Express",
    "Billboard Brasil / Eventim",
    "Blue Note SP",
@@ -22,7 +23,6 @@
    "Correio da Manhã (site oficial: festivalcinemaitaliano.com)",
    "Espaço Unimed",
    "Eventim",
-   "Folha PE / Songkick",
    "Fábrica dos Sonhos Musical / São Paulo para Crianças",
    "Guia da Semana",
    "IMS",
@@ -71,6 +71,7 @@
    "Site oficial Sítio Chibana",
    "Site oficial Velho Jou",
    "Site oficial Zoo SP",
+   "Songkick / Band",
    "Suhai Music Hall",
    "Sympla",
    "Sympla / Catraca Livre",
@@ -597,30 +598,6 @@
    "promocao": null
   },
   {
-   "titulo": "Galinha Pintadinha - O Filme",
-   "categoria": "cinema",
-   "subcategoria": "animação",
-   "descricao": "Longa que celebra os 20 anos da personagem, com músicas e a turma de amigos; ótimo para os pequenos.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-01",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": true,
-   "link": "https://www.adorocinema.com/filmes/filme-1000043915/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
    "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
    "categoria": "cinema",
    "subcategoria": "animação",
@@ -689,102 +666,6 @@
    "faixa_etaria": "6 anos",
    "bom_para_criancas": true,
    "link": "https://www.adorocinema.com/filmes/filme-319890/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "A Ilha Esquecida",
-   "categoria": "cinema",
-   "subcategoria": "animação",
-   "descricao": "Duas amigas filipinas chegam a uma ilha mágica onde vão perdendo as memórias.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-24",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "10 anos",
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-296642/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Masha e os Ursos",
-   "categoria": "cinema",
-   "subcategoria": "animação família",
-   "descricao": "Masha vai atrás de uma cura para o irmão transformado em bode, ao lado de três ursos dos contos.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-17",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "6 anos",
-   "bom_para_criancas": true,
-   "link": "https://www.adorocinema.com/filmes/filme-1000032653/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "A Maravilhosa Árvore Encantada",
-   "categoria": "cinema",
-   "subcategoria": "aventura família",
-   "descricao": "Família no campo encontra uma árvore que leva as crianças a um mundo fantástico.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-10",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "6 anos",
-   "bom_para_criancas": true,
-   "link": "https://www.adorocinema.com/filmes/filme-234819/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Toy Story 5",
-   "categoria": "cinema",
-   "subcategoria": "animação",
-   "descricao": "Woody e os brinquedos enfrentam a concorrência de um tablet que afasta Bonnie deles.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-06-18",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "6 anos",
-   "bom_para_criancas": true,
-   "link": "https://www.adorocinema.com/filmes/filme-313256/",
    "fonte": "AdoroCinema",
    "promocao": null
   },
@@ -916,18 +797,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-12",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-13",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-11-19",
      "hora": "19:00"
     },
@@ -959,95 +828,6 @@
    "bom_para_criancas": false,
    "link": "https://abcdoabc.com.br/cine-na-praca-tera-sessoes-gratuitas/",
    "fonte": "ABC do ABC",
-   "promocao": null
-  },
-  {
-   "titulo": "Jornada do Cinema Silencioso em São Paulo",
-   "categoria": "cinema",
-   "subcategoria": "mostra de cinema",
-   "descricao": "Sessões duplas de filmes mudos com curtas antigos de passeios de bonde; conversa com o curador Jay Weissberg em 8/11, 17h.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "19:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Cinemateca Brasileira",
-   "endereco": "Largo Senador Raul Cardoso, 207",
-   "bairro": "Vila Mariana",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://cinemateca.org.br/exibicao/a-jornada-do-cinema-silencioso-conversa-com-jay-weissberg/",
-   "fonte": "Cinemateca Brasileira",
-   "promocao": null
-  },
-  {
-   "titulo": "Minha Melhor Amiga",
-   "categoria": "cinema",
-   "subcategoria": "comédia",
-   "descricao": "Comédia em cartaz desde o início de setembro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-03",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-1000027736/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Verity",
-   "categoria": "cinema",
-   "subcategoria": "suspense",
-   "descricao": "Suspense romântico em cartaz desde 1º de outubro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-01",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-1000015739/",
-   "fonte": "AdoroCinema",
    "promocao": null
   },
   {
@@ -1119,30 +899,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": true,
    "link": "https://www.adorocinema.com/filmes/filme-55774/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "O Diário de Pilar na Amazônia",
-   "categoria": "cinema",
-   "subcategoria": "aventura família",
-   "descricao": "Pilar viaja à Amazônia numa rede mágica e se une a figuras do folclore contra o desmatamento.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-01-15",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "6 anos",
-   "bom_para_criancas": true,
-   "link": "https://www.adorocinema.com/filmes/filme-1000023352/",
    "fonte": "AdoroCinema",
    "promocao": null
   },
@@ -1243,30 +999,6 @@
    "promocao": null
   },
   {
-   "titulo": "Coração Selvagem",
-   "categoria": "cinema",
-   "subcategoria": "ação",
-   "descricao": "Aventura de ação em cartaz desde setembro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-24",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-1000000085/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
    "titulo": "Consequências Paralelas",
    "categoria": "cinema",
    "subcategoria": "ficção científica",
@@ -1335,30 +1067,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://www.adorocinema.com/filmes/filme-316571/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Era uma Vez Minha 1ª Vez",
-   "categoria": "cinema",
-   "subcategoria": "romance",
-   "descricao": "Romance em cartaz desde setembro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-17",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-249037/",
    "fonte": "AdoroCinema",
    "promocao": null
   },
@@ -1435,30 +1143,6 @@
    "promocao": null
   },
   {
-   "titulo": "Resident Evil",
-   "categoria": "cinema",
-   "subcategoria": "terror",
-   "descricao": "Nova adaptação da franquia de games de terror e ficção científica.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-17",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-1000018854/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
    "titulo": "De Gaulle: A França Livre – Parte 2",
    "categoria": "cinema",
    "subcategoria": "histórico",
@@ -1479,102 +1163,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://www.adorocinema.com/filmes/filme-294281/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Homem-Aranha: Um Novo Dia",
-   "categoria": "cinema",
-   "subcategoria": "ação",
-   "descricao": "Nova aventura do Homem-Aranha, ainda em cartaz desde o fim de julho.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-07-29",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-276608/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Digger",
-   "categoria": "cinema",
-   "subcategoria": "ação",
-   "descricao": "Comédia de ação em cartaz desde 1º de outubro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-01",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-327174/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Zona Zero",
-   "categoria": "cinema",
-   "subcategoria": "terror",
-   "descricao": "Terror em cartaz desde outubro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-01",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-1000021055/",
-   "fonte": "AdoroCinema",
-   "promocao": null
-  },
-  {
-   "titulo": "Nem Toda História de Amor Acaba em Morte",
-   "categoria": "cinema",
-   "subcategoria": "drama",
-   "descricao": "Drama em cartaz desde setembro.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-24",
-   "fim": null,
-   "dias_horarios": "Horários no link",
-   "local": "Vários cinemas",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.adorocinema.com/filmes/filme-314628/",
    "fonte": "AdoroCinema",
    "promocao": null
   },
@@ -3192,91 +2780,52 @@
    "promocao": null
   },
   {
-   "titulo": "Chegada do Papai Noel - West Plaza Shopping",
-   "categoria": "infantil",
-   "subcategoria": "Natal / chegada do Papai Noel",
-   "descricao": "Parada natalina com personagens e atrações infantis. Carrossel custa R$ 15 (grátis para crianças com deficiência).",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "West Plaza Shopping",
-   "endereco": "Av. Francisco Matarazzo",
-   "bairro": "Água Branca",
+   "categoria": "cinema",
+   "tipo_data": "temporada",
+   "datas": null,
+   "endereco": "Largo Senador Raul Cardoso, 207",
+   "bairro": "Vila Clementino",
    "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-   "fonte": "Portal G",
-   "promocao": null
-  },
-  {
-   "titulo": "Chegada do Papai Noel - Shopping Internacional Guarulhos",
-   "categoria": "infantil",
-   "subcategoria": "Natal / chegada do Papai Noel",
-   "descricao": "Papai Noel chega ao estacionamento VIP do shopping.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "14:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Shopping Internacional Guarulhos",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "Guarulhos",
-   "regiao": "Grande SP",
+   "regiao": "Zona Sul",
    "preco_min": null,
    "preco_max": null,
    "gratuito": false,
    "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-   "fonte": "Portal G",
-   "promocao": null
+   "bom_para_criancas": false,
+   "fonte": "Cinemateca Brasileira",
+   "promocao": null,
+   "local": "Cinemateca Brasileira",
+   "titulo": "12ª Mostra Mosfilm de Cinema Soviético e Russo",
+   "subcategoria": "mostra de cinema",
+   "descricao": "Mostra com clássicos do estúdio Mosfilm na Sala Grande Otelo, de ficção científica a adaptações literárias, além de oficinas de dança e idioma russo.",
+   "inicio": "2026-11-11",
+   "fim": "2026-11-22",
+   "dias_horarios": "Sessões de 19 a 22/11 (qui a dom); horários na programação",
+   "link": "https://cinemateca.org.br/serie/12a-mostra-mosfilm-de-cinema-sovietico-e-russo/"
   },
   {
-   "titulo": "Chegada do Papai Noel - Golden Square Shopping",
-   "categoria": "infantil",
-   "subcategoria": "Natal / chegada do Papai Noel",
-   "descricao": "Chegada no estacionamento G6 a partir das 12h; a corrida Noel Kids Run tem largadas às 10h, com inscrição própria e vagas limitadas.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "12:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Golden Square Shopping",
-   "endereco": "Av. Kennedy, 700",
-   "bairro": "Jardim do Mar",
-   "cidade": "São Bernardo do Campo",
-   "regiao": "Grande SP",
+   "categoria": "cinema",
+   "tipo_data": "temporada",
+   "datas": null,
+   "endereco": "Largo Senador Raul Cardoso, 207",
+   "bairro": "Vila Clementino",
+   "cidade": "São Paulo",
+   "regiao": "Zona Sul",
    "preco_min": null,
    "preco_max": null,
    "gratuito": false,
    "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-   "fonte": "Portal G",
-   "promocao": null
+   "bom_para_criancas": false,
+   "fonte": "Cinemateca Brasileira",
+   "promocao": null,
+   "local": "Cinemateca Brasileira",
+   "titulo": "8º Festival Nicho",
+   "subcategoria": "mostra de cinema",
+   "descricao": "Festival com mostras de clássicos e de filmes internacionais, com sessões na Cinemateca e encerramento na Sala Grande Otelo.",
+   "inicio": "2026-11-25",
+   "fim": "2026-11-27",
+   "dias_horarios": "25 a 27/11, sessões às 20h",
+   "link": "https://cinemateca.org.br/serie/8o-festival-nicho/"
   },
   {
    "titulo": "Chegada do Papai Noel - Mogi Shopping",
@@ -3537,35 +3086,6 @@
    "promocao": null
   },
   {
-   "titulo": "Entre Contos e Telas",
-   "categoria": "infantil",
-   "subcategoria": "teatro de bonecos",
-   "descricao": "Chapeuzinho Vermelho viciada em telas reencontra a vovó e o Lobo Mau e redescobre brincadeiras antigas, com música ao vivo e participação do público.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Galpão dos Bonecos",
-   "endereco": null,
-   "bairro": "Vila Romana",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 30.0,
-   "preco_max": 60.0,
-   "gratuito": false,
-   "faixa_etaria": "Todas as idades",
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/galpao-de-bonecos-teatro/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
    "titulo": "Encantaria Brincante (Mafê)",
    "categoria": "infantil",
    "subcategoria": "espetáculo / apresentação aberta",
@@ -3754,60 +3274,6 @@
    "promocao": null
   },
   {
-   "titulo": "Percy Jackson - O Ladrão de Raios: O Musical",
-   "categoria": "infantil",
-   "subcategoria": "musical",
-   "descricao": "Musical da Broadway baseado no livro de Rick Riordan, com cerca de 2h e intervalo; melhor para crianças em idade escolar. Até 24 meses no colo não pagam.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-10",
-   "fim": "2026-11-15",
-   "dias_horarios": "qui e sex 20h; sáb 16h e 20h30; dom 15h e 19h30",
-   "local": "Teatro Liberdade",
-   "endereco": "Rua São Joaquim, 129",
-   "bairro": "Liberdade",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 70.0,
-   "preco_max": 340.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://saopauloparacriancas.com.br/percy-jackson-musical/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
-   "titulo": "Monopoly Experience: Tesouros do Brasil",
-   "categoria": "infantil",
-   "subcategoria": "experiência interativa",
-   "descricao": "O tabuleiro do Monopoly vira jogo em tamanho real, com desafios e investimentos inspirados em lugares brasileiros. Crianças até 4 anos não pagam.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-09-16",
-   "fim": "2026-11-15",
-   "dias_horarios": "ter a qui 12h-21h; sex e sáb 11h-21h; dom e feriados 12h-20h",
-   "local": "Shopping Cidade São Paulo",
-   "endereco": "Av. Paulista, 1.230",
-   "bairro": "Bela Vista",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 25.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "Todas as idades",
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/monopoly-experience/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": {
-    "texto": "Cupom SPCRIANCAS dá até 10% de desconto na inteira (não cumulativo)",
-    "validade": "2026-11-15",
-    "link": "https://saopauloparacriancas.com.br/monopoly-experience/",
-    "fonte": "São Paulo para Crianças",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
    "titulo": "Árvore de Natal Coca-Cola no Parque Villa-Lobos",
    "categoria": "infantil",
    "subcategoria": "Natal / árvore iluminada",
@@ -3828,47 +3294,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": true,
    "link": "https://saopauloparacriancas.com.br/arvore-natal-sao-paulo-parque-villa-lobos/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
-   "titulo": "Caravana de Natal Coca-Cola em São Paulo",
-   "categoria": "infantil",
-   "subcategoria": "Natal / desfile de caminhões",
-   "descricao": "Caminhões iluminados da Coca-Cola desfilam pela capital; em 14/11 a passagem coincide com a inauguração da árvore. Começa por volta das 18h30-19h; roteiro no site oficial.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": null
-    },
-    {
-     "data": "2026-11-13",
-     "hora": null
-    },
-    {
-     "data": "2026-11-14",
-     "hora": null
-    },
-    {
-     "data": "2026-11-15",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": null,
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": 0.0,
-   "preco_max": null,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/caravana-natal-coca-cola-caminhoes-iuminados/",
    "fonte": "São Paulo para Crianças",
    "promocao": null
   },
@@ -4089,30 +3514,6 @@
    "promocao": null
   },
   {
-   "titulo": "Avoar (Sesc Belenzinho)",
-   "categoria": "infantil",
-   "subcategoria": "brincar",
-   "descricao": "Brincadeiras de faz de conta com aviões e asas de papel.",
-   "tipo_data": "temporada",
-   "datas": null,
-   "inicio": "2026-10-31",
-   "fim": "2026-11-15",
-   "dias_horarios": "sáb, dom e feriado, 10h-13h e 15h-18h",
-   "local": "Sesc Belenzinho",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": "Zona Leste",
-   "preco_min": 0.0,
-   "preco_max": null,
-   "gratuito": true,
-   "faixa_etaria": "até 6 anos",
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
    "titulo": "Tamanduateí: Perto Daqui Tem um Rio (Sesc Belenzinho)",
    "categoria": "infantil",
    "subcategoria": "brincar",
@@ -4305,53 +3706,12 @@
    "promocao": null
   },
   {
-   "titulo": "Kizombinha (Sesc Itaquera)",
-   "categoria": "infantil",
-   "subcategoria": "brincar",
-   "descricao": "Três dias de brincadeiras e atividades lúdicas ligadas à cultura afro-brasileira.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "10:30"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "10:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "10:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Itaquera",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": "Zona Leste",
-   "preco_min": 0.0,
-   "preco_max": null,
-   "gratuito": true,
-   "faixa_etaria": "até 6 anos",
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
    "titulo": "Asas à Imaginação: Brinquedos que Voam! (Sesc Itaquera)",
    "categoria": "infantil",
    "subcategoria": "oficina",
    "descricao": "Construção e lançamento de aviões, frisbees e paraquedas.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "10:30"
-    },
     {
      "data": "2026-11-28",
      "hora": "10:30"
@@ -4369,39 +3729,6 @@
    "preco_max": null,
    "gratuito": true,
    "faixa_etaria": "3 a 6 anos",
-   "bom_para_criancas": true,
-   "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-   "fonte": "São Paulo para Crianças",
-   "promocao": null
-  },
-  {
-   "titulo": "Neguinha, Sim! O Espetáculo (Sesc Bom Retiro)",
-   "categoria": "infantil",
-   "subcategoria": "teatro",
-   "descricao": "Viagem de uma menina com a mãe, com música e fantasia (Festival Omodé).",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "12:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Bom Retiro",
-   "endereco": "Alameda Nothmann, 185",
-   "bairro": "Campos Elíseos",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 12.0,
-   "preco_max": 40.0,
-   "gratuito": false,
-   "faixa_etaria": null,
    "bom_para_criancas": true,
    "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
    "fonte": "São Paulo para Crianças",
@@ -4492,22 +3819,6 @@
    "descricao": "Espetáculo gratuito inspirado num conto bantu sobre a árvore da vida.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "16:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "16:30"
-    },
     {
      "data": "2026-11-21",
      "hora": "11:00"
@@ -4604,10 +3915,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
-    {
      "data": "2026-11-20",
      "hora": "11:00"
     }
@@ -4657,70 +3964,6 @@
    "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
    "fonte": "São Paulo para Crianças",
    "promocao": null
-  },
-  {
-   "titulo": "Tiquequê – Show Coleções",
-   "categoria": "infantil",
-   "subcategoria": "show infantil",
-   "descricao": "Novo show do duo Tiquequê sobre a mania de colecionar, com canções inéditas, sucessos como 'Bota Ovo', projeções e Libras.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro Bradesco",
-   "endereco": "Rua Palestra Itália, 500 (Bourbon Shopping, 3º piso)",
-   "bairro": "Perdizes",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 20.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "Livre (até 24 meses no colo não pagam)",
-   "bom_para_criancas": true,
-   "link": "https://uhuu.com/evento/sp/sao-paulo/tiqueque-show-colecoes-16361",
-   "fonte": "Uhuu",
-   "promocao": {
-    "texto": "50% de desconto para clientes Bradesco e Next (limite de 260 ingressos)",
-    "validade": null,
-    "link": "https://uhuu.com/evento/sp/sao-paulo/tiqueque-show-colecoes-16361",
-    "fonte": "Uhuu",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "subcategoria": "corrida infantil",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "endereco": null,
-   "bairro": "São Bernardo do Campo",
-   "bom_para_criancas": true,
-   "promocao": null,
-   "gratuito": false,
-   "preco_min": null,
-   "preco_max": null,
-   "faixa_etaria": null,
-   "cidade": "São Bernardo do Campo",
-   "titulo": "Noel Kids Run",
-   "categoria": "infantil",
-   "descricao": "Corrida para crianças com percursos de 50 a 500 metros separados por idade, brinquedos infláveis e chegada do Papai Noel.",
-   "tipo_data": "unica",
-   "local": "Golden Square Shopping",
-   "regiao": "Grande SP",
-   "link": "https://saopauloparacriancas.com.br/?p=298242",
-   "fonte": "São Paulo para Crianças"
   },
   {
    "subcategoria": "natal",
@@ -4849,45 +4092,6 @@
   },
   {
    "categoria": "infantil",
-   "subcategoria": "teatro infantil",
-   "descricao": "Peça da Cia Bendita inspirada em um conto indiano: o leãozinho Hari, criado por carneiros, parte em busca de sua verdadeira natureza.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "15:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "BTG Pactual Hall",
-   "endereco": "Rua Bento Branco de Andrade Filho, 722",
-   "bairro": "Jardim Dom Bosco",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 50.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.baressp.com.br/eventos/espetaculo-infantil-fabula-chega-ao-btg-pactual-hall-com-sessoes-em-sao-paulo",
-   "fonte": "BaresSP / Sympla",
-   "promocao": {
-    "texto": "Combo Família: 2 ingressos por R$ 100; ingresso solidário com 1 kg de alimento",
-    "validade": "2026-11-14",
-    "link": "https://www.baressp.com.br/eventos/espetaculo-infantil-fabula-chega-ao-btg-pactual-hall-com-sessoes-em-sao-paulo",
-    "fonte": "BaresSP",
-    "verificado_em": "2026-11-12"
-   },
-   "titulo": "Fábula - Cia Bendita (BTG Pactual Hall)"
-  },
-  {
-   "categoria": "infantil",
    "subcategoria": "dança infantil",
    "descricao": "Espetáculo de dança em que folhas, sementes, galhos e areia estimulam o movimento. Sessão de domingo com audiodescrição. Ingressos por ordem de chegada.",
    "tipo_data": "unica",
@@ -4968,6 +4172,43 @@
    "titulo": "Cine Curtinhas (Itaú Cultural)"
   },
   {
+   "titulo": "Teatro infantil gratuito aos sábados - Shopping ABC",
+   "categoria": "infantil",
+   "subcategoria": "teatro infantil",
+   "descricao": "Peça gratuita todo sábado às 15h: 21/11 A Bela e a Fera, 28/11 O Pequeno Príncipe; 5/12 sem peça informada. Piso 2, perto da Daiso.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-21",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "15:00"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Shopping ABC",
+   "endereco": "Av. Pereira Barreto, 42",
+   "bairro": "Vila Gilda",
+   "cidade": "Santo André",
+   "regiao": "Grande SP",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
+   "bom_para_criancas": true,
+   "link": "https://www.abcdacomunicacao.com.br/shopping-abc-apresenta-nova-programacao-de-teatro-infantil/",
+   "fonte": "ABC da Comunicação",
+   "promocao": null
+  },
+  {
    "categoria": "cinema",
    "datas": [],
    "inicio": null,
@@ -5040,15 +4281,16 @@
    "gratis_crianca": {
     "regra": "ingressos valem a partir de 2 anos; menores de 2 só apresentam documento",
     "idade_max_meses": 23,
-    "verificado_em": "2026-11-04"
+    "verificado_em": "2026-11-16"
    },
    "promocao": {
     "texto": "Ingresso Reserva promocional R$ 150 (cheio R$ 380), com agendamento. Professor e 60+ pagam R$ 100. · Animália Diversão + Aventura por R$ 40 online (R$ 50 na bilheteria) junto com Reserva promocional; sem combo, R$ 100.",
     "validade": "2026-12-06",
     "link": "https://animaliapark.com.br/precos-e-horario/",
     "fonte": "Animália Park (site oficial)",
-    "verificado_em": "2026-11-09"
-   }
+    "verificado_em": "2026-11-16"
+   },
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Zoológico de São Paulo",
@@ -5075,16 +4317,16 @@
    "gratis_crianca": {
     "regra": "0 a 3 anos, 11 meses e 29 dias não pagam (com documento)",
     "idade_max_meses": 47,
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
    "promocao": {
     "texto": "\"Todo mundo paga meia\" a partir de R$ 69,90 e Combo Black November a partir de R$ 129,90 na página de ingressos.",
     "validade": null,
     "link": "https://www.zoologico.com.br/tickets",
     "fonte": "Zoo SP (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
-   "verificado_em": "2026-11-09"
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Simba Safari (Zoo Safari)",
@@ -5095,7 +4337,7 @@
    "datas": [],
    "inicio": null,
    "fim": null,
-   "dias_horarios": "Seg a sex 9h-17h (entrada até 16h; sessões 9h30-17h); sáb, dom e feriados 8h30-18h (entrada até 17h; sessões 9h-17h)",
+   "dias_horarios": "Seg a sex 9h-17h (entrada até 16h; sessões 9h30-17h); sáb, dom e feriados 8h30-18h (entrada até 17h; sessões 9h-17h); aniversariante entra grátis acompanhado de pagante",
    "local": "Simba Safari",
    "endereco": "Av. do Cursino, 6338",
    "bairro": "Vila Moraes",
@@ -5111,16 +4353,16 @@
    "gratis_crianca": {
     "regra": "até 3 anos, 11 meses e 30 dias não pagam; 4 a 13 anos pagam meia",
     "idade_max_meses": 47,
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
    "promocao": {
     "texto": "Combão Black November a partir de R$ 129,90 (avulso a partir de R$ 99,90). Itens e datas não informados.",
     "validade": null,
     "link": "https://www.simbasafari.com.br/tickets",
     "fonte": "Simba Safari (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
-   "verificado_em": "2026-11-09"
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Aquário de São Paulo",
@@ -5147,16 +4389,16 @@
    "gratis_crianca": {
     "regra": "ingresso infantil de 2 a 12 anos; site oficial não cita gratuidade para menores de 2, confirme",
     "idade_max_meses": 23,
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
    "promocao": {
     "texto": "Ingresso promocional online: adulto R$ 150, infantil (2 a 12) R$ 120; cheio R$ 300. Promo segunda-feira R$ 120. Visitas até 06/12.",
     "validade": "2026-12-06",
     "link": "https://lojadoaquariodesp.com.br/",
     "fonte": "Aquário de SP (loja oficial)",
-    "verificado_em": "2026-11-04"
+    "verificado_em": "2026-11-16"
    },
-   "verificado_em": "2026-11-09"
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Parque da Mônica (Shopping SP Market)",
@@ -5276,15 +4518,16 @@
    "gratis_crianca": {
     "regra": "até 1 ano e 11 meses não pagam",
     "idade_max_meses": 23,
-    "verificado_em": "2026-11-04"
+    "verificado_em": "2026-11-16"
    },
    "promocao": {
     "texto": "Compra antecipada pelo site: ingresso por R$ 72,90 (de R$ 79,90).",
     "validade": null,
     "link": "https://www.bichomania.com.br",
     "fonte": "Bichomania (site oficial)",
-    "verificado_em": "2026-11-09"
-   }
+    "verificado_em": "2026-11-16"
+   },
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Fazendinha Velho Jou (Mairiporã)",
@@ -5644,10 +4887,10 @@
    "gratis_crianca": {
     "regra": "crianças até 7 anos não pagam",
     "idade_max_meses": 83,
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-16"
    },
    "promocao": null,
-   "verificado_em": "2026-11-09"
+   "verificado_em": "2026-11-16"
   },
   {
    "titulo": "Museu das Ilusões (Shopping SP Market)",
@@ -6033,6 +5276,42 @@
    }
   },
   {
+   "titulo": "Museu da Imaginação (Água Branca)",
+   "categoria": "passeio",
+   "subcategoria": "museu interativo",
+   "descricao": "Museu lúdico e interativo com exposições fixas e o parque ao ar livre A Fantástica Arca, sobre biodiversidade brasileira. Bebês até 1 ano e 11 meses não pagam.",
+   "tipo_data": "permanente",
+   "datas": [],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": "Qua a sex 9h-17h; sáb, dom e feriados 9h-18h",
+   "local": "Museu da Imaginação",
+   "endereco": null,
+   "bairro": "Água Branca",
+   "cidade": "São Paulo",
+   "regiao": "Zona Oeste",
+   "preco_min": 75.0,
+   "preco_max": 120.0,
+   "gratuito": false,
+   "faixa_etaria": "Livre",
+   "bom_para_criancas": true,
+   "link": "https://saopauloparacriancas.com.br/museu-da-imaginacao-um-espaco-ludico-que-estimula-criancas-a-explorar-o-mundo-combinando-arte-brincadeira-experiencia-e-conhecimento/",
+   "fonte": "São Paulo para Crianças",
+   "gratis_crianca": {
+    "regra": "bebês de 0 a 1 ano e 11 meses não pagam",
+    "idade_max_meses": 23,
+    "verificado_em": "2026-11-16"
+   },
+   "promocao": {
+    "texto": "Combos: 3 ingressos R$ 99,90 cada; 4 a R$ 89,90; 5 ou 6 a R$ 79,90 (avulso R$ 120).",
+    "validade": null,
+    "link": "https://saopauloparacriancas.com.br/museu-da-imaginacao-um-espaco-ludico-que-estimula-criancas-a-explorar-o-mundo-combinando-arte-brincadeira-experiencia-e-conhecimento/",
+    "fonte": "São Paulo para Crianças",
+    "verificado_em": "2026-11-16"
+   },
+   "verificado_em": "2026-11-16"
+  },
+  {
    "titulo": "Barulhos",
    "categoria": "infantil",
    "subcategoria": "teatro",
@@ -6057,57 +5336,28 @@
    "promocao": null
   },
   {
-   "titulo": "Planeta Pelúcia",
    "categoria": "infantil",
+   "tipo_data": "temporada",
+   "datas": null,
+   "cidade": "São Paulo",
+   "gratuito": false,
+   "promocao": null,
+   "preco_max": 40.0,
+   "titulo": "Planeta Pelúcia",
    "subcategoria": "teatro infantil",
-   "descricao": "Peça sobre uma criança que quer crescer rápido, entra no quarto de bagunça dos adultos e depois precisa refazer o caminho de volta à infância. Dura 55 minutos.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-20",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "12:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "12:00"
-    }
-   ],
+   "descricao": "Pati, de nove anos, quer crescer logo, mas se afasta do ursinho de pelúcia e precisa reencontrar a imaginação. Peça sobre a pressa de crescer; 60 minutos.",
    "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Belenzinho - Teatro",
+   "fim": "2026-11-29",
+   "dias_horarios": "sáb e dom 12h; sessão extra sex 20/11 12h",
+   "local": "Sesc Belenzinho (Teatro)",
    "endereco": "Rua Padre Adelino, 1.000",
    "bairro": "Belenzinho",
-   "cidade": "São Paulo",
    "regiao": "Zona Leste",
-   "preco_min": 20.0,
-   "preco_max": 40.0,
-   "gratuito": false,
+   "preco_min": 12.0,
    "faixa_etaria": "Livre",
    "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/planeta-pelucia-5",
-   "fonte": "Sesc SP",
-   "promocao": null
+   "link": "https://abcdoabc.com.br/planeta-pelucia-adultizacao-sesc-belenzinho/",
+   "fonte": "ABC do ABC (Sesc SP)"
   },
   {
    "titulo": "Leiturinha | Vozes negras na Literatura",
@@ -6116,10 +5366,6 @@
    "descricao": "Leitura mediada de autoras e autores negros na biblioteca, com oralidade, corpo e escuta para crianças e famílias. Domingos à tarde.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "13:30"
-    },
     {
      "data": "2026-11-22",
      "hora": "13:30"
@@ -6153,10 +5399,6 @@
    "descricao": "Teatro com bonecos e máscaras em que dois guardiões idosos de uma floresta antiga apresentam seres encantados. Faixa etária não informada.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "16:00"
-    },
     {
      "data": "2026-11-22",
      "hora": "16:00"
@@ -6204,165 +5446,12 @@
    "promocao": null
   },
   {
-   "titulo": "Dança e Balança",
-   "categoria": "infantil",
-   "subcategoria": "brincadeira musical",
-   "descricao": "Brincadeiras com música e instrumentos no Espaço de Brincar, para crianças de até 6 anos, inspiradas na dança contemporânea.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Casa Verde - Espaço de Brincar",
-   "endereco": "Av. Casa Verde, 327",
-   "bairro": "Jardim São Bento",
-   "cidade": "São Paulo",
-   "regiao": "Zona Norte",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/danca-e-balanca",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Histórias do Mar",
-   "categoria": "infantil",
-   "subcategoria": "contação de histórias",
-   "descricao": "Três histórias ambientadas no fundo do mar sobre medo, amizade e pequenos gestos. Retirada de senhas 30 minutos antes.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "14:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Guarulhos - Sala 4 - Auditório",
-   "endereco": "Rua Guilherme Lino dos Santos, 1.200",
-   "bairro": "Jardim Flor do Campo",
-   "cidade": "Guarulhos",
-   "regiao": "Grande SP",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/historias-do-mar-2",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Cafú e o Café",
-   "categoria": "infantil",
-   "subcategoria": "contação de histórias",
-   "descricao": "Contação sobre memórias afro-brasileiras, a influência africana na formação do país e como lidar com preconceito e bullying na escola.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "14:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Interlagos - Hall de Exposições",
-   "endereco": "Avenida Manuel Alves Soares, 1100",
-   "bairro": "Parque Colonial",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/cafu-e-o-cafe-2",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Kalunga Mar",
-   "categoria": "infantil",
-   "subcategoria": "teatro infantil",
-   "descricao": "Espetáculo poético sobre travessias e fronteiras, contado do ponto de vista de uma criança heroína. Dura uma hora.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc São Caetano - Área de Convivência",
-   "endereco": "Rua Piauí, 554",
-   "bairro": "Santa Paula",
-   "cidade": "São Caetano do Sul",
-   "regiao": "Grande SP",
-   "preco_min": 20.0,
-   "preco_max": 40.0,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/kalunga-mar-3",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Rodamundos",
-   "categoria": "infantil",
-   "subcategoria": "circo",
-   "descricao": "Circo contemporâneo com acrobacia em dupla, bicicleta artística, roda Cyr e humor, na tenda de convivência do Sesc.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Campo Limpo - Tenda de Convivência",
-   "endereco": "Rua Nossa Senhora do Bom Conselho, 120",
-   "bairro": "Campo Limpo",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/rodamundos",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
    "titulo": "Traquinartes",
    "categoria": "infantil",
    "subcategoria": "brincar livre",
    "descricao": "Brincar livre ao ar livre com jogos e brincadeiras tradicionais para crianças e suas famílias, no quiosque do Sesc Santana.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "16:00"
-    },
     {
      "data": "2026-11-20",
      "hora": "16:00"
@@ -6409,10 +5498,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-15",
-     "hora": "11:00"
-    },
-    {
      "data": "2026-11-22",
      "hora": "11:00"
     },
@@ -6435,64 +5520,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": true,
    "link": "https://www.sescsp.org.br/programacao/domingo-de-brincar",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Esteira de Histórias: quem brinca um conto aumenta um ponto",
-   "categoria": "infantil",
-   "subcategoria": "contação de histórias",
-   "descricao": "Contação de histórias que atravessam o tempo, no Espaço de Leitura do Sesc Casa Verde, sem retirada de ingresso.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "14:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Casa Verde - Espaço de Leitura",
-   "endereco": "Av. Casa Verde, 327",
-   "bairro": "Jardim São Bento",
-   "cidade": "São Paulo",
-   "regiao": "Zona Norte",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/esteira-de-historias-quem-brinca-um-conto-aumenta-um-ponto",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Lili Flor & Paulo Pixu",
-   "categoria": "infantil",
-   "subcategoria": "show musical",
-   "descricao": "Show para cantar e dançar com trava-línguas, parlendas, adivinhas e modinhas da cultura brasileira e latino-americana.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "17:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Santo Amaro - Praça coberta",
-   "endereco": "Rua Amador Bueno, 505",
-   "bairro": "Santo Amaro",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/lili-flor-paulo-pixu-3",
    "fonte": "Sesc SP",
    "promocao": null
   },
@@ -6664,10 +5691,6 @@
    "descricao": "História-brincante de faz de conta numa mata encantada, para crianças de até 6 anos e adultos. Dura 30 minutos; senhas no térreo.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    },
     {
      "data": "2026-11-20",
      "hora": "16:00"
@@ -6896,14 +5919,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "15:00"
-    },
-    {
      "data": "2026-11-21",
      "hora": "15:00"
     },
@@ -6944,22 +5959,6 @@
    "descricao": "Brincar livre para crianças de 0 a 6 anos e suas famílias no Espaço de Brincar do Sesc Casa Verde, em dois horários.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "13:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "16:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "13:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "16:30"
-    },
     {
      "data": "2026-11-20",
      "hora": "13:00"
@@ -7199,35 +6198,6 @@
    "promocao": null
   },
   {
-   "titulo": "Forró CCSP convida Filpo Ribeiro",
-   "categoria": "show",
-   "subcategoria": "forró",
-   "descricao": "Show de forró pé de serra, xote e baião ao ar livre no Jardim Sul do CCSP, com entrada gratuita e classificação livre.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "19:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Centro Cultural São Paulo - Jardim Sul",
-   "endereco": "Rua Vergueiro, 1000",
-   "bairro": "Liberdade",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://centrocultural.sp.gov.br/forr-ccsp-convida-filpo-ribeiro/",
-   "fonte": "Centro Cultural São Paulo",
-   "promocao": null
-  },
-  {
    "titulo": "Forró CCSP convida Severina",
    "categoria": "show",
    "subcategoria": "forró",
@@ -7286,45 +6256,12 @@
    "promocao": null
   },
   {
-   "titulo": "Projeto Entre Tons - Olhos d'água",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Show de música autoral com vozes, percussões e violão na Sala Jardel Filho, em matinê gratuita por ordem de chegada.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "11:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Centro Cultural São Paulo - Sala Jardel Filho",
-   "endereco": "Rua Vergueiro, 1000",
-   "bairro": "Liberdade",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": true,
-   "link": "https://centrocultural.sp.gov.br/projeto-entre-tons-4/",
-   "fonte": "Centro Cultural São Paulo",
-   "promocao": null
-  },
-  {
    "titulo": "Yoga com Sitar",
    "categoria": "esporte",
    "subcategoria": "yoga e música",
    "descricao": "Prática de yoga e meditação acompanhada de música ao vivo de sitar, nas quintas à noite no Jardim Suspenso. Gratuito.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "18:00"
-    },
     {
      "data": "2026-11-19",
      "hora": "18:00"
@@ -7383,10 +6320,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-15",
-     "hora": null
-    },
-    {
      "data": "2026-11-22",
      "hora": null
     },
@@ -7420,10 +6353,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-15",
-     "hora": null
-    },
-    {
      "data": "2026-11-20",
      "hora": null
     },
@@ -7454,82 +6383,12 @@
    "promocao": null
   },
   {
-   "titulo": "Cidade Brinquedo",
-   "categoria": "infantil",
-   "subcategoria": "teatro de palhaços",
-   "descricao": "O grupo Esparrama propõe transformar a cidade num grande brinquedo, e as crianças negociam as regras com palhaços. Ao ar livre, 60 min, grátis.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "15:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc 14 Bis - Praça Gino Struffaldi",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/cidade-brinquedo-13",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Neguinha, Sim! O Espetáculo",
-   "categoria": "teatro",
-   "subcategoria": "teatro infantil",
-   "descricao": "Musical inspirado nos livros de Renato Gama: uma menina negra se prepara para a primeira viagem de avião com a mãe. Crianças até 12 anos não pagam (retirar ingresso). Horário a confirmar.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": null
-    },
-    {
-     "data": "2026-11-15",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Bom Retiro - Teatro",
-   "endereco": "Alameda Nothmann, 185",
-   "bairro": "Campos Elíseos",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/neguinha-sim-o-espetaculo",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
    "titulo": "Livros Bichos",
    "categoria": "infantil",
    "subcategoria": "oficina",
    "descricao": "Oficina para crianças e adultos: inspirados em bichos da fauna brasileira, as famílias montam livrinhos com papéis coloridos e depois contam as histórias. Grátis, 2h.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
     {
      "data": "2026-11-21",
      "hora": "11:00"
@@ -7564,10 +6423,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "14:00"
-    },
-    {
      "data": "2026-11-21",
      "hora": "14:00"
     },
@@ -7601,10 +6456,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
-    {
      "data": "2026-11-28",
      "hora": "11:00"
     }
@@ -7633,10 +6484,6 @@
    "descricao": "Oficina para a primeiríssima infância com cantigas, percussão, escuta e movimento, valorizando culturas afro-brasileira e indígena. Grátis, sem retirada de ingresso.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "10:00"
-    },
     {
      "data": "2026-11-20",
      "hora": "10:00"
@@ -7674,14 +6521,6 @@
    "descricao": "Vivência para crianças de 0 a 3 anos e cuidadores: tecidos viram ninhos, capas e esconderijos para brincar e se mexer juntos. Grátis.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "10:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "10:00"
-    },
     {
      "data": "2026-11-20",
      "hora": "10:00"
@@ -7728,14 +6567,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "10:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "10:30"
-    },
-    {
      "data": "2026-11-20",
      "hora": "10:30"
     },
@@ -7780,10 +6611,6 @@
    "descricao": "Oficina gratuita de 2 horas em que as crianças criam pequenas animações quadro a quadro. Inscrição no local, 30 min antes.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "14:00"
-    },
     {
      "data": "2026-11-22",
      "hora": "14:00"
@@ -7840,45 +6667,12 @@
    "promocao": null
   },
   {
-   "titulo": "Tô Fraco, Tô Fraco!",
-   "categoria": "infantil",
-   "subcategoria": "teatro infantil",
-   "descricao": "Três galinhas num galinheiro apertado aprendem que a força está em acolher as diferenças. Peça da Cia. Azul Celeste, grátis.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sesc Mogi das Cruzes - Geodésica",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "Mogi das Cruzes",
-   "regiao": "Grande SP",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": true,
-   "link": "https://www.sescsp.org.br/programacao/to-fraco-to-fraco-9",
-   "fonte": "Sesc SP",
-   "promocao": null
-  },
-  {
    "titulo": "Festejo do Sol e da Lua",
    "categoria": "infantil",
    "subcategoria": "teatro infantil",
    "descricao": "Espetáculo do Teatro Terreiro Encantado para crianças de todas as idades e seus cuidadores. 60 min, grátis, sem retirada de ingresso.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "16:00"
-    },
     {
      "data": "2026-11-19",
      "hora": "14:30"
@@ -7908,14 +6702,6 @@
    "descricao": "Vivência de brincar e inventar para crianças de até 6 anos, com Rosas Periféricas. 2 horas, grátis, sem retirada de ingresso.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "15:00"
-    },
     {
      "data": "2026-11-21",
      "hora": "15:00"
@@ -7957,10 +6743,6 @@
    "descricao": "Encontro com o coletivo Brincar d'África para bebês de 0 a 3 anos com familiares (aceita até 6 anos), com brincadeiras e música de matriz africana. Grátis, 2h.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "14:00"
-    },
     {
      "data": "2026-11-22",
      "hora": "14:00"
@@ -8073,10 +6855,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-15",
-     "hora": "14:30"
-    },
-    {
      "data": "2026-11-22",
      "hora": "14:30"
     },
@@ -8109,14 +6887,6 @@
    "descricao": "A Cia. Volta e Meia leva peças coloridas de papelão que se encaixam para as crianças construírem e brincarem livremente. Grátis, 3 horas.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "11:00"
-    },
     {
      "data": "2026-11-21",
      "hora": "11:00"
@@ -8158,14 +6928,6 @@
    "descricao": "Vivência de brincadeiras de roda e cantigas para crianças, com Ossaîê e Blenda Souto. 2 horas, grátis.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "16:00"
-    },
     {
      "data": "2026-11-20",
      "hora": "16:00"
@@ -8212,14 +6974,6 @@
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "13:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "13:30"
-    },
-    {
      "data": "2026-11-20",
      "hora": "13:30"
     }
@@ -8248,10 +7002,6 @@
    "descricao": "Oficina de histórias de 1 hora para bebês e crianças até 6 anos acompanhados de um adulto, no Espaço de Brincar. Grátis.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "11:00"
-    },
     {
      "data": "2026-11-21",
      "hora": "11:00"
@@ -8357,10 +7107,6 @@
    "descricao": "Oficina para conhecer e jogar jogos de tabuleiro de origem africana, suas histórias e estratégias. Grátis, sem inscrição.",
    "tipo_data": "unica",
    "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "13:00"
-    },
     {
      "data": "2026-11-21",
      "hora": "13:00"
@@ -8543,35 +7289,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": true,
    "link": "https://centrocultural.sp.gov.br/contacao-de-historia-um-mundo-dentro-de-mim-com-dut/",
-   "fonte": "Centro Cultural São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Estação Nerd: Novembro (14/11)",
-   "categoria": "infantil",
-   "subcategoria": "cultura geek",
-   "descricao": "Ação cultural gratuita da Gibiteca Henfil, voltada ao universo dos quadrinhos e da cultura nerd.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "14:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Centro Cultural São Paulo - Espaço Oficina",
-   "endereco": "Rua Vergueiro, 1000",
-   "bairro": "Paraíso",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://centrocultural.sp.gov.br/estacao-nerd-novembro-2/",
    "fonte": "Centro Cultural São Paulo",
    "promocao": null
   },
@@ -8841,35 +7558,6 @@
    "promocao": null
   },
   {
-   "titulo": "Cena Cultural São Paulo NaRUA",
-   "categoria": "festival",
-   "subcategoria": "cultura de rua",
-   "descricao": "Programação cultural gratuita na rampa do Metrô Vergueiro, ao lado do CCSP.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "15:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Centro Cultural São Paulo - Rampa do Metrô Vergueiro",
-   "endereco": "Rua Vergueiro, 1000",
-   "bairro": "Paraíso",
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://centrocultural.sp.gov.br/cena-cultural-sao-paulo-narua",
-   "fonte": "Centro Cultural São Paulo",
-   "promocao": null
-  },
-  {
    "titulo": "Prisma",
    "categoria": "show",
    "subcategoria": "música",
@@ -8990,65 +7678,163 @@
    "promocao": null
   },
   {
-   "titulo": "Cícero",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Cícero celebra 15 anos do disco 'Canções de Apartamento'. A sessão de 13/11 está esgotada.",
+   "titulo": "Afromix, a dança completa",
+   "categoria": "danca",
+   "subcategoria": "aula de dança",
+   "descricao": "Aula aberta de dança no CCSP, com entrada gratuita por ordem de chegada.",
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-12",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-13",
-     "hora": "21:00"
+     "data": "2026-11-18",
+     "hora": "18:00"
     }
    ],
    "inicio": null,
    "fim": null,
    "dias_horarios": null,
-   "local": "Casa Natura Musical",
-   "endereco": "Rua Artur de Azevedo, 2134",
-   "bairro": "Pinheiros",
+   "local": "Centro Cultural São Paulo - Área de Convivência",
+   "endereco": "Rua Vergueiro, 1000",
+   "bairro": "Liberdade",
    "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 90.0,
-   "preco_max": 200.0,
-   "gratuito": false,
-   "faixa_etaria": "18 anos",
+   "regiao": "Centro",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
    "bom_para_criancas": false,
-   "link": "https://casanaturamusical.com.br/eventos/cicero/",
-   "fonte": "Casa Natura Musical",
+   "link": "https://centrocultural.sp.gov.br/afromix-a-danca-completa/",
+   "fonte": "Centro Cultural São Paulo",
    "promocao": null
   },
   {
-   "titulo": "Planta e Raiz",
-   "categoria": "show",
-   "subcategoria": "Reggae",
-   "descricao": "Show da banda de reggae Planta e Raiz em Pinheiros.",
+   "titulo": "Aulas de forró com Thamyra Miranda",
+   "categoria": "danca",
+   "subcategoria": "forró",
+   "descricao": "Aulas semanais de forró no Jardim Sul, gratuitas e por ordem de chegada.",
    "tipo_data": "unica",
    "datas": [
     {
-     "data": "2026-11-14",
-     "hora": "21:00"
+     "data": "2026-11-19",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:00"
     }
    ],
    "inicio": null,
    "fim": null,
    "dias_horarios": null,
-   "local": "Casa Natura Musical",
-   "endereco": "Rua Artur de Azevedo, 2134",
-   "bairro": "Pinheiros",
+   "local": "Centro Cultural São Paulo - Jardim Sul",
+   "endereco": "Rua Vergueiro, 1000",
+   "bairro": "Liberdade",
    "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 80.0,
-   "preco_max": 250.0,
-   "gratuito": false,
-   "faixa_etaria": "18 anos",
+   "regiao": "Centro",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
    "bom_para_criancas": false,
-   "link": "https://casanaturamusical.com.br/eventos/planta-e-raiz/",
-   "fonte": "Casa Natura Musical",
+   "link": "https://centrocultural.sp.gov.br/aulas-de-forro-com-thamyra-miranda/",
+   "fonte": "Centro Cultural São Paulo",
+   "promocao": null
+  },
+  {
+   "titulo": "Passinho Charme com Murilo Prado",
+   "categoria": "danca",
+   "subcategoria": "aula de dança",
+   "descricao": "Aula semanal de passinho charme na Sala de Ensaio 1, gratuita e por ordem de chegada.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-19",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:30"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Centro Cultural São Paulo - Sala de Ensaio 1",
+   "endereco": "Rua Vergueiro, 1000",
+   "bairro": "Liberdade",
+   "cidade": "São Paulo",
+   "regiao": "Centro",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://centrocultural.sp.gov.br/passinho-charme-com-murilo-prado/",
+   "fonte": "Centro Cultural São Paulo",
+   "promocao": null
+  },
+  {
+   "titulo": "1º Prêmio Cultural de Arquitetura Corporativa",
+   "categoria": "exposicao",
+   "subcategoria": "artes visuais",
+   "descricao": "Mostra em cartaz nas salas Tarsila do Amaral e Jardel Filho, com entrada gratuita.",
+   "tipo_data": "temporada",
+   "datas": [],
+   "inicio": "2026-11-16",
+   "fim": "2026-11-22",
+   "dias_horarios": "diariamente, 10h às 20h",
+   "local": "Centro Cultural São Paulo - Sala Tarsila do Amaral e Sala Jardel Filho",
+   "endereco": "Rua Vergueiro, 1000",
+   "bairro": "Liberdade",
+   "cidade": "São Paulo",
+   "regiao": "Centro",
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://centrocultural.sp.gov.br/1o-premio-cultural-de-arquitetura-corporativa/",
+   "fonte": "Centro Cultural São Paulo",
+   "promocao": null
+  },
+  {
+   "titulo": "Cantinho do Bebê",
+   "categoria": "infantil",
+   "subcategoria": "vivência sensorial",
+   "descricao": "Vivência sensorial para bebês e crianças pequenas com cuidadores, usando água, argila, terra e tintas naturais. Gratuita.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-21",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "11:00"
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Sesc SP - Espaço de Brincar (unidade a confirmar)",
+   "endereco": null,
+   "bairro": null,
+   "cidade": "São Paulo",
+   "regiao": null,
+   "preco_min": 0.0,
+   "preco_max": 0.0,
+   "gratuito": true,
+   "faixa_etaria": null,
+   "bom_para_criancas": true,
+   "link": "https://www.sescsp.org.br/programacao/cantinho-do-bebe/",
+   "fonte": "Sesc SP",
    "promocao": null
   },
   {
@@ -9265,68 +8051,6 @@
    }
   },
   {
-   "titulo": "Hayley Williams",
-   "categoria": "show",
-   "subcategoria": "Pop/Rock",
-   "descricao": "Hayley Williams, vocalista do Paramore, em apresentação solo.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-13",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Espaço Unimed",
-   "endereco": "Rua Tagipuru, 795",
-   "bairro": "Barra Funda",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
-   "fonte": "Espaço Unimed",
-   "promocao": null
-  },
-  {
-   "titulo": "Gustavo Mioto",
-   "categoria": "show",
-   "subcategoria": "Sertanejo",
-   "descricao": "Show do cantor sertanejo Gustavo Mioto.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "22:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Espaço Unimed",
-   "endereco": "Rua Tagipuru, 795",
-   "bairro": "Barra Funda",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
-   "fonte": "Espaço Unimed",
-   "promocao": null
-  },
-  {
    "titulo": "Ca7riel & Paco Amoroso",
    "categoria": "show",
    "subcategoria": "Pop/Alternativo",
@@ -9482,64 +8206,6 @@
    }
   },
   {
-   "titulo": "Braza",
-   "categoria": "show",
-   "subcategoria": "Pop/Reggae",
-   "descricao": "Show da banda Braza.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Audio",
-   "endereco": "Av. Francisco Matarazzo, 694",
-   "bairro": "Barra Funda",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://audiosp.com.br/1464-braza",
-   "fonte": "Audio",
-   "promocao": null
-  },
-  {
-   "titulo": "Sempre Foi Baile",
-   "categoria": "show",
-   "subcategoria": "Baile/Black music",
-   "descricao": "Festa-baile Sempre Foi Baile no Audio.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Audio",
-   "endereco": "Av. Francisco Matarazzo, 694",
-   "bairro": "Barra Funda",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://audiosp.com.br/1404-sempre-foi-baile",
-   "fonte": "Audio",
-   "promocao": null
-  },
-  {
    "titulo": "Rael",
    "categoria": "show",
    "subcategoria": "Rap",
@@ -9685,76 +8351,6 @@
    "promocao": null
   },
   {
-   "titulo": "Guilherme Arantes - 50 anos-luz",
-   "categoria": "show",
-   "subcategoria": "MPB/Pop",
-   "descricao": "Guilherme Arantes celebra cinco décadas de carreira em turnê.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Tokio Marine Hall",
-   "endereco": "R. Luis Seraphico Jr., 979",
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 220.0,
-   "preco_max": 545.0,
-   "gratuito": false,
-   "faixa_etaria": "16 anos",
-   "bom_para_criancas": false,
-   "link": "https://www.tokiomarinehall.com.br/guilherme-arantes-3/",
-   "fonte": "Tokio Marine Hall",
-   "promocao": {
-    "texto": "Segurados, colaboradores e corretores Tokio Marine: 20% de desconto, até 4 ingressos por CPF (não vale p/ meia).",
-    "validade": null,
-    "link": "https://www.tokiomarinehall.com.br/guilherme-arantes-3/",
-    "fonte": "Tokio Marine Hall",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Gabriel & Shirley",
-   "categoria": "show",
-   "subcategoria": "show infantil/família",
-   "descricao": "Os youtubers Gabriel & Shirley levam o show 'Gashi: Fora do Play!' ao palco, com humor, música e participação da plateia.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "17:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Tokio Marine Hall",
-   "endereco": "R. Luis Seraphico Jr., 979",
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": "Zona Sul",
-   "preco_min": 135.0,
-   "preco_max": 305.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": true,
-   "link": "https://www.tokiomarinehall.com.br/gabriel-shirley-2/",
-   "fonte": "Tokio Marine Hall",
-   "promocao": {
-    "texto": "Segurados, colaboradores e corretores Tokio Marine: 20% de desconto, até 4 ingressos por CPF (não vale p/ meia).",
-    "validade": null,
-    "link": "https://www.tokiomarinehall.com.br/gabriel-shirley-2/",
-    "fonte": "Tokio Marine Hall",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
    "titulo": "Fagner",
    "categoria": "show",
    "subcategoria": "MPB",
@@ -9788,93 +8384,6 @@
     "fonte": "Tokio Marine Hall",
     "verificado_em": "2026-11-04"
    }
-  },
-  {
-   "titulo": "Collaboration in Concert - 100 anos de Miles Davis",
-   "categoria": "show",
-   "subcategoria": "Jazz",
-   "descricao": "Show em homenagem ao centenário de Miles Davis.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "22:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://bluenotesp.com/shows/collaboration-in-concert/",
-   "fonte": "Blue Note SP",
-   "promocao": null
-  },
-  {
-   "titulo": "ABBA The History",
-   "categoria": "show",
-   "subcategoria": "Tributo pop",
-   "descricao": "Banda tributo revive os sucessos do ABBA.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "22:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://bluenotesp.com/shows/abba-the-history/",
-   "fonte": "Blue Note SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Édith Piaf por Lia Paris",
-   "categoria": "show",
-   "subcategoria": "Chanson française",
-   "descricao": "Viagem pela canção francesa com repertório de Édith Piaf.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "22:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://bluenotesp.com/shows/edith-piaf-por-lia-paris-uma-viagem-pela-chanson-francaise/",
-   "fonte": "Blue Note SP",
-   "promocao": null
   },
   {
    "titulo": "Rolling Stone Sessions: Hurricanes com Lucinha Turnbull e Beto Bruno",
@@ -10117,68 +8626,6 @@
    "promocao": null
   },
   {
-   "titulo": "Vozes e percussão: Bernstein, Reich e Stravinsky",
-   "categoria": "show",
-   "subcategoria": "Música clássica",
-   "descricao": "Programa da Osesp reunindo Bernstein, Reich e Stravinsky.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "16:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sala São Paulo",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 50.0,
-   "preco_max": 330.0,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://osesp.art.br/osesp/pt/concerto/1628",
-   "fonte": "Osesp",
-   "promocao": null
-  },
-  {
-   "titulo": "Câmara Osesp: Quarteto de cordas de Beethoven",
-   "categoria": "show",
-   "subcategoria": "Música de câmara",
-   "descricao": "Concerto de câmara com quarteto de cordas de Beethoven e música para dança e teatro.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "18:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Estação Motiva Cultural",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 150.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://osesp.art.br/osesp/pt/concerto/1609",
-   "fonte": "Osesp",
-   "promocao": null
-  },
-  {
    "titulo": "Rock'n Bach",
    "categoria": "show",
    "subcategoria": "Clássico/Rock",
@@ -10382,382 +8829,6 @@
    "bom_para_criancas": false,
    "link": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
    "fonte": "Theatro Municipal de São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Marina Aquino acústico",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Apresentação acústica de Marina Aquino em duas sessões.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-12",
-     "hora": "21:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": "Rua Doutor Paulo Vieira, 101",
-   "bairro": "Sumaré",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/artist/bona-casa-musica/marina-aquino-acustico-no-bona-4247334/",
-   "fonte": "Eventim",
-   "promocao": {
-    "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
-    "validade": null,
-    "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-    "fonte": "Eventim",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Tributo a Ella Fitzgerald por Indiana Nomma",
-   "categoria": "show",
-   "subcategoria": "jazz",
-   "descricao": "Indiana Nomma canta o repertório de Ella Fitzgerald.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/tributo-a-ella-fitzgerald-por-indiana-nomma-blue-note-sao-paulo-21032840/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Amici: reinterpretam os sucessos dos amigos",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Grupo Amici revisita canções conhecidas da música brasileira.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/amici-reinterpretam-os-sucessos-dos-amigos-blue-note-sao-paulo-21957490/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Sala de Música Rádio CBN com João Sabiá",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Edição ao vivo do programa Sala de Música, com João Sabiá.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo - Sala 02",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/sala-de-musica-radio-cbn-part-especial-joao-sabia-blue-note-sao-paulo-sala-02-22225242/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Quimbará: especial Buena Vista Social Club",
-   "categoria": "show",
-   "subcategoria": "música cubana",
-   "descricao": "Repertório do Buena Vista Social Club com o grupo Quimbará.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": "Rua Doutor Paulo Vieira, 101",
-   "bairro": "Sumaré",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/quimbara-especial-buena-vista-social-club-bona-casa-de-musica-22198205/",
-   "fonte": "Eventim",
-   "promocao": {
-    "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
-    "validade": null,
-    "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-    "fonte": "Eventim",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Acústic Band",
-   "categoria": "show",
-   "subcategoria": "pop",
-   "descricao": "Banda acústica no Raiz Club.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "22:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Raiz Club",
-   "endereco": "Rua Alves Guimarães, 153",
-   "bairro": "Pinheiros",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-acustic-band-raiz-club-22360633/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Day Limns canta anos 2000",
-   "categoria": "show",
-   "subcategoria": "pop",
-   "descricao": "Day Limns revisita hits dos anos 2000.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "22:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo - Sala 02",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/day-limns-canta-anos-2000-blue-note-sao-paulo-sala-02-22248724/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Noneto Brasil Jazz Sinfônica: Afro-Sambas",
-   "categoria": "show",
-   "subcategoria": "jazz",
-   "descricao": "Noneto toca os Afro-Sambas de Baden Powell e Vinicius de Moraes.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/noneto-brasil-jazz-sinfonica-afro-sambas-blue-note-sao-paulo-22259539/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Nilson Chaves: o canto de uma voz amazônica",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "O cantor paraense Nilson Chaves em show com repertório amazônico.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": "Rua Doutor Paulo Vieira, 101",
-   "bairro": "Sumaré",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/nilson-chaves-o-canto-de-uma-voz-amazonica-bona-casa-de-musica-22109742/",
-   "fonte": "Eventim",
-   "promocao": {
-    "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
-    "validade": null,
-    "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-    "fonte": "Eventim",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Banda Black Coffee",
-   "categoria": "show",
-   "subcategoria": "jazz",
-   "descricao": "Show da banda Black Coffee.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "22:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Raiz Club",
-   "endereco": "Rua Alves Guimarães, 153",
-   "bairro": "Pinheiros",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/raiz-club-apresenta-banda-black-coffee-raiz-club-22360634/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
-   "titulo": "Bruna Caram convida artistas Cor e Voz",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Bruna Caram recebe convidados no palco.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "19:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Bona Casa de Música",
-   "endereco": "Rua Doutor Paulo Vieira, 101",
-   "bairro": "Sumaré",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/bruna-caram-convida-artistas-cor-e-voz-bona-casa-de-musica-22269947/",
-   "fonte": "Eventim",
-   "promocao": {
-    "texto": "Clientes Elo: 20% de desconto em toda a programação do Bona e drink de boas-vindas.",
-    "validade": null,
-    "link": "https://www.eventim.com.br/artist/bona-casa-musica/otto-acustico-4253767/",
-    "fonte": "Eventim",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
-   "titulo": "Pulp Fiction Soundtrack por Frã Finamore",
-   "categoria": "show",
-   "subcategoria": "tributo",
-   "descricao": "A trilha sonora do filme Pulp Fiction tocada ao vivo.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "19:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/pulp-fiction-soundtrack-por-fra-finamore-blue-note-sao-paulo-22355896/",
-   "fonte": "Eventim",
    "promocao": null
   },
   {
@@ -11712,39 +9783,6 @@
    }
   },
   {
-   "titulo": "Blitz",
-   "categoria": "show",
-   "subcategoria": null,
-   "descricao": "A banda Blitz em duas noites (12 e 13/11).",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": null
-    },
-    {
-     "data": "2026-11-13",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "The Cavern Club",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.ticketmaster.com.br/event/blitz-the-cavern-club",
-   "fonte": "Ticketmaster Brasil",
-   "promocao": null
-  },
-  {
    "titulo": "14 Bis",
    "categoria": "show",
    "subcategoria": null,
@@ -11803,39 +9841,6 @@
    "promocao": null
   },
   {
-   "titulo": "World of Dance Brazil",
-   "categoria": "danca",
-   "subcategoria": "competição de dança",
-   "descricao": "Etapa brasileira da competição internacional de dança, em São Caetano do Sul.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": null
-    },
-    {
-     "data": "2026-11-15",
-     "hora": null
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "São Caetano do Sul",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Caetano do Sul",
-   "regiao": "Grande SP",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.ticketmaster.com.br/event/world-of-dance-brazil-2026",
-   "fonte": "Ticketmaster Brasil",
-   "promocao": null
-  },
-  {
    "titulo": "Gian & Giovani: lançamento do DVD Planeta Sonho",
    "categoria": "show",
    "subcategoria": null,
@@ -11871,35 +9876,6 @@
    }
   },
   {
-   "titulo": "Phonica: Marisa Monte & Orquestra ao vivo",
-   "categoria": "show",
-   "subcategoria": "MPB",
-   "descricao": "Último show da turnê em que Marisa Monte canta acompanhada de orquestra.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Nubank Parque",
-   "endereco": "Av. Francisco Matarazzo, 1705",
-   "bairro": "Água Branca",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 125.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "a partir de 6 anos (6 a 14 acompanhados)",
-   "bom_para_criancas": false,
-   "link": "https://nubankparque.com/phonica/",
-   "fonte": "Nubank Parque",
-   "promocao": null
-  },
-  {
    "titulo": "Daniel Caesar",
    "categoria": "show",
    "subcategoria": "R&B",
@@ -11926,93 +9902,6 @@
    "bom_para_criancas": false,
    "link": "https://suhaimusichall.com.br/evento/daniel-caesar/",
    "fonte": "Suhai Music Hall",
-   "promocao": null
-  },
-  {
-   "titulo": "Só Pedrada Musical",
-   "categoria": "show",
-   "subcategoria": "baile/black music",
-   "descricao": "Festa dos 20 anos do Só Pedrada Musical com DJ Tamenpi, DJ Hum, BNegão e Luísa Viscardi: soul, funk e hip hop.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Blue Note São Paulo - Sala 02",
-   "endereco": "Av. Paulista, 2073 (Conjunto Nacional)",
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://bluenotesp.com/shows/so-pedrada-musical/",
-   "fonte": "Blue Note SP",
-   "promocao": null
-  },
-  {
-   "titulo": "Quarteto convida Heloisa Fernandes",
-   "categoria": "show",
-   "subcategoria": "Música de câmara",
-   "descricao": "Quarteto de Cordas da Cidade recebe a pianista Heloisa Fernandes, com obras dela, incluindo uma inédita.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "20:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Praça das Artes",
-   "endereco": "Av. São João, 281",
-   "bairro": "Sé",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 50.0,
-   "preco_max": 50.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
-   "fonte": "Theatro Municipal de São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Osesp duas e trinta: Bernstein, Reich e Stravinsky",
-   "categoria": "show",
-   "subcategoria": "Música clássica",
-   "descricao": "Versão vespertina do programa de vozes e percussão da Osesp, numa sexta às 14h30.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "14:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sala São Paulo",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 50.0,
-   "preco_max": 50.0,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://osesp.art.br/osesp/pt/concerto/1602",
-   "fonte": "Osesp",
    "promocao": null
   },
   {
@@ -12099,64 +9988,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1857",
-   "fonte": "Sala São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Duda Beat e Letrux: Encontros Históricos",
-   "categoria": "show",
-   "subcategoria": "pop",
-   "descricao": "Duda Beat e Letrux dividem o palco da Sala São Paulo na série Encontros Históricos.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sala São Paulo",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 50.0,
-   "preco_max": 380.0,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1792",
-   "fonte": "Sala São Paulo",
-   "promocao": null
-  },
-  {
-   "titulo": "Matinais: Corporação Musical Lyra Mauá",
-   "categoria": "show",
-   "subcategoria": "banda",
-   "descricao": "Concerto matinal gratuito da banda Lyra Mauá. Retirada de ingressos 3 dias antes, a partir do meio-dia.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "10:50"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Sala São Paulo",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1739",
    "fonte": "Sala São Paulo",
    "promocao": null
   },
@@ -12600,35 +10431,6 @@
    "promocao": null
   },
   {
-   "titulo": "Ty Segall",
-   "categoria": "show",
-   "subcategoria": "rock / indie",
-   "descricao": "Estreia do roqueiro californiano no Brasil, com Ema Stoned e BIKE abrindo.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-15",
-     "hora": "18:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Cine Joia",
-   "endereco": null,
-   "bairro": "Liberdade",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.folhape.com.br/cultura/ty-segall-faz-estreia-no-brasil-com-show-em-sao-paulo-sp-em/518894/",
-   "fonte": "Folha PE / Songkick",
-   "promocao": null
-  },
-  {
    "titulo": "Nina Oliveira",
    "categoria": "show",
    "subcategoria": "Forró",
@@ -12745,6 +10547,39 @@
    "promocao": null
   },
   {
+   "titulo": "Djavan - Turnê 50 anos de carreira",
+   "categoria": "show",
+   "subcategoria": "MPB",
+   "descricao": "Djavan celebra 50 anos de carreira com um repertório de grandes sucessos em duas noites no Pacaembu; o show de 12/12 esgotou e foi aberta a data extra de 13/12.",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-12-12",
+     "hora": null
+    },
+    {
+     "data": "2026-12-13",
+     "hora": null
+    }
+   ],
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null,
+   "local": "Mercado Livre Arena Pacaembu",
+   "endereco": null,
+   "bairro": "Pacaembu",
+   "cidade": "São Paulo",
+   "regiao": "Zona Oeste",
+   "preco_min": 130.0,
+   "preco_max": 595.0,
+   "gratuito": false,
+   "faixa_etaria": null,
+   "bom_para_criancas": false,
+   "link": "https://songkick.com/pt/concerts/43219137-djavan-at-mercado-livre-arena-pacaembu",
+   "fonte": "Songkick / Band",
+   "promocao": null
+  },
+  {
    "titulo": "Elos - Pirilampos do Planeta",
    "categoria": "exposicao",
    "subcategoria": "exposição luminosa",
@@ -12826,39 +10661,6 @@
     "fonte": "São Paulo para Crianças",
     "verificado_em": "2026-11-04"
    }
-  },
-  {
-   "titulo": "São Paulo Companhia Jovem de Dança",
-   "categoria": "danca",
-   "subcategoria": "dança contemporânea",
-   "descricao": "Apresentação gratuita da São Paulo Companhia Jovem de Dança na Estação Motiva Cultural.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-13",
-     "hora": "20:30"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "20:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Estação Motiva Cultural",
-   "endereco": null,
-   "bairro": "Luz",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://salasaopaulo.art.br/salasp/pt/concerto/1869",
-   "fonte": "Sala São Paulo",
-   "promocao": null
   },
   {
    "titulo": "Rosa Elena Curruchich: crônicas de Comalapa",
@@ -13073,30 +10875,6 @@
    "faixa_etaria": null,
    "bom_para_criancas": false,
    "link": "https://mis-sp.org.br/exposicao/caleidoscopio-xapiri-yanomam/",
-   "fonte": "MIS",
-   "promocao": null
-  },
-  {
-   "titulo": "Círio de Nazaré: do Sagrado ao Profano – Nova Fotografia 2026",
-   "categoria": "exposicao",
-   "subcategoria": "fotografia",
-   "descricao": "Ensaio fotográfico que mostra, além da fé, o trabalho humano que sustenta a festa do Círio de Nazaré.",
-   "tipo_data": "temporada",
-   "datas": [],
-   "inicio": "2026-10-06",
-   "fim": "2026-11-15",
-   "dias_horarios": null,
-   "local": "MIS - Museu da Imagem e do Som",
-   "endereco": null,
-   "bairro": "Jardim Europa",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://mis-sp.org.br/exposicao/cirio-de-nazare-do-sagrado-ao-profano-uma-extensao-do-brasil-nova-fotografia-2026/",
    "fonte": "MIS",
    "promocao": null
   },
@@ -13362,30 +11140,6 @@
    "bom_para_criancas": false,
    "link": "https://pinacoteca.org.br/programacao/exposicoes/colecao-roger-wright-instalacoes/",
    "fonte": "Pinacoteca",
-   "promocao": null
-  },
-  {
-   "titulo": "Ocupação Anísio Teixeira",
-   "categoria": "exposicao",
-   "subcategoria": "ocupação",
-   "descricao": "Homenagem ao educador Anísio Teixeira, pioneiro de práticas inovadoras de ensino no Brasil.",
-   "tipo_data": "temporada",
-   "datas": [],
-   "inicio": null,
-   "fim": "2026-11-15",
-   "dias_horarios": "ter a sáb 11h-20h; dom e feriados 11h-19h",
-   "local": "Itaú Cultural",
-   "endereco": "Av. Paulista, 149",
-   "bairro": "Bela Vista",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://www.itaucultural.org.br/secoes/agenda/pioneiro-da-educacao-do-brasil-anisio-teixeira-e-homenageado-pelo-ocupacao",
-   "fonte": "Itaú Cultural",
    "promocao": null
   },
   {
@@ -13861,93 +11615,6 @@
    "promocao": null
   },
   {
-   "titulo": "Thiago Ventura – Lado a Lado",
-   "categoria": "standup",
-   "subcategoria": "stand-up",
-   "descricao": "Stand-up em que Thiago Ventura brinca com amizade, lealdade e as formas de demonstrar afeto.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro Sabesp Frei Caneca",
-   "endereco": "Rua Frei Caneca, 569 (Shopping Frei Caneca, 7º piso)",
-   "bairro": "Consolação",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "preco_min": 45.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "16 anos",
-   "bom_para_criancas": false,
-   "link": "https://uhuu.com/evento/sp/sao-paulo/thiago-ventura-15611",
-   "fonte": "Uhuu",
-   "promocao": null
-  },
-  {
-   "titulo": "Bianca Del Rio – It Gets Bitter",
-   "categoria": "standup",
-   "subcategoria": "stand-up",
-   "descricao": "Sétima turnê solo da drag queen, comemorando 30 anos de carreira, com humor ácido sobre cultura pop e o cotidiano.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro Bradesco",
-   "endereco": null,
-   "bairro": "Perdizes",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 150.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "14 anos",
-   "bom_para_criancas": false,
-   "link": "https://uhuu.com/evento/sp/sao-paulo/bianca-del-rio-it-gets-bitter-world-comedy-tour-16576",
-   "fonte": "Uhuu",
-   "promocao": null
-  },
-  {
-   "titulo": "Cátia Damasceno – O Que Pode Dar Errado na Cama?",
-   "categoria": "standup",
-   "subcategoria": "comédia",
-   "descricao": "A sexóloga transforma histórias reais de saias-justas de casais em humor, em cerca de 90 minutos.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "21:30"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro Bradesco",
-   "endereco": null,
-   "bairro": "Perdizes",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 40.0,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": "18 anos",
-   "bom_para_criancas": false,
-   "link": "https://uhuu.com/evento/sp/sao-paulo/catia-damasceno-em-sp-o-que-pode-dar-errado-na-cama-16513",
-   "fonte": "Uhuu",
-   "promocao": null
-  },
-  {
    "titulo": "Fábio Rabin em Séloko",
    "categoria": "standup",
    "subcategoria": "comédia",
@@ -14314,35 +11981,6 @@
    "promocao": null
   },
   {
-   "titulo": "Maurício Meirelles: Surto Coletivo",
-   "categoria": "standup",
-   "subcategoria": "stand-up",
-   "descricao": "Stand-up do humorista Maurício Meirelles.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "21:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro das Artes",
-   "endereco": null,
-   "bairro": null,
-   "cidade": "São Paulo",
-   "regiao": null,
-   "preco_min": null,
-   "preco_max": null,
-   "gratuito": false,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "link": "https://www.eventim.com.br/event/mauricio-meirelles-em-surto-coletivo-teatro-das-artes-22311460/",
-   "fonte": "Eventim",
-   "promocao": null
-  },
-  {
    "titulo": "Cerveja com a Sua Mãe ao vivo: parte II",
    "categoria": "standup",
    "subcategoria": "stand-up",
@@ -14662,36 +12300,6 @@
    }
   },
   {
-   "titulo": "Abracadabra – O Circo Musical: Dedé Santana 90 anos, com Diego Hypólito",
-   "categoria": "teatro",
-   "subcategoria": "circo musical",
-   "descricao": "Circo com música ao vivo, acrobatas, malabaristas, mágicos e palhaços celebra os 90 anos de Dedé Santana.",
-   "tipo_data": "temporada",
-   "datas": [],
-   "inicio": "2026-11-05",
-   "fim": "2026-11-15",
-   "dias_horarios": "qui e sex 19h30; sáb 16h e 19h30; dom 15h e 18h30",
-   "local": "Arena Sabesp – Mooca Plaza Shopping",
-   "endereco": "Rua Capitão Pacheco e Chaves, 313",
-   "bairro": "Vila Prudente",
-   "cidade": "São Paulo",
-   "regiao": "Zona Leste",
-   "preco_min": 25.0,
-   "preco_max": 300.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": true,
-   "link": "https://uhuu.com/evento/sp/sao-paulo/reder-circus-dede-santana-e-diego-hypolito-em-abracadabra-16502",
-   "fonte": "Uhuu",
-   "promocao": {
-    "texto": "Ingresso solidário: 50% off na inteira doando 1 kg de alimento não perecível no dia",
-    "validade": null,
-    "link": "https://uhuu.com/evento/sp/sao-paulo/reder-circus-dede-santana-e-diego-hypolito-em-abracadabra-16502",
-    "fonte": "Uhuu",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
    "titulo": "A Christmas Carol – Um Conto de Natal",
    "categoria": "teatro",
    "subcategoria": "musical",
@@ -14791,36 +12399,6 @@
    }
   },
   {
-   "titulo": "Moisés, o Musical",
-   "categoria": "teatro",
-   "subcategoria": "musical",
-   "descricao": "Musical bíblico sobre Moisés, que descobre sua origem hebreia e enfrenta Ramsés para libertar seu povo no Egito.",
-   "tipo_data": "temporada",
-   "datas": [],
-   "inicio": "2026-10-29",
-   "fim": "2026-11-12",
-   "dias_horarios": "qui 20h",
-   "local": "Teatro UNICID",
-   "endereco": "Av. Imperatriz Leopoldina, 550",
-   "bairro": "Vila Leopoldina",
-   "cidade": "São Paulo",
-   "regiao": "Zona Oeste",
-   "preco_min": 60.0,
-   "preco_max": 120.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-moises-o-musical-teatro-unicid-musical-adulto-596771972050414.html",
-   "fonte": "Bilheteria Express",
-   "promocao": {
-    "texto": "Lote promocional a R$ 80 (inteira R$ 120) com doação de 1 kg de alimento",
-    "validade": null,
-    "link": "https://www.bilheteriaexpress.com.br/ingressos-para-moises-o-musical-teatro-unicid-musical-adulto-596771972050414.html",
-    "fonte": "Bilheteria Express",
-    "verificado_em": "2026-11-04"
-   }
-  },
-  {
    "titulo": "Sherlock Holmes e o Cão dos Baskerville",
    "categoria": "teatro",
    "subcategoria": "comédia de suspense",
@@ -14846,35 +12424,6 @@
    "faixa_etaria": "12 anos",
    "bom_para_criancas": false,
    "link": "https://www.bilheteriaexpress.com.br/ingressos-para-sherlock-holmes-e-o-cao-de-baskerville-teatro-unicid-teatro-adulto-710982672470896.html",
-   "fonte": "Bilheteria Express",
-   "promocao": null
-  },
-  {
-   "titulo": "Ecos do Tempo",
-   "categoria": "danca",
-   "subcategoria": "espetáculo de escola de dança",
-   "descricao": "Espetáculo de dança de escola na Zona Leste, com cerca de duas horas e meia de apresentações.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-14",
-     "hora": "19:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "local": "Teatro São Francisco",
-   "endereco": "Av. Reg. Feijó, 412",
-   "bairro": "Vila Regente Feijó",
-   "cidade": "São Paulo",
-   "regiao": "Zona Leste",
-   "preco_min": 35.0,
-   "preco_max": 45.0,
-   "gratuito": false,
-   "faixa_etaria": "Livre",
-   "bom_para_criancas": false,
-   "link": "https://www.bilheteriaexpress.com.br/ingressos-para-espetaculo-ecos-do-tempo-teatro-sao-francisco-danca-998431409557440.html",
    "fonte": "Bilheteria Express",
    "promocao": null
   },
@@ -15292,47 +12841,6 @@
    "link": "https://ccbb.com.br/sao-paulo/programacao/o-principio-do-mundo/"
   },
   {
-   "titulo": "Festival Melanina Acentuada (Ano VIII)",
-   "categoria": "festival",
-   "subcategoria": "teatro negro",
-   "descricao": "Oitava edição do festival de dramaturgia negra, com Pequeno Manual Antirracista, Black Machine e Macacos, além de atividades formativas gratuitas.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-13",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-14",
-     "hora": "18:30"
-    },
-    {
-     "data": "2026-11-15",
-     "hora": "17:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "preco_min": 15.0,
-   "preco_max": 30.0,
-   "gratuito": false,
-   "faixa_etaria": "14 anos",
-   "bom_para_criancas": false,
-   "promocao": null,
-   "local": "CCBB São Paulo",
-   "endereco": "Rua Álvares Penteado, 112",
-   "bairro": "Centro",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "fonte": "CCBB São Paulo",
-   "link": "https://ccbb.com.br/sao-paulo/programacao/festival-melanina-acentuada/"
-  },
-  {
    "titulo": "Ocupação Preta CCBB",
    "categoria": "exposicao",
    "subcategoria": "ocupação cultural",
@@ -15379,35 +12887,6 @@
    "regiao": "Centro",
    "fonte": "Amigos da Arte",
    "link": "https://amigosdaarte.org.br/agenda-equipamento/verona-brasilandia-entre-romeus-e-julietas-nossos-amores-nao-cabem-em-seus-muros/"
-  },
-  {
-   "titulo": "Uma cabaça duas faces: O que há depois da praça?",
-   "categoria": "teatro",
-   "subcategoria": "teatro",
-   "descricao": "Apresentação gratuita única no Teatro Sérgio Cardoso, na quinta 12/11.",
-   "tipo_data": "unica",
-   "datas": [
-    {
-     "data": "2026-11-12",
-     "hora": "19:00"
-    }
-   ],
-   "inicio": null,
-   "fim": null,
-   "dias_horarios": null,
-   "preco_min": 0.0,
-   "preco_max": 0.0,
-   "gratuito": true,
-   "faixa_etaria": null,
-   "bom_para_criancas": false,
-   "promocao": null,
-   "local": "Teatro Sérgio Cardoso",
-   "endereco": "Rua Rui Barbosa, 153",
-   "bairro": "Bela Vista",
-   "cidade": "São Paulo",
-   "regiao": "Centro",
-   "fonte": "Amigos da Arte",
-   "link": "https://amigosdaarte.org.br/agenda-equipamento/uma-cabaca-duas-faces-o-que-ha-depois-da-praca/"
   },
   {
    "titulo": "Exposição: O Legado das Personalidades Negras no Brasil",
@@ -15519,6 +12998,63 @@
    "regiao": "Centro",
    "fonte": "Amigos da Arte",
    "link": "https://amigosdaarte.org.br/agenda-equipamento/natal-solidario-2026-milton-bituca-nascimento-in-concert/"
+  },
+  {
+   "categoria": "infantil",
+   "tipo_data": "temporada",
+   "datas": null,
+   "cidade": "São Paulo",
+   "gratuito": false,
+   "promocao": null,
+   "preco_max": 40.0,
+   "titulo": "A Chave do Labirinto",
+   "subcategoria": "teatro infantil",
+   "descricao": "Um menino perdido num canavial busca o Minotauro para entender por que ele é visto como mau. Mitologia grega e memórias de infância no campo; 50 minutos.",
+   "inicio": "2026-11-01",
+   "fim": "2026-12-13",
+   "dias_horarios": "domingos 16h30",
+   "local": "Sesc Vila Mariana (Auditório)",
+   "endereco": "Rua Pelotas, 141",
+   "bairro": "Vila Mariana",
+   "regiao": "Zona Sul",
+   "preco_min": 12.0,
+   "faixa_etaria": "Livre",
+   "bom_para_criancas": true,
+   "link": "https://abcdoabc.com.br/peca-infantil-recria-mito-do-minotauro",
+   "fonte": "ABC do ABC (Sesc SP)"
+  },
+  {
+   "categoria": "danca",
+   "tipo_data": "unica",
+   "datas": [
+    {
+     "data": "2026-11-21",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "cidade": "São Paulo",
+   "gratuito": true,
+   "promocao": null,
+   "preco_max": 0.0,
+   "titulo": "Presente! feito da gente",
+   "subcategoria": "dança infantil",
+   "descricao": "Espetáculo de dança da Balangandança Cia. com folhas secas, sementes, galhos e areia, música com rabeca e percussão; 55 minutos. Domingo com audiodescrição.",
+   "local": "Teatro Municipal Alfredo Mesquita",
+   "endereco": "Avenida Santos Dumont, 1.770",
+   "bairro": "Santana",
+   "regiao": "Zona Norte",
+   "preco_min": 0.0,
+   "faixa_etaria": "a partir de 3 anos",
+   "bom_para_criancas": true,
+   "link": "https://abcdoabc.com.br/balangandanca-peca-infantil-gratuita-zona-norte/",
+   "fonte": "ABC do ABC",
+   "inicio": null,
+   "fim": null,
+   "dias_horarios": null
   }
  ]
 }
