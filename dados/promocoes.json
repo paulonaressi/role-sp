@@ -2,18 +2,18 @@
   {
     "titulo": "Animália Park (Animália Reserva)",
     "texto": "Ingresso Reserva promocional R$ 150 (cheio R$ 380), com agendamento. Professor e 60+ pagam R$ 100.",
-    "validade": "2026-12-06",
+    "validade": null,
     "link": "https://animaliapark.com.br/precos-e-horario/",
     "fonte": "Animália Park (site oficial)",
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Animália Park (Animália Reserva)",
     "texto": "Animália Diversão + Aventura por R$ 40 online (R$ 50 na bilheteria) junto com Reserva promocional; sem combo, R$ 100.",
-    "validade": "2026-12-06",
+    "validade": null,
     "link": "https://animaliapark.com.br/precos-e-horario/",
     "fonte": "Animália Park (site oficial)",
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Zoológico de São Paulo",
@@ -21,7 +21,7 @@
     "validade": null,
     "link": "https://www.zoologico.com.br/tickets",
     "fonte": "Zoo SP (site oficial)",
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Simba Safari (Zoo Safari)",
@@ -29,7 +29,7 @@
     "validade": null,
     "link": "https://www.simbasafari.com.br/tickets",
     "fonte": "Simba Safari (site oficial)",
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Parque da Mônica (Shopping SP Market)",
@@ -45,7 +45,7 @@
     "validade": null,
     "link": "https://www.bichomania.com.br",
     "fonte": "Bichomania (site oficial)",
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Museu das Ilusões (Shopping SP Market)",
@@ -53,7 +53,7 @@
     "validade": null,
     "link": "https://museudasilusoes.com.br",
     "fonte": "Museu das Ilusões (site oficial)",
-    "verificado_em": "2026-11-09"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Museu da Imaginação (Água Branca)",
@@ -62,5 +62,13 @@
     "link": "https://saopauloparacriancas.com.br/museu-da-imaginacao-um-espaco-ludico-que-estimula-criancas-a-explorar-o-mundo-combinando-arte-brincadeira-experiencia-e-conhecimento/",
     "fonte": "São Paulo para Crianças",
     "verificado_em": "2026-11-16"
+  },
+  {
+    "titulo": "Aquário de São Paulo",
+    "texto": "Ingresso promocional online: adulto R$ 150, infantil (2 a 12 anos) R$ 120 (cheio R$ 300); segundas R$ 120 para todos. Promo por tempo limitado.",
+    "validade": null,
+    "link": "https://aquariodesp.com.br/site/preco-e-horarios/",
+    "fonte": "Aquário de SP (site oficial)",
+    "verificado_em": "2026-11-23"
   }
 ]

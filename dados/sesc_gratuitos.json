@@ -31,18 +31,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "12:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "12:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "12:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "12:00"
    },
@@ -76,10 +64,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "13:30"
-   },
-   {
     "data": "2026-11-29",
     "hora": "13:30"
    }
@@ -98,35 +82,6 @@
   "faixa_etaria": null,
   "bom_para_criancas": true,
   "link": "https://www.sescsp.org.br/programacao/leiturinha-vozes-negras-na-literatura",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Poema",
-  "categoria": "infantil",
-  "subcategoria": "teatro de bonecos",
-  "descricao": "Teatro com bonecos e máscaras em que dois guardiões idosos de uma floresta antiga apresentam seres encantados. Faixa etária não informada.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Santo André - Teatro",
-  "endereco": "Rua Tamarutaca, 302",
-  "bairro": "Vila Guiomar",
-  "cidade": "Santo André",
-  "regiao": "Grande SP",
-  "preco_min": 20.0,
-  "preco_max": 40.0,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://www.sescsp.org.br/programacao/poema-2",
   "fonte": "Sesc SP",
   "promocao": null
  },
@@ -162,18 +117,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "16:00"
    },
@@ -207,10 +150,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "11:00"
-   },
-   {
     "data": "2026-11-29",
     "hora": "11:00"
    }
@@ -233,181 +172,12 @@
   "promocao": null
  },
  {
-  "titulo": "História na Janela, Boca sem Tramela: Contos de Oralidade Afro- Brasileira",
-  "categoria": "infantil",
-  "subcategoria": "contação de histórias",
-  "descricao": "Contos da oralidade afro-brasileira na sala de leitura infantil, com a janela de casa como ponto de partida das histórias.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-17",
-    "hora": "10:00"
-   },
-   {
-    "data": "2026-11-17",
-    "hora": "15:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc 24 de Maio - Sala de Leitura Infantil | 4º andar",
-  "endereco": "Rua 24 de Maio, 109",
-  "bairro": "Centro",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/historia-na-janela-boca-sem-tramela-contos-de-oralidade-afro-brasileira",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Aguaceiro de Menino Bentu",
-  "categoria": "infantil",
-  "subcategoria": "teatro infantil",
-  "descricao": "Bentu, menino descalço, caminha em busca de água, encontra bichos da chuva e descobre que seus passos fazem brotar água.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-20",
-    "hora": "15:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Pinheiros - Sala de Oficinas - 2º andar",
-  "endereco": "Rua Paes Leme, 195",
-  "bairro": "Pinheiros",
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/aguaceiro-de-menino-bentu-10",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "AFROHITS - Toada para Erês",
-  "categoria": "infantil",
-  "subcategoria": "teatro musical",
-  "descricao": "Teatro e música num quintal inspirado em Tia Ciata, com ritmos afro-brasileiros, brincadeiras e tradições. Dura uma hora.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "16:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc São Caetano - Área de Convivência",
-  "endereco": "Rua Piauí, 554",
-  "bairro": "Santa Paula",
-  "cidade": "São Caetano do Sul",
-  "regiao": "Grande SP",
-  "preco_min": 20.0,
-  "preco_max": 40.0,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/afrohits-toada-para-eres-5",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Fanfarrinha Zapina",
-  "categoria": "infantil",
-  "subcategoria": "show musical",
-  "descricao": "Fanfarra acústica ao vivo toca cantigas como Ciranda Cirandinha, Peixe Vivo e O Sapo Não Lava o Pé.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "16:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc São Caetano - Área de Convivência",
-  "endereco": "Rua Piauí, 554",
-  "bairro": "Santa Paula",
-  "cidade": "São Caetano do Sul",
-  "regiao": "Grande SP",
-  "preco_min": 20.0,
-  "preco_max": 40.0,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/fanfarrinha-zapina-4",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Hoje tem festa no céu",
-  "categoria": "infantil",
-  "subcategoria": "teatro infantil",
-  "descricao": "Peça com humor, música e poesia sobre as raízes culturais do Brasil, com dramaturgia de Cíntia Alves. Classificação livre.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc 24 de Maio - Área de Convicência | 3º andar",
-  "endereco": "Rua 24 de Maio, 109",
-  "bairro": "Centro",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/hoje-tem-festa-no-ceu-3",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
   "titulo": "Brincadeiras da Mata Encantada",
   "categoria": "infantil",
   "subcategoria": "contação brincante",
   "descricao": "História-brincante de faz de conta numa mata encantada, para crianças de até 6 anos e adultos. Dura 30 minutos; senhas no térreo.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "16:00"
@@ -431,74 +201,12 @@
   "promocao": null
  },
  {
-  "titulo": "Festejo de bRinCá!",
-  "categoria": "infantil",
-  "subcategoria": "brincadeira",
-  "descricao": "Roda de cantigas, loas e toadas com movimento do corpo, valorizando o brincar e a cultura popular afro-brasileira, no gramado.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-22",
-    "hora": "11:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Santo André - Gramado Superior",
-  "endereco": "Rua Tamarutaca, 302",
-  "bairro": "Vila Guiomar",
-  "cidade": "Santo André",
-  "regiao": "Grande SP",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/festejo-de-brinca",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Hip Hop Circus",
-  "categoria": "infantil",
-  "subcategoria": "circo",
-  "descricao": "Espetáculo que junta hip hop e circo, celebrando diversidade e inclusão. Dura uma hora, na Tenda Praça.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Campo Limpo - Tenda Praça",
-  "endereco": "Rua Nossa Senhora do Bom Conselho, 120",
-  "bairro": "Campo Limpo",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/hip-hop-circus-5",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
   "titulo": "Brinca Bebê!",
   "categoria": "infantil",
   "subcategoria": "brincadeira sensorial",
   "descricao": "Brincadeiras com pedra, argila, sementes e plantas para bebês de 0 a 3 anos e acompanhantes, em encontros semanais às terças.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-17",
-    "hora": "14:30"
-   },
    {
     "data": "2026-11-24",
     "hora": "14:30"
@@ -628,14 +336,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "15:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "15:00"
    },
@@ -668,30 +368,6 @@
   "descricao": "Brincar livre para crianças de 0 a 6 anos e suas famílias no Espaço de Brincar do Sesc Casa Verde, em dois horários.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "13:00"
-   },
-   {
-    "data": "2026-11-20",
-    "hora": "16:30"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "13:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:30"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "13:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "16:30"
-   },
    {
     "data": "2026-11-28",
     "hora": "13:00"
@@ -758,14 +434,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-21",
-    "hora": "13:30"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "13:30"
-   },
-   {
     "data": "2026-11-28",
     "hora": "13:30"
    },
@@ -825,117 +493,6 @@
   "promocao": null
  },
  {
-  "titulo": "A Cabaça e o Canto Ancestral",
-  "categoria": "infantil",
-  "subcategoria": "contação de histórias",
-  "descricao": "Contação com música em que a cabaça vira instrumento e símbolo da ligação entre natureza e cultura, com o artista Wil Oliveira.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "14:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Interlagos - Hall de Exposições",
-  "endereco": "Avenida Manuel Alves Soares, 1100",
-  "bairro": "Parque Colonial",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/a-cabaca-e-o-canto-ancestral",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Kalunga-Mar",
-  "categoria": "infantil",
-  "subcategoria": "teatro infantil",
-  "descricao": "Espetáculo lúdico e poético sobre diásporas e travessias, visto pelos olhos de uma criança heroína. Gratuito, sem retirada.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Consolação - Convivência – Térreo",
-  "endereco": "Rua Dr. Vila Nova, 245",
-  "bairro": "Vila Buarque",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/kalunga-mar-2",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "O Barco, de Grada Kilomba",
-  "categoria": "exposicao",
-  "subcategoria": "arte contemporânea",
-  "descricao": "Exposição de Grada Kilomba, em parceria com o Instituto Inhotim, no Galpão do Sesc Pompeia.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-09-22",
-  "fim": "2026-11-22",
-  "dias_horarios": "ter a sex 10h-21h; sáb e dom 10h-18h",
-  "local": "Sesc Pompeia - Galpão",
-  "endereco": "Rua Clélia, 93",
-  "bairro": "Pompeia",
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://www.sescsp.org.br/programacao/o-barco-de-grada-kilomba",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Forró CCSP convida Severina",
-  "categoria": "show",
-  "subcategoria": "forró",
-  "descricao": "Show de forró pé de serra, xote e baião ao ar livre no Jardim Sul do CCSP, com entrada gratuita e classificação livre.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "19:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Jardim Sul",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Liberdade",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/forr-ccsp-convida-severina/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "Forró CCSP convida Os Bocadas",
   "categoria": "show",
   "subcategoria": "forró",
@@ -971,10 +528,6 @@
   "descricao": "Prática de yoga e meditação acompanhada de música ao vivo de sitar, nas quintas à noite no Jardim Suspenso. Gratuito.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "18:00"
-   },
    {
     "data": "2026-11-26",
     "hora": "18:00"
@@ -1029,10 +582,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": null
-   },
-   {
     "data": "2026-11-29",
     "hora": null
    }
@@ -1061,14 +610,6 @@
   "descricao": "Companhia Delas conta, com humor e poesia, a vida de Marie Curie da infância às descobertas sobre radioatividade. 60 min; horários a confirmar no site.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": null
-   },
-   {
-    "data": "2026-11-22",
-    "hora": null
-   },
    {
     "data": "2026-11-29",
     "hora": null
@@ -1099,10 +640,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "11:00"
    }
@@ -1131,10 +668,6 @@
   "descricao": "Laboratório criativo para famílias: pintar peixes, águas-vivas e outros bichos do mar com aquarela, brincando com manchas e transparências. Senhas no local 30 min antes.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "14:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "14:00"
@@ -1194,14 +727,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "10:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "10:00"
-   },
-   {
     "data": "2026-11-29",
     "hora": "10:00"
    }
@@ -1230,18 +755,6 @@
   "descricao": "Vivência para crianças de 0 a 3 anos e cuidadores: tecidos viram ninhos, capas e esconderijos para brincar e se mexer juntos. Grátis.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "10:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "10:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "10:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "10:00"
@@ -1276,18 +789,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "10:30"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "10:30"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "10:30"
-   },
-   {
     "data": "2026-11-28",
     "hora": "10:30"
    },
@@ -1321,10 +822,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "14:00"
-   },
-   {
     "data": "2026-11-29",
     "hora": "14:00"
    }
@@ -1347,78 +844,12 @@
   "promocao": null
  },
  {
-  "titulo": "Gran Circo DuNavô",
-  "categoria": "infantil",
-  "subcategoria": "circo",
-  "descricao": "Espetáculo inspirado no circo popular brasileiro, com mágica, equilíbrio, dança e palhaçaria sobre o que é ser família hoje. Grátis.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Mogi das Cruzes - Praça de Convivência",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "Mogi das Cruzes",
-  "regiao": "Grande SP",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/gran-circo-dunavo-4",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
-  "titulo": "Festejo do Sol e da Lua",
-  "categoria": "infantil",
-  "subcategoria": "teatro infantil",
-  "descricao": "Espetáculo do Teatro Terreiro Encantado para crianças de todas as idades e seus cuidadores. 60 min, grátis, sem retirada de ingresso.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "14:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Consolação - Convivência (térreo)",
-  "endereco": "Rua Dr. Vila Nova, 245",
-  "bairro": "Vila Buarque",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/festejo-do-sol-e-da-lua",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
   "titulo": "Inventatório",
   "categoria": "infantil",
   "subcategoria": "vivência de brincar",
   "descricao": "Vivência de brincar e inventar para crianças de até 6 anos, com Rosas Periféricas. 2 horas, grátis, sem retirada de ingresso.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "15:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "15:00"
@@ -1453,10 +884,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "14:00"
-   },
-   {
     "data": "2026-11-29",
     "hora": "14:00"
    }
@@ -1485,18 +912,6 @@
   "descricao": "Encontro de dança da companhia Diladin que celebra danças nascidas nas ruas e a memória do corpo negro periférico. Ao ar livre, 60 min, grátis.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "17:30"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "15:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "15:00"
@@ -1531,10 +946,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "14:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "14:00"
    }
@@ -1564,10 +975,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "14:30"
-   },
-   {
     "data": "2026-11-29",
     "hora": "14:30"
    }
@@ -1596,14 +1003,6 @@
   "descricao": "A Cia. Volta e Meia leva peças coloridas de papelão que se encaixam para as crianças construírem e brincarem livremente. Grátis, 3 horas.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "11:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "11:00"
@@ -1638,18 +1037,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-20",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "16:00"
    },
@@ -1676,45 +1063,12 @@
   "promocao": null
  },
  {
-  "titulo": "Brinquedos de ninar e cantigas para brincar",
-  "categoria": "infantil",
-  "subcategoria": "oficina para famílias",
-  "descricao": "O Coletivo TransBordando Afeto recebe crianças e famílias para criar brinquedos de ninar e brincar com cantigas. Das 13h30 às 17h30, grátis.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "13:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc 24 de Maio - Espaço de Brincar (9º andar)",
-  "endereco": "Rua 24 de Maio, 109",
-  "bairro": "Centro",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": 0.0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/brinquedos-de-ninar-e-cantigas-para-brincar-3",
-  "fonte": "Sesc SP",
-  "promocao": null
- },
- {
   "titulo": "Maré de Histórias",
   "categoria": "infantil",
   "subcategoria": "contação de histórias",
   "descricao": "Oficina de histórias de 1 hora para bebês e crianças até 6 anos acompanhados de um adulto, no Espaço de Brincar. Grátis.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "11:00"
@@ -1816,10 +1170,6 @@
   "descricao": "Oficina para conhecer e jogar jogos de tabuleiro de origem africana, suas histórias e estratégias. Grátis, sem inscrição.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "13:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "13:00"
@@ -1944,35 +1294,6 @@
   "link": "https://www.sescsp.org.br/programacao/quintal-do-curumim-atelie-de-brincadeiras/"
  },
  {
-  "titulo": "Contação de história: A Menina que Queria o Rio",
-  "categoria": "infantil",
-  "subcategoria": "contação de histórias",
-  "descricao": "Sessão gratuita de contação de histórias na Sala de Leitura Infantil do CCSP, por ordem de chegada e conforme a lotação.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Sala de Leitura Infantil Lizette Negreiros",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://centrocultural.sp.gov.br/contacao-de-historia-a-menina-que-queria-o-rio/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "Contação de história: Um mundo dentro de mim",
   "categoria": "infantil",
   "subcategoria": "contação de histórias",
@@ -2060,35 +1381,6 @@
   "promocao": null
  },
  {
-  "titulo": "Piano na Praça com Marcela Mahayana",
-  "categoria": "show",
-  "subcategoria": "piano",
-  "descricao": "Apresentação de piano gratuita ao ar livre na Praça das Bibliotecas do CCSP.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "18:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Praça das Bibliotecas",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/piano-na-praca-com-marcela-mahayana/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "Piano na Praça com Gogô",
   "categoria": "show",
   "subcategoria": "piano",
@@ -2114,64 +1406,6 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/piano-na-praca-com-gogo/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
-  "titulo": "Alaíde Costa & Zé Manoel cantam Johnny Alf",
-  "categoria": "show",
-  "subcategoria": "MPB",
-  "descricao": "Show gratuito em que Alaíde Costa e Zé Manoel cantam o repertório de Johnny Alf na Sala Adoniran Barbosa.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "20:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Sala Adoniran Barbosa",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/alaide-costa-ze-manoel-cantam-johnny-alf/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
-  "titulo": "Casulo",
-  "categoria": "danca",
-  "subcategoria": "performance",
-  "descricao": "Performance gratuita na Área de Convivência do CCSP, por ordem de chegada.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "20:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Área de Convivência",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/casulo/",
   "fonte": "Centro Cultural São Paulo",
   "promocao": null
  },
@@ -2238,35 +1472,6 @@
   "promocao": null
  },
  {
-  "titulo": "Ritmos Caribenhos na Adoniran",
-  "categoria": "show",
-  "subcategoria": "música caribenha",
-  "descricao": "Apresentação gratuita de ritmos caribenhos na Sala Adoniran Barbosa, no horário do almoço.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-17",
-    "hora": "12:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Sala Adoniran Barbosa",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/ritmos-caribenhos-na-adoniran/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "Prisma",
   "categoria": "show",
   "subcategoria": "música",
@@ -2291,30 +1496,6 @@
   "promocao": null
  },
  {
-  "titulo": "Graça",
-  "categoria": "teatro",
-  "subcategoria": "teatro",
-  "descricao": "Espetáculo teatral gratuito no Espaço Ademar Guerra, por ordem de chegada.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-12",
-  "fim": "2026-11-21",
-  "dias_horarios": "diariamente 19h30 até 20/11; sáb 21/11 às 17h30",
-  "local": "Centro Cultural São Paulo - Espaço Ademar Guerra",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/graca/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "O Caso Lorena",
   "categoria": "teatro",
   "subcategoria": "teatro",
@@ -2322,8 +1503,8 @@
   "tipo_data": "temporada",
   "datas": null,
   "inicio": "2026-11-12",
-  "fim": "2026-11-21",
-  "dias_horarios": "20h30 (a partir de 15/11, 18h; sáb 21/11, 20h30)",
+  "fim": "2026-11-28",
+  "dias_horarios": "diariamente, 20h30",
   "local": "Centro Cultural São Paulo - Sala Jardel Filho",
   "endereco": "Rua Vergueiro, 1000",
   "bairro": "Paraíso",
@@ -2335,30 +1516,6 @@
   "faixa_etaria": null,
   "bom_para_criancas": false,
   "link": "https://centrocultural.sp.gov.br/o-caso-lorena/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
-  "titulo": "Mix Brasil 2026",
-  "categoria": "cinema",
-  "subcategoria": "mostra de cinema",
-  "descricao": "Mostra de cinema gratuita nas salas Lima Barreto e Paulo Emílio; ingressos retirados na bilheteria uma hora antes.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-12",
-  "fim": "2026-11-22",
-  "dias_horarios": "diariamente; horários por sessão",
-  "local": "Centro Cultural São Paulo - Salas Lima Barreto e Paulo Emílio",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Paraíso",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/mix-brasil-2026/",
   "fonte": "Centro Cultural São Paulo",
   "promocao": null
  },
@@ -2387,45 +1544,12 @@
   "promocao": null
  },
  {
-  "titulo": "Afromix, a dança completa",
-  "categoria": "danca",
-  "subcategoria": "aula de dança",
-  "descricao": "Aula aberta de dança no CCSP, com entrada gratuita por ordem de chegada.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-18",
-    "hora": "18:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural São Paulo - Área de Convivência",
-  "endereco": "Rua Vergueiro, 1000",
-  "bairro": "Liberdade",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
-  "link": "https://centrocultural.sp.gov.br/afromix-a-danca-completa/",
-  "fonte": "Centro Cultural São Paulo",
-  "promocao": null
- },
- {
   "titulo": "Aulas de forró com Thamyra Miranda",
   "categoria": "danca",
   "subcategoria": "forró",
   "descricao": "Aulas semanais de forró no Jardim Sul, gratuitas e por ordem de chegada.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "18:00"
-   },
    {
     "data": "2026-11-26",
     "hora": "18:00"
@@ -2456,10 +1580,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-19",
-    "hora": "19:30"
-   },
-   {
     "data": "2026-11-26",
     "hora": "19:30"
    }
@@ -2489,9 +1609,9 @@
   "tipo_data": "temporada",
   "datas": [],
   "inicio": "2026-11-16",
-  "fim": "2026-11-22",
+  "fim": "2026-11-29",
   "dias_horarios": "diariamente, 10h às 20h",
-  "local": "Centro Cultural São Paulo - Sala Tarsila do Amaral e Sala Jardel Filho",
+  "local": "Centro Cultural São Paulo - Sala Tarsila do Amaral",
   "endereco": "Rua Vergueiro, 1000",
   "bairro": "Liberdade",
   "cidade": "São Paulo",
@@ -2513,10 +1633,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "11:00"
    },
@@ -2526,6 +1642,10 @@
    },
    {
     "data": "2026-12-12",
+    "hora": "11:00"
+   },
+   {
+    "data": "2026-12-19",
     "hora": "11:00"
    }
   ],
@@ -2547,23 +1667,100 @@
   "promocao": null
  },
  {
-  "titulo": "Oficina Stop Motion para crianças no CineSesc",
-  "categoria": "infantil",
-  "subcategoria": "oficina de animação",
-  "descricao": "Oficina de 60 minutos de animação em stop motion no hall do CineSesc, antes da sessão de Castelo Rá-Tim-Bum em 35mm.",
+  "titulo": "Skamoondongos",
+  "categoria": "show",
+  "subcategoria": "ska",
+  "descricao": "Show de ska gratuito no CCSP, por ordem de chegada.",
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-22",
-    "hora": "14:00"
+    "data": "2026-11-24",
+    "hora": "19:00"
    }
   ],
   "inicio": null,
   "fim": null,
   "dias_horarios": null,
-  "local": "CineSesc",
-  "endereco": "Rua Augusta, 2075",
-  "bairro": "Cerqueira César",
+  "local": "Centro Cultural São Paulo",
+  "endereco": "Rua Vergueiro, 1000",
+  "bairro": "Paraíso",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://centrocultural.sp.gov.br/skamoondongos/",
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "Izzy Gordon canta Jorge Aragão \"Sementes da Tamarineira\"",
+  "categoria": "show",
+  "subcategoria": "MPB",
+  "descricao": "Show em homenagem à obra de Jorge Aragão na Sala Adoniran Barbosa, com entrada gratuita.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-11-25",
+    "hora": "20:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Centro Cultural São Paulo - Sala Adoniran Barbosa",
+  "endereco": "Rua Vergueiro, 1000",
+  "bairro": "Paraíso",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://centrocultural.sp.gov.br/izzy-gordon-canta-jorge-aragao-sementes-da-tamarineira/",
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "8º Festival Nicho",
+  "categoria": "cinema",
+  "subcategoria": "festival de cinema",
+  "descricao": "Mostra de cinema gratuita na Sala Lima Barreto e no Jardim Suspenso; ingressos retirados na bilheteria uma hora antes.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-11-24",
+  "fim": "2026-11-27",
+  "dias_horarios": "diariamente até 27/11 (horários no site)",
+  "local": "Centro Cultural São Paulo - Sala Lima Barreto e Jardim Suspenso",
+  "endereco": "Rua Vergueiro, 1000",
+  "bairro": "Paraíso",
+  "cidade": "São Paulo",
+  "regiao": "Zona Sul",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": null,
+  "bom_para_criancas": false,
+  "link": "https://centrocultural.sp.gov.br/8o-festival-nicho/",
+  "fonte": "Centro Cultural São Paulo",
+  "promocao": null
+ },
+ {
+  "titulo": "João, Joãozinho, Joãozito",
+  "categoria": "infantil",
+  "subcategoria": "teatro musical com bonecos",
+  "descricao": "Musical com 19 bonecos feitos à mão e músicas caipiras sobre a infância de Guimarães Rosa, menino curioso do sertão. Entrada gratuita.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": "2026-08-29",
+  "fim": "2026-12-13",
+  "dias_horarios": "qui e sex 11h; sáb e dom 15h",
+  "local": "Teatro do SESI-SP",
+  "endereco": "Avenida Paulista, 1313",
+  "bairro": "Bela Vista",
   "cidade": "São Paulo",
   "regiao": "Centro",
   "preco_min": 0,
@@ -2571,8 +1768,8 @@
   "gratuito": true,
   "faixa_etaria": null,
   "bom_para_criancas": true,
-  "link": "https://www.sescsp.org.br/programacao/oficina-stop-motion/",
-  "fonte": "Sesc SP",
+  "link": "https://catracalivre.com.br/agenda/musical-joao-joaozinho-joaozito-teatro-do-sesi-sp/",
+  "fonte": "Catraca Livre",
   "promocao": null
  }
 ]

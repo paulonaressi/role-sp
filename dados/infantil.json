@@ -1,34 +1,5 @@
 [
  {
-  "titulo": "Chegada do Papai Noel - Mogi Shopping",
-  "categoria": "infantil",
-  "subcategoria": "Natal / chegada do Papai Noel",
-  "descricao": "Atividades às 15h, teatro às 16h e chegada do Papai Noel às 17h. Inscrição gratuita pelo app, conforme disponibilidade.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "17:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Mogi Shopping",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "Mogi das Cruzes",
-  "regiao": "Grande SP",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://portalg.com.br/chegada-papai-noel-shoppings-sp-2026/",
-  "fonte": "Portal G",
-  "promocao": null
- },
- {
   "titulo": "Family Fest by Hasbro",
   "categoria": "infantil",
   "subcategoria": "experiência imersiva",
@@ -155,53 +126,12 @@
   "promocao": null
  },
  {
-  "titulo": "Candlelight Babies",
-  "categoria": "infantil",
-  "subcategoria": "concerto para bebês",
-  "descricao": "Concerto de música clássica à luz de velas em volume adequado para pequenos, com área de movimento acolchoada. Ingresso inclui um adulto e uma criança até 36 meses.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "10:30"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "12:15"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Grand Mercure São Paulo Ibirapuera",
-  "endereco": "Rua Sena Madureira, 1355",
-  "bairro": "Ibirapuera",
-  "cidade": "São Paulo",
-  "regiao": "Zona Sul",
-  "preco_min": 45.0,
-  "preco_max": 285.0,
-  "gratuito": false,
-  "faixa_etaria": "0 a 3 anos",
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/candlelight-babies-sp/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
   "titulo": "O Violinista Mosca Morta",
   "categoria": "infantil",
   "subcategoria": "palhaçaria e música",
   "descricao": "Espetáculo de palhaçaria com música ao vivo, com Pedro Caroca. Crianças até 2 anos não pagam.",
   "tipo_data": "unica",
   "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "15:00"
-   },
    {
     "data": "2026-11-28",
     "hora": "15:00"
@@ -225,64 +155,6 @@
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/teatro-b32-programacao-infantil-abril-2025/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Musical in Concert: Temas de O Rei Leão",
-  "categoria": "infantil",
-  "subcategoria": "show musical",
-  "descricao": "Concerto com canções do desenho O Rei Leão numa tarde de sábado em família. Crianças até 2 anos não pagam.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Teatro B32",
-  "endereco": "Av. Brigadeiro Faria Lima, 3.732",
-  "bairro": "Itaim Bibi",
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": 40.0,
-  "preco_max": null,
-  "gratuito": false,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/teatro-b32-programacao-infantil-abril-2025/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Encantaria Brincante (Mafê)",
-  "categoria": "infantil",
-  "subcategoria": "espetáculo / apresentação aberta",
-  "descricao": "Apresentação aberta do espetáculo infantil da artista Mafê, com entrada gratuita.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Centro Cultural Olido",
-  "endereco": "Av. São João, 473",
-  "bairro": "Centro",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/pecas-infantis-cartaz-sao-paulo/",
   "fonte": "São Paulo para Crianças",
   "promocao": null
  },
@@ -388,64 +260,6 @@
   "promocao": null
  },
  {
-  "titulo": "Circuito de Árvores Empresariais IDEA",
-  "categoria": "infantil",
-  "subcategoria": "acendimento de árvores",
-  "descricao": "Circuito de árvores de Natal montadas por empresas no centro histórico, com abertura em 21/11 às 20h.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "20:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Rua José Lucas e Coreto da Matriz",
-  "endereco": null,
-  "bairro": "Centro Histórico",
-  "cidade": "Atibaia",
-  "regiao": "Interior/Litoral",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://www.passeios.org/eventos/natal-perto-de-sao-paulo-em-2026/",
-  "fonte": "Passeios",
-  "promocao": null
- },
- {
-  "titulo": "Por Trás dos Panos - Teatro Infantil",
-  "categoria": "infantil",
-  "subcategoria": "visita aos bastidores",
-  "descricao": "Visita guiada aos bastidores do Teatro do Sesi para crianças com responsáveis: história do teatro e como se monta uma peça. Com Libras; reserva gratuita.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "13:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Teatro do SESI-SP",
-  "endereco": "Av. Paulista, 1.313 (Centro Cultural Fiesp)",
-  "bairro": "Bela Vista",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": "Livre",
-  "bom_para_criancas": true,
-  "link": "https://www.sesisp.org.br/evento/cc3a2838-aa2f-45d9-869b-ca3e057944a6/por-tras-dos-panos-teatro-infantil",
-  "fonte": "Sesi SP",
-  "promocao": null
- },
- {
   "titulo": "Árvore de Natal Coca-Cola no Parque Villa-Lobos",
   "categoria": "infantil",
   "subcategoria": "Natal / árvore iluminada",
@@ -513,30 +327,6 @@
   "gratuito": false,
   "faixa_etaria": "Livre",
   "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/?p=298242",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "O Natal de Dom Quixote e Sancho Pança",
-  "categoria": "infantil",
-  "subcategoria": "teatro de Natal",
-  "descricao": "Espetáculo natalino com a dupla de Cervantes em temporada curta no Teatro Mooca.",
-  "tipo_data": "temporada",
-  "datas": null,
-  "inicio": "2026-11-08",
-  "fim": "2026-11-20",
-  "dias_horarios": null,
-  "local": "Teatro Mooca",
-  "endereco": "Rua Capitão Pacheco e Chaves, 313",
-  "bairro": "Mooca",
-  "cidade": "São Paulo",
-  "regiao": "Zona Leste",
-  "preco_min": null,
-  "preco_max": null,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": false,
   "link": "https://saopauloparacriancas.com.br/?p=298242",
   "fonte": "São Paulo para Crianças",
   "promocao": null
@@ -907,51 +697,6 @@
   "promocao": null
  },
  {
-  "titulo": "A Bela Adormecida (Sesc Bom Retiro)",
-  "categoria": "infantil",
-  "subcategoria": "teatro",
-  "descricao": "Adaptação do conto clássico ambientada num reino africano (Festival Omodé).",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-19",
-    "hora": "10:00"
-   },
-   {
-    "data": "2026-11-19",
-    "hora": "15:00"
-   },
-   {
-    "data": "2026-11-20",
-    "hora": "12:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "12:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "12:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Bom Retiro",
-  "endereco": "Alameda Nothmann, 185",
-  "bairro": "Campos Elíseos",
-  "cidade": "São Paulo",
-  "regiao": "Centro",
-  "preco_min": 12.0,
-  "preco_max": 40.0,
-  "gratuito": false,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
   "titulo": "Rei Menino (Sesc Bom Retiro)",
   "categoria": "infantil",
   "subcategoria": "teatro",
@@ -979,159 +724,6 @@
   "preco_max": 40.0,
   "gratuito": false,
   "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Obompó-Roponga: A Encantaria das Árvores (Sesc Pompeia)",
-  "categoria": "infantil",
-  "subcategoria": "teatro",
-  "descricao": "Espetáculo gratuito inspirado num conto bantu sobre a árvore da vida.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-21",
-    "hora": "16:30"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Pompeia",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Boca-Piu (Sesc Casa Verde)",
-  "categoria": "infantil",
-  "subcategoria": "teatro",
-  "descricao": "Espetáculo sobre coragem, amizade e reconstrução coletiva; ingressos grátis distribuídos a partir do meio-dia.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Casa Verde",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": "Zona Norte",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Aguaceiro de Menino Bentu (Sesc Pinheiros)",
-  "categoria": "infantil",
-  "subcategoria": "teatro",
-  "descricao": "Espetáculo sobre a busca do menino Bentu por água; ingressos grátis retirados 30 min antes.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "11:00"
-   },
-   {
-    "data": "2026-11-20",
-    "hora": "15:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Pinheiros",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Paulo",
-  "regiao": "Zona Oeste",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": null,
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Corpo Brinquedo (Sesc São Caetano)",
-  "categoria": "infantil",
-  "subcategoria": "oficina",
-  "descricao": "Crianças e adultos contornam o corpo em papel gigante e brincam com o desenho; senhas 30 min antes.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-20",
-    "hora": "11:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc São Caetano",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "São Caetano do Sul",
-  "regiao": "Grande SP",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": "3 a 6 anos",
-  "bom_para_criancas": true,
-  "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
-  "fonte": "São Paulo para Crianças",
-  "promocao": null
- },
- {
-  "titulo": "Festejo de bRinCá! (Sesc Santo André)",
-  "categoria": "infantil",
-  "subcategoria": "brincar musical",
-  "descricao": "Brincadeiras inspiradas no coco de roda, maracatu e ciranda.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-22",
-    "hora": "11:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Sesc Santo André",
-  "endereco": null,
-  "bairro": null,
-  "cidade": "Santo André",
-  "regiao": "Grande SP",
-  "preco_min": 0.0,
-  "preco_max": null,
-  "gratuito": true,
-  "faixa_etaria": "até 6 anos",
   "bom_para_criancas": true,
   "link": "https://saopauloparacriancas.com.br/programacao-sescs/",
   "fonte": "São Paulo para Crianças",
@@ -1264,39 +856,6 @@
  },
  {
   "categoria": "infantil",
-  "subcategoria": "dança infantil",
-  "descricao": "Espetáculo de dança em que folhas, sementes, galhos e areia estimulam o movimento. Sessão de domingo com audiodescrição. Ingressos por ordem de chegada.",
-  "tipo_data": "unica",
-  "datas": [
-   {
-    "data": "2026-11-21",
-    "hora": "16:00"
-   },
-   {
-    "data": "2026-11-22",
-    "hora": "16:00"
-   }
-  ],
-  "inicio": null,
-  "fim": null,
-  "dias_horarios": null,
-  "local": "Teatro Municipal Alfredo Mesquita",
-  "endereco": "Avenida Santos Dumont, 1.770",
-  "bairro": "Santana",
-  "cidade": "São Paulo",
-  "regiao": "Zona Norte",
-  "preco_min": 0,
-  "preco_max": 0,
-  "gratuito": true,
-  "faixa_etaria": "a partir de 3 anos",
-  "bom_para_criancas": true,
-  "link": "https://abcdoabc.com.br/balangandanca-peca-infantil-gratuita-zona-norte/",
-  "fonte": "ABC do ABC",
-  "promocao": null,
-  "titulo": "Presente! feito da gente (Balangandança Cia.)"
- },
- {
-  "categoria": "infantil",
   "subcategoria": "espaço infantil",
   "descricao": "Espaço com mobiliário colorido para brincar e conviver no 9º andar do Itaú Cultural, com tradução em Libras. Entrada gratuita.",
   "tipo_data": "temporada",
@@ -1351,10 +910,6 @@
   "tipo_data": "unica",
   "datas": [
    {
-    "data": "2026-11-21",
-    "hora": "15:00"
-   },
-   {
     "data": "2026-11-28",
     "hora": "15:00"
    },
@@ -1402,6 +957,63 @@
   "bom_para_criancas": true,
   "link": "https://catracalivre.com.br/vila-mundo/natal-do-shopping-taboao-tem-oficina-do-papai-noel-arvore-de-10-metros-e-tunel-iluminado/",
   "fonte": "Catraca Livre",
+  "promocao": null
+ },
+ {
+  "titulo": "Expresso de Natal - trem para Paranapiacaba",
+  "categoria": "infantil",
+  "subcategoria": "passeio de trem temático",
+  "descricao": "Viagem de trem da Estação da Luz a Paranapiacaba com tema natalino, encontro com o Papai Noel e cartinhas. Menores de 2 anos viajam no colo, sem pagar.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-12-06",
+    "hora": "08:30"
+   },
+   {
+    "data": "2026-12-13",
+    "hora": "08:30"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Estação da Luz (saída)",
+  "endereco": null,
+  "bairro": "Luz",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": null,
+  "preco_max": null,
+  "gratuito": false,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://www.guiadasemana.com.br/sao-paulo/na-cidade/evento/expresso-de-natal-2026-trem-paranapiacaba-papai-noel",
+  "fonte": "Guia da Semana",
+  "promocao": null
+ },
+ {
+  "titulo": "Natal Iluminado (Prefeitura de São Paulo)",
+  "categoria": "infantil",
+  "subcategoria": "Natal na cidade",
+  "descricao": "Programação gratuita de Natal espalhada pela cidade, com mais de 300 atrações, cenários, música e pista de patinação no gelo no Largo São Bento, até 6 de janeiro.",
+  "tipo_data": "temporada",
+  "datas": null,
+  "inicio": null,
+  "fim": "2027-01-06",
+  "dias_horarios": null,
+  "local": "Vários pontos da cidade",
+  "endereco": null,
+  "bairro": null,
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://prefeitura.sp.gov.br/w/natal-iluminado-re%C3%BAne-cen%C3%A1rios-monumentais-proje%C3%A7%C3%B5es-mapeadas-%C3%B4nibus-decorados-e-mais-de-300-atra%C3%A7%C3%B5es-at%C3%A9-6-de-janeiro",
+  "fonte": "Prefeitura de São Paulo",
   "promocao": null
  }
 ]

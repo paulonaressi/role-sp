@@ -72,10 +72,10 @@
     "gratis_crianca": {
       "regra": "ingressos valem a partir de 2 anos; menores de 2 só apresentam documento",
       "idade_max_meses": 23,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": null,
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Zoológico de São Paulo",
@@ -102,10 +102,10 @@
     "gratis_crianca": {
       "regra": "0 a 3 anos, 11 meses e 29 dias não pagam (com documento)",
       "idade_max_meses": 47,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": null,
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Simba Safari (Zoo Safari)",
@@ -132,10 +132,10 @@
     "gratis_crianca": {
       "regra": "até 3 anos, 11 meses e 30 dias não pagam; 4 a 13 anos pagam meia",
       "idade_max_meses": 47,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": null,
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Aquário de São Paulo",
@@ -162,16 +162,16 @@
     "gratis_crianca": {
       "regra": "ingresso infantil de 2 a 12 anos; site oficial não cita gratuidade para menores de 2, confirme",
       "idade_max_meses": 23,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": {
       "texto": "Ingresso promocional online: adulto R$ 150, infantil (2 a 12) R$ 120; cheio R$ 300. Promo segunda-feira R$ 120. Visitas até 06/12.",
       "validade": "2026-12-06",
       "link": "https://lojadoaquariodesp.com.br/",
       "fonte": "Aquário de SP (loja oficial)",
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Parque da Mônica (Shopping SP Market)",
@@ -198,9 +198,10 @@
     "gratis_crianca": {
       "regra": "até 1 ano e 11 meses não pagam (retirar na bilheteria com documento)",
       "idade_max_meses": 23,
-      "verificado_em": "2026-11-04"
+      "verificado_em": "2026-11-23"
     },
-    "promocao": null
+    "promocao": null,
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Cia dos Bichos (fazendinha)",
@@ -211,7 +212,7 @@
     "datas": [],
     "inicio": null,
     "fim": null,
-    "dias_horarios": "Sáb, dom e feriados 10h-17h; em chuva, ligar antes. Só dinheiro e débito",
+    "dias_horarios": "Sáb, dom e feriados 10h-17h; só dinheiro e débito",
     "local": "Cia dos Bichos",
     "endereco": "Estrada do Capuava, 2990",
     "bairro": null,
@@ -227,9 +228,10 @@
     "gratis_crianca": {
       "regra": "menores de 2 anos completos não pagam",
       "idade_max_meses": 23,
-      "verificado_em": "2026-11-04"
+      "verificado_em": "2026-11-23"
     },
-    "promocao": null
+    "promocao": null,
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Mini Fazenda Pet Zoo (fazendinha)",
@@ -285,10 +287,10 @@
     "gratis_crianca": {
       "regra": "até 1 ano e 11 meses não pagam",
       "idade_max_meses": 23,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": null,
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Fazendinha Velho Jou (Mairiporã)",
@@ -648,16 +650,16 @@
     "gratis_crianca": {
       "regra": "crianças até 7 anos não pagam",
       "idade_max_meses": 83,
-      "verificado_em": "2026-11-16"
+      "verificado_em": "2026-11-23"
     },
     "promocao": null,
-    "verificado_em": "2026-11-16"
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Museu das Ilusões (Shopping SP Market)",
     "categoria": "infantil",
     "subcategoria": "museu",
-    "descricao": "Museu de ilusões de ótica com ingresso por horário agendado, no SP Market. Divertido para crianças maiores; para 3-4 anos é só razoável. Preço não confirmado.",
+    "descricao": "Museu de ilusões de ótica com ingresso por horário agendado, no SP Market. Divertido para crianças maiores; para 3-4 anos é só razoável. Inteira R$90, meia R$45; menores de 4 anos não pagam.",
     "tipo_data": "permanente",
     "datas": [],
     "inicio": null,
@@ -668,8 +670,8 @@
     "bairro": "Jurubatuba",
     "cidade": "São Paulo",
     "regiao": "Zona Sul",
-    "preco_min": null,
-    "preco_max": null,
+    "preco_min": 45.0,
+    "preco_max": 90.0,
     "gratuito": false,
     "faixa_etaria": "Livre",
     "bom_para_criancas": false,
@@ -678,9 +680,10 @@
     "gratis_crianca": {
       "regra": "menores de 4 anos não pagam",
       "idade_max_meses": 47,
-      "verificado_em": "2026-11-03"
+      "verificado_em": "2026-11-23"
     },
-    "promocao": null
+    "promocao": null,
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Action Park (parque indoor)",
@@ -755,9 +758,10 @@
     "gratis_crianca": {
       "regra": "crianças com 10 anos ou menos não pagam (cortesia na bilheteria)",
       "idade_max_meses": 131,
-      "verificado_em": "2026-11-04"
+      "verificado_em": "2026-11-23"
     },
-    "promocao": null
+    "promocao": null,
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Parque Ibirapuera",
@@ -914,9 +918,10 @@
     "gratis_crianca": {
       "regra": "menores de 6 anos não pagam",
       "idade_max_meses": 71,
-      "verificado_em": "2026-11-04"
+      "verificado_em": "2026-11-23"
     },
-    "promocao": null
+    "promocao": null,
+    "verificado_em": "2026-11-23"
   },
   {
     "titulo": "Museu do Futebol: exposição principal",
