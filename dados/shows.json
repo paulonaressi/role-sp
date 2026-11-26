@@ -1600,5 +1600,92 @@
     "link": "https://www.baressp.com.br/eventos/theatro-municipal-de-sao-paulo-encerra-temporada-de-2026-com-concertos-natalinos",
     "fonte": "BaresSP",
     "promocao": null
+  },
+  {
+    "titulo": "Puro Suco, com Emicida, Clara Lima e Douglas Germano",
+    "categoria": "show",
+    "subcategoria": "MPB",
+    "descricao": "Show Puro Suco na Casa Natura Musical, com participações de Emicida, Clara Lima e Douglas Germano.",
+    "tipo_data": "unica",
+    "datas": [
+      {
+        "data": "2026-12-05",
+        "hora": null
+      }
+    ],
+    "inicio": null,
+    "fim": null,
+    "dias_horarios": null,
+    "local": "Casa Natura Musical",
+    "endereco": "Rua Artur de Azevedo, 2134",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "regiao": "Zona Oeste",
+    "preco_min": null,
+    "preco_max": null,
+    "gratuito": false,
+    "faixa_etaria": null,
+    "bom_para_criancas": false,
+    "link": "https://casanaturamusical.com.br/eventos/puro-suco/",
+    "fonte": "Casa Natura Musical",
+    "promocao": null
+  },
+  {
+    "titulo": "FBC: Skarnaval",
+    "categoria": "show",
+    "subcategoria": "Ska",
+    "descricao": "Show da banda FBC com o Skarnaval na Casa Natura Musical.",
+    "tipo_data": "unica",
+    "datas": [
+      {
+        "data": "2026-12-12",
+        "hora": null
+      }
+    ],
+    "inicio": null,
+    "fim": null,
+    "dias_horarios": null,
+    "local": "Casa Natura Musical",
+    "endereco": "Rua Artur de Azevedo, 2134",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "regiao": "Zona Oeste",
+    "preco_min": null,
+    "preco_max": null,
+    "gratuito": false,
+    "faixa_etaria": null,
+    "bom_para_criancas": false,
+    "link": "https://casanaturamusical.com.br/eventos/fbc/",
+    "fonte": "Casa Natura Musical",
+    "promocao": null
+  },
+  {
+    "titulo": "Vanessa Moreno Visita Djavan",
+    "categoria": "show",
+    "subcategoria": "MPB",
+    "descricao": "Vanessa Moreno apresenta um tributo ao repertório de Djavan na Casa Natura Musical.",
+    "tipo_data": "unica",
+    "datas": [
+      {
+        "data": "2026-12-13",
+        "hora": null
+      }
+    ],
+    "inicio": null,
+    "fim": null,
+    "dias_horarios": null,
+    "local": "Casa Natura Musical",
+    "endereco": "Rua Artur de Azevedo, 2134",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "regiao": "Zona Oeste",
+    "preco_min": null,
+    "preco_max": null,
+    "gratuito": false,
+    "faixa_etaria": null,
+    "bom_para_criancas": false,
+    "link": "https://casanaturamusical.com.br/eventos/vanessa-moreno-visita-djavan-2/",
+    "fonte": "Casa Natura Musical",
+    "promocao": null
   }
 ]

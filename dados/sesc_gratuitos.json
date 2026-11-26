@@ -1771,5 +1771,34 @@
   "link": "https://catracalivre.com.br/agenda/musical-joao-joaozinho-joaozito-teatro-do-sesi-sp/",
   "fonte": "Catraca Livre",
   "promocao": null
+ },
+ {
+  "titulo": "Cidade-Brinquedo (Grupo Esparrama)",
+  "categoria": "infantil",
+  "subcategoria": "teatro de palhaços",
+  "descricao": "Palhaços negociam para transformar a cidade num lugar onde todos possam brincar, com humor e participação do público. Fala de convivência, limites e direito à brincadeira.",
+  "tipo_data": "unica",
+  "datas": [
+   {
+    "data": "2026-12-05",
+    "hora": "17:00"
+   }
+  ],
+  "inicio": null,
+  "fim": null,
+  "dias_horarios": null,
+  "local": "Sesc Consolação",
+  "endereco": "Rua Doutor Vila Nova, 245",
+  "bairro": "Vila Buarque",
+  "cidade": "São Paulo",
+  "regiao": "Centro",
+  "preco_min": 0,
+  "preco_max": 0,
+  "gratuito": true,
+  "faixa_etaria": "Livre",
+  "bom_para_criancas": true,
+  "link": "https://saopauloparacriancas.com.br/grupo-esparrama-sp/",
+  "fonte": "São Paulo para Crianças",
+  "promocao": null
  }
 ]
